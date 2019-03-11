@@ -29,8 +29,23 @@
           foreach($array as $row) //Extract the Array Values by using Foreach Loop
           {
 
+           $t1 = str_replace("'","",$row["title"]);
+           $t2 = str_replace('"','',$t1);
+           $t3 = str_replace(";","",$t2);
 
-           $query .= "INSERT INTO games(title, description, genre, systems) VALUES ('".$row["title"]."', '".$row["description"]."', '".$row["genres"][0]["genre_name"]."', '".$row["platforms"][0]["platform_name"].", ".$row["platforms"][1]["platform_name"].", ".$row["platforms"][2]["platform_name"].", ".$row["platforms"][3]["platform_name"].", ".$row["platforms"][4]["platform_name"].", ".$row["platforms"][5]["platform_name"].", ".$row["platforms"][6]["platform_name"].", ".$row["platforms"][7]["platform_name"].", ".$row["platforms"][8]["platform_name"].", ".$row["platforms"][9]["platform_name"].", ".$row["platforms"][10]["platform_name"].", ".$row["platforms"][11]["platform_name"].", ".$row["platforms"][12]["platform_name"].", ".$row["platforms"][13]["platform_name"]."'); <br>";  // Make Multiple Insert Query
+           $d1 = str_replace("'","",$row["description"]);
+           $d2 = str_replace('"','',$d1);
+           $d3 = str_replace(";","",$d2);
+
+           $platforms = $row["platforms"][0]["platform_name"] . ", " . $row["platforms"][1]["platform_name"] . ", " . $row["platforms"][2]["platform_name"] . ", " . $row["platforms"][3]["platform_name"] . ", " . $row["platforms"][4]["platform_name"] . ", " . $row["platforms"][5]["platform_name"] . ", " . $row["platforms"][6]["platform_name"] . ", " . $row["platforms"][7]["platform_name"] . ", " . $row["platforms"][8]["platform_name"]  . ", " . $row["platforms"][9]["platform_name"] . ", " . $row["platforms"][10]["platform_name"] . ", " . $row["platforms"][11]["platform_name"] . ", " . $row["platforms"][12]["platform_name"] . ", " . $row["platforms"][13]["platform_name"];
+
+           $year = $row["platforms"][0]["first_release_date"];
+           $rating =$row["moby_score"];
+           $image =$row["sample_cover"]["image"];
+           $thumb =$row["sample_cover"]["thumbnail_image"];
+
+           $query .= "INSERT INTO games(title, description, genre, platforms, year_released, rating, image_large, thumbnail_image) VALUES ('".$t3."', '".$d3."', '".$row["genres"][0]["genre_name"]."', '".$platforms."', '".$year."', '".$rating."', '".$image."', '".$thumb."'); <br>";  // Make Multiple Insert Query
+
            $nq = str_replace(" ,", "", $query);
            $n = str_replace(", ')", "')", $nq);
           }
