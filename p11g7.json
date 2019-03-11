@@ -1,0 +1,3003 @@
+[
+    {
+      "description": "The Mad Overlord Trebor was once only power-mad, but went off the deep end after he acquired a magical amulet of immense power, only to have it stolen from him by his nemesis, the evil archmage Werdna. Werdna, not quite sure how to use the amulet properly, accidentally causes an earthquake which creates a ten-level dungeon beneath Trebor's castle. To avoid looking silly, Werdna declares the dungeon to be the new lair for him and his monster hordes. Trebor, not to be outdone, declares the labyrinth his new Proving Grounds where adventurers must prove themselves for membership in his elite honor guard, and incidentally retrieve his amulet in the process.\n\nThe first <i>Wizardry</i> was one of the original dungeon-crawling role-playing games, and stands along with  Ultima and  Might & Magic as one of the defining staples of the genre.\n\nThe player generates and control a party of up to six different adventurers, choosing from four races (humans, elves, dwarves, gnomes and hobbits), three alignments (good, neutral and evil), and four basic classes (fighter, priest, mage and thief). These can later evolve into elite classes (bishop: priest with mage spells; samurai: fighter with mage spells; lord: fighter with priest spells, and ninja: fighter with thief abilities) if they meet the necessary level requirements. After outfitting the party with basic weapons and armor, the player sends it into a 3D vector maze-like dungeon to fight monsters in turn-based combat and find treasure.",
+      "game_id": 1209,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 3.6,
+      "moby_url": "http://www.mobygames.com/game/wizardry-proving-grounds-of-the-mad-overlord",
+      "num_votes": 116,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1981-09",
+          "platform_id": 31,
+          "platform_name": "Apple II"
+        },
+        {
+          "first_release_date": "1984",
+          "platform_id": 4,
+          "platform_name": "PC Booter"
+        },
+        {
+          "first_release_date": "1985",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "1985-11",
+          "platform_id": 126,
+          "platform_name": "FM-7"
+        },
+        {
+          "first_release_date": "1985-11-15",
+          "platform_id": 95,
+          "platform_name": "PC-98"
+        },
+        {
+          "first_release_date": "1985-12",
+          "platform_id": 94,
+          "platform_name": "PC-88"
+        },
+        {
+          "first_release_date": "1986-01",
+          "platform_id": 121,
+          "platform_name": "Sharp X1"
+        },
+        {
+          "first_release_date": "1987",
+          "platform_id": 57,
+          "platform_name": "MSX"
+        },
+        {
+          "first_release_date": "1987",
+          "platform_id": 61,
+          "platform_name": "Commodore 128"
+        },
+        {
+          "first_release_date": "1987",
+          "platform_id": 27,
+          "platform_name": "Commodore 64"
+        },
+        {
+          "first_release_date": "1987-12-22",
+          "platform_id": 22,
+          "platform_name": "NES"
+        },
+        {
+          "first_release_date": "2001-02-23",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2003-03-01",
+          "platform_id": 49,
+          "platform_name": "WonderSwan Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1205,
+        "image": "http://www.mobygames.com/images/covers/l/22141-wizardry-proving-grounds-of-the-mad-overlord-apple-ii-front-cover.jpg",
+        "platforms": [
+          "Apple II"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/22141-wizardry-proving-grounds-of-the-mad-overlord-apple-ii-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Intro",
+          "height": 383,
+          "image": "http://www.mobygames.com/images/shots/l/43906-wizardry-proving-grounds-of-the-mad-overlord-apple-ii-screenshot.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/43906-wizardry-proving-grounds-of-the-mad-overlord-apple-ii-screenshot.gif",
+          "width": 560
+        },
+        {
+          "caption": "Copyright",
+          "height": 386,
+          "image": "http://www.mobygames.com/images/shots/l/43908-wizardry-proving-grounds-of-the-mad-overlord-apple-ii-screenshot.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/43908-wizardry-proving-grounds-of-the-mad-overlord-apple-ii-screenshot.gif",
+          "width": 562
+        },
+        {
+          "caption": "Your Party",
+          "height": 386,
+          "image": "http://www.mobygames.com/images/shots/l/43909-wizardry-proving-grounds-of-the-mad-overlord-apple-ii-screenshot.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/43909-wizardry-proving-grounds-of-the-mad-overlord-apple-ii-screenshot.gif",
+          "width": 562
+        },
+        {
+          "caption": "Entrance to the \"Maze\"",
+          "height": 386,
+          "image": "http://www.mobygames.com/images/shots/l/43910-wizardry-proving-grounds-of-the-mad-overlord-apple-ii-screenshot.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/43910-wizardry-proving-grounds-of-the-mad-overlord-apple-ii-screenshot.gif",
+          "width": 562
+        }
+      ],
+      "title": "Wizardry: Proving Grounds of the Mad Overlord"
+    },
+    {
+      "description": "<i>Wizardry: Knight of Diamonds</i> is the sequel to Wizardry: Proving Grounds of the Mad Overlord. It is an early example of an expansion pack, requiring the player to have the original Wizardry installed to play. It uses the same engine and spells, but is scaled for importing existing characters rather than creating a new party. Players explore a 3D wire frame maze searching for a key item, the Staff of Gnilda, required to complete the game. The player creates a party of up to 6 characters of various classes, and then gain experience points by fighting random encounters. The maze has many hidden doors and secrets, so the player is encouraged to map out each floor on graph paper to find their way.\n\nThe story takes place after the events of the first game. The mad king Trebor has committed suicide after becoming obsessed with the amulet and fearing the return of Werdna. With both Trebor and Werdna dead all seemed well within the kingdom of Llylgamyn. Unfortunately, this peace didn't last very long. With Werdna dead and out of the limelight, an evil knight named Davalpus felt it was time to make his move. He stormed the castle, slaughtered the royal family, and declared himself supreme dictator for life. The Prince of the land fought and killed Davalpus using the legendary Staff of Gnilda and wearing the armor of the Knight of Diamonds. However, the god Gnilda took the staff back and placed it deep within his heavily guarded six-level temple. Since the staff's power protects the land from invasion by hostile outlanders, someone will need to venture into the temple and get the staff back along with Gnilda's blessing. \n\nThough <i>Knight of Diamonds</i> is the second scenario in the series, it was the third game in the series released for Famicom/NES. The NES version was redesigned to be played by new parties and the maps were re-designed to be non-linear. This makes the NES version more like a unique entry in the series rather than a port of the computer versions. The Famicom version is compatible with the ASCII TurboFile, an accessory that allowed the player to transfer characters between the Famicom Wizardry games. This feature was removed from the NES version. The Famicom version also allowed the player to switch between English and Japanese text.",
+      "game_id": 1304,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 62,
+          "genre_name": "DLC / Add-on"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 3.4,
+      "moby_url": "http://www.mobygames.com/game/wizardry-knight-of-diamonds-the-second-scenario",
+      "num_votes": 73,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1982",
+          "platform_id": 31,
+          "platform_name": "Apple II"
+        },
+        {
+          "first_release_date": "1986-12",
+          "platform_id": 126,
+          "platform_name": "FM-7"
+        },
+        {
+          "first_release_date": "1986-12-19",
+          "platform_id": 95,
+          "platform_name": "PC-98"
+        },
+        {
+          "first_release_date": "1987",
+          "platform_id": 4,
+          "platform_name": "PC Booter"
+        },
+        {
+          "first_release_date": "1987-01",
+          "platform_id": 121,
+          "platform_name": "Sharp X1"
+        },
+        {
+          "first_release_date": "1987-02",
+          "platform_id": 94,
+          "platform_name": "PC-88"
+        },
+        {
+          "first_release_date": "1988",
+          "platform_id": 27,
+          "platform_name": "Commodore 64"
+        },
+        {
+          "first_release_date": "1988",
+          "platform_id": 61,
+          "platform_name": "Commodore 128"
+        },
+        {
+          "first_release_date": "1989",
+          "platform_id": 57,
+          "platform_name": "MSX"
+        },
+        {
+          "first_release_date": "1990",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "1990-03-09",
+          "platform_id": 22,
+          "platform_name": "NES"
+        },
+        {
+          "first_release_date": "2001-02-23",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1198,
+        "image": "http://www.mobygames.com/images/covers/l/22144-wizardry-knight-of-diamonds-the-second-scenario-apple-ii-front-cover.jpg",
+        "platforms": [
+          "Apple II"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/22144-wizardry-knight-of-diamonds-the-second-scenario-apple-ii-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 192,
+          "image": "http://www.mobygames.com/images/shots/l/574146-wizardry-knight-of-diamonds-the-second-scenario-apple-ii-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/574146-wizardry-knight-of-diamonds-the-second-scenario-apple-ii-screenshot.jpg",
+          "width": 280
+        },
+        {
+          "caption": "My novice party can't afford high priced items",
+          "height": 384,
+          "image": "http://www.mobygames.com/images/shots/l/574147-wizardry-knight-of-diamonds-the-second-scenario-apple-ii-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/574147-wizardry-knight-of-diamonds-the-second-scenario-apple-ii-screenshot.jpg",
+          "width": 560
+        },
+        {
+          "caption": "The maze, sparse as ever",
+          "height": 192,
+          "image": "http://www.mobygames.com/images/shots/l/574148-wizardry-knight-of-diamonds-the-second-scenario-apple-ii-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/574148-wizardry-knight-of-diamonds-the-second-scenario-apple-ii-screenshot.jpg",
+          "width": 280
+        },
+        {
+          "caption": "Combat",
+          "height": 192,
+          "image": "http://www.mobygames.com/images/shots/l/574149-wizardry-knight-of-diamonds-the-second-scenario-apple-ii-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/574149-wizardry-knight-of-diamonds-the-second-scenario-apple-ii-screenshot.jpg",
+          "width": 280
+        }
+      ],
+      "title": "Wizardry: Knight of Diamonds - The Second Scenario"
+    },
+    {
+      "description": "A generation has passed since your band of adventurers reclaimed the Staff of Gnilda and the armor of the Knight of Diamonds, and the land has been at peace. But now nature itself seems to be attacking the land of Llylgamyn, as earthquakes and tidal waves ravage the land. The Sages believe the Orb of Scrying is the city's salvation, but it is guarded by the dragon L'kbreth. A band of explorers must once again venture forth in search of the Orb.\n\n<i>Legacy of Llylgamyn</i> is the third entry in the <i>Wizardry</i> series. Like its predecessors, it is a first-person dungeon-crawling role-playing game in which the player assembles a party of up to six characters and explores a large maze-like dungeon, fighting randomly appearing enemies in turn-based combat and occasionally returning to the game's only town to rest, buy supplies, and outfit the characters. Characters must be imported from either the first or the second game. \n\nCharacter classes, combat system, and overall gameplay mechanics are very similar to those of the two previous games. Good, evil and neutral alignment, however, plays a larger role. While the first level of the dungeon is accessible to everyone, the other five levels impose alignment restrictions, requiring the party either to have at least one good or bad character, or contain no neutral characters.",
+      "game_id": 3984,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 62,
+          "genre_name": "DLC / Add-on"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 3.6,
+      "moby_url": "http://www.mobygames.com/game/wizardry-legacy-of-llylgamyn-the-third-scenario",
+      "num_votes": 42,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1983",
+          "platform_id": 31,
+          "platform_name": "Apple II"
+        },
+        {
+          "first_release_date": "1986",
+          "platform_id": 4,
+          "platform_name": "PC Booter"
+        },
+        {
+          "first_release_date": "1987",
+          "platform_id": 126,
+          "platform_name": "FM-7"
+        },
+        {
+          "first_release_date": "1987",
+          "platform_id": 121,
+          "platform_name": "Sharp X1"
+        },
+        {
+          "first_release_date": "1987-06-27",
+          "platform_id": 95,
+          "platform_name": "PC-98"
+        },
+        {
+          "first_release_date": "1987-07",
+          "platform_id": 94,
+          "platform_name": "PC-88"
+        },
+        {
+          "first_release_date": "1989",
+          "platform_id": 61,
+          "platform_name": "Commodore 128"
+        },
+        {
+          "first_release_date": "1989",
+          "platform_id": 27,
+          "platform_name": "Commodore 64"
+        },
+        {
+          "first_release_date": "1989-02-21",
+          "platform_id": 22,
+          "platform_name": "NES"
+        },
+        {
+          "first_release_date": "1990",
+          "platform_id": 57,
+          "platform_name": "MSX"
+        },
+        {
+          "first_release_date": "2001-02-23",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1209,
+        "image": "http://www.mobygames.com/images/covers/l/120937-wizardry-legacy-of-llylgamyn-the-third-scenario-apple-ii-front-cover.jpg",
+        "platforms": [
+          "Apple II"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/120937-wizardry-legacy-of-llylgamyn-the-third-scenario-apple-ii-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 384,
+          "image": "http://www.mobygames.com/images/shots/l/893457-wizardry-legacy-of-llylgamyn-the-third-scenario-apple-ii-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/893457-wizardry-legacy-of-llylgamyn-the-third-scenario-apple-ii-screenshot.jpg",
+          "width": 560
+        },
+        {
+          "caption": "Intro Cutscene",
+          "height": 384,
+          "image": "http://www.mobygames.com/images/shots/l/893458-wizardry-legacy-of-llylgamyn-the-third-scenario-apple-ii-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/893458-wizardry-legacy-of-llylgamyn-the-third-scenario-apple-ii-screenshot.jpg",
+          "width": 560
+        },
+        {
+          "caption": "Town",
+          "height": 384,
+          "image": "http://www.mobygames.com/images/shots/l/893459-wizardry-legacy-of-llylgamyn-the-third-scenario-apple-ii-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/893459-wizardry-legacy-of-llylgamyn-the-third-scenario-apple-ii-screenshot.jpg",
+          "width": 560
+        },
+        {
+          "caption": "Shop",
+          "height": 384,
+          "image": "http://www.mobygames.com/images/shots/l/893461-wizardry-legacy-of-llylgamyn-the-third-scenario-apple-ii-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/893461-wizardry-legacy-of-llylgamyn-the-third-scenario-apple-ii-screenshot.jpg",
+          "width": 560
+        }
+      ],
+      "title": "Wizardry: Legacy of Llylgamyn - The Third Scenario"
+    },
+    {
+      "description": "<i>The Casebooks of Ace Harding</i> includes Game Boy ports of D\u00e9j\u00e0 Vu: A Nightmare Comes True!! (previously released on Game Boy) and D\u00e9j\u00e0 Vu II: Lost in Las Vegas. Deja Vu is a port of a 1987 game that had been made for various systems. It's a classic detective story, with you waking up to a dead body with total amnesia - you don't know who you are, or how you got there, and you don't know who the corpse is, either. D\u00e9j\u00e0 Vu II had never been released for Game Boy before, and was put in the same cart, selling for the price of one game.",
+      "game_id": 4258,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        }
+      ],
+      "moby_score": 4.1,
+      "moby_url": "http://www.mobygames.com/game/dj-vu-i-ii-the-casebooks-of-ace-harding-",
+      "num_votes": 6,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1992",
+          "platform_id": 2,
+          "platform_name": "DOS"
+        },
+        {
+          "first_release_date": "1992",
+          "platform_id": 5,
+          "platform_name": "Windows 3.x"
+        },
+        {
+          "first_release_date": "1999",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2002-10-18",
+          "platform_id": 66,
+          "platform_name": "Windows Mobile"
+        }
+      ],
+      "sample_cover": {
+        "height": 897,
+        "image": "http://www.mobygames.com/images/covers/l/8736-deja-vu-i-ii-the-casebooks-of-ace-harding-dos-front-cover.jpg",
+        "platforms": [
+          "DOS",
+          "Windows 3.x"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/8736-deja-vu-i-ii-the-casebooks-of-ace-harding-dos-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "D\u00e9j\u00e0 Vu I start",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/362442-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/362442-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Men's washroom",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/362443-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/362443-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Ace's reflection",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/362444-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/362444-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Hallway",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/362445-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/362445-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.jpg",
+          "width": 640
+        }
+      ],
+      "title": "D\u00e9j\u00e0 Vu I & II: The Casebooks of Ace Harding "
+    },
+    {
+      "description": "Discover a whole new way to catch Pokemon -- by playing pinball! Hit the targets with your Poke Ball to catch and evolve Pokemon. The better you do, the more rare Pokemon you'll find. Every Pokemon you catch is automatically recorded in your Pokedex. See if you can catch all 150! ",
+      "game_id": 4403,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 53,
+          "genre_name": "Pinball"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        }
+      ],
+      "moby_score": 3.6,
+      "moby_url": "http://www.mobygames.com/game/pokmon-pinball",
+      "num_votes": 20,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-04-14",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 730,
+        "image": "http://www.mobygames.com/images/covers/l/7755-pokemon-pinball-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/7755-pokemon-pinball-game-boy-color-front-cover.jpg",
+        "width": 738
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/128922-pokemon-pinball-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/128922-pokemon-pinball-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Options menu (starring the new Rumble function).",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/128923-pokemon-pinball-game-boy-color-screenshot-options-menu-starring.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/128923-pokemon-pinball-game-boy-color-screenshot-options-menu-starring.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Choosing the play board.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/128924-pokemon-pinball-game-boy-color-screenshot-choosing-the-play.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/128924-pokemon-pinball-game-boy-color-screenshot-choosing-the-play.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen (SGB)",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/606626-pokemon-pinball-game-boy-color-screenshot-title-screen-sgb.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/606626-pokemon-pinball-game-boy-color-screenshot-title-screen-sgb.jpg",
+          "width": 256
+        }
+      ],
+      "title": "Pok\u00e9mon Pinball"
+    },
+    {
+      "description": "A re-release of the classic computer adventure by ICOM, <i>Shadowgate Classic</i> casts you as an adventurer sent to explore Shadowgate Castle, recover the mystical Staff of Ages, and defeat the evil Warlock Lord.  The game uses a simplified list of adventure game actions -- LOOK, TAKE, OPEN, USE, etc.\n",
+      "game_id": 5020,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 83,
+          "genre_name": "Horror"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 4.0,
+      "moby_url": "http://www.mobygames.com/game/shadowgate-classic",
+      "num_votes": 9,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-03-31",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2001",
+          "platform_id": 66,
+          "platform_name": "Windows Mobile"
+        },
+        {
+          "first_release_date": "2004",
+          "platform_id": 65,
+          "platform_name": "Palm OS"
+        }
+      ],
+      "sample_cover": {
+        "height": 798,
+        "image": "http://www.mobygames.com/images/covers/l/8729-shadowgate-classic-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/8729-shadowgate-classic-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen (Japanese release)",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/345916-shadowgate-classic-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/345916-shadowgate-classic-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen and select language",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/345917-shadowgate-classic-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/345917-shadowgate-classic-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Choose game to start.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/345918-shadowgate-classic-game-boy-color-screenshot-choose-game-to.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/345918-shadowgate-classic-game-boy-color-screenshot-choose-game-to.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Last you remember, the wizard was waiving his hands.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/345919-shadowgate-classic-game-boy-color-screenshot-last-you-remember.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/345919-shadowgate-classic-game-boy-color-screenshot-last-you-remember.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Shadowgate Classic"
+    },
+    {
+      "description": "It's believed that Umbrella, the creators of the deadly virus that wiped out Raccoon City, has developed a new Bio Organic Weapon on a cruise ship called the Starlight, which is on its way to Europe. One S.T.A.R.S. member, Leon S Kennedy (from Resident Evil 2) was sent out to destroy the weapon, but the team have been unable to contact him since he arrived at the ship.\r\n\r\nUsing a combination of top down side-scrolling action and 1st person shooter, it is your job to get aboard the liner, currently floating in the Atlantic Ocean, destroy the weapon and find Leon. Along the way, you'll come across plenty of deadly  undead enemies, similar to those found in the original Resident Evil series, while using a range of weapons and items found in the ship.",
+      "game_id": 6376,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 83,
+          "genre_name": "Horror"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 25,
+          "genre_name": "Isometric"
+        }
+      ],
+      "moby_score": 3.3,
+      "moby_url": "http://www.mobygames.com/game/resident-evil-gaiden",
+      "num_votes": 17,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 794,
+        "image": "http://www.mobygames.com/images/covers/l/19629-resident-evil-gaiden-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/19629-resident-evil-gaiden-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Language select",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/64749-resident-evil-gaiden-game-boy-color-screenshot-language-select.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/64749-resident-evil-gaiden-game-boy-color-screenshot-language-select.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/64750-resident-evil-gaiden-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/64750-resident-evil-gaiden-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "The intro to the game.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/64751-resident-evil-gaiden-game-boy-color-screenshot-the-intro-to.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/64751-resident-evil-gaiden-game-boy-color-screenshot-the-intro-to.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Barry arrives on the stranded ocean liner",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/64753-resident-evil-gaiden-game-boy-color-screenshot-barry-arrives.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/64753-resident-evil-gaiden-game-boy-color-screenshot-barry-arrives.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Resident Evil: Gaiden"
+    },
+    {
+      "description": "One of the two editions of \"Devil Children\", \"Red Book\" follows the story of a girl named Kaname Mirai, who studies at the Harajuku Elementary School in Tokyo. Demons from another world invade the school. Kaname and her demon-friend Veil have to capture demons, tame them, and make them fight for you. \n\nThe dark and grim universe of Megami Tensei (Megaten for short) is combined in this game with a \"cute\" childish Pok\u00e9mon style. ",
+      "game_id": 10949,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/shin-megami-tensei-devil-children-aka-no-sho",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-11-17",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2013-11-13",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        }
+      ],
+      "sample_cover": {
+        "height": 80,
+        "image": "http://www.mobygames.com/images/covers/l/276832-shin-megami-tensei-devil-children-aka-no-sho-nintendo-3ds-front-cover.jpg",
+        "platforms": [
+          "Nintendo 3DS"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/276832-shin-megami-tensei-devil-children-aka-no-sho-nintendo-3ds-front-cover.jpg",
+        "width": 80
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463378-shin-megami-tensei-devil-children-aka-no-sho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463378-shin-megami-tensei-devil-children-aka-no-sho-game-boy-color.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Shin Megami Tensei: Devil Children - Aka no Sho"
+    },
+    {
+      "description": "The dark world of Megami Tensei (Megaten), with its heavy demonology and complex religious and moral problems, becomes much more cute and friendly in \"Devil Children\". The Black Book edition tells the story of Kai Setsuna, a boy who studies in the fifth grade of Harajuku Elementray school in modern-day Japan. His younger brother was abducted by monsters. With the help of his sidekick Cool, a one-headed Cerberus demon, Kai have to stop the demonic invasion from another world.\r\n\r\nSimilar to Pokemon, you can \"collect\" demons, raise them, and make them fight for you. This gameplay feature also continues the tradition of Megami Tensei universe, in where demon summoning has always been an integral part of the games. This is basically \"Megami Tensei for kids\".",
+      "game_id": 10950,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/shin-megami-tensei-devil-children-kuro-no-sho",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-11-17",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2013-11-13",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        }
+      ],
+      "sample_cover": {
+        "height": 80,
+        "image": "http://www.mobygames.com/images/covers/l/276833-shin-megami-tensei-devil-children-kuro-no-sho-nintendo-3ds-front-cover.jpg",
+        "platforms": [
+          "Nintendo 3DS"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/276833-shin-megami-tensei-devil-children-kuro-no-sho-nintendo-3ds-front-cover.jpg",
+        "width": 80
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463379-shin-megami-tensei-devil-children-kuro-no-sho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463379-shin-megami-tensei-devil-children-kuro-no-sho-game-boy-color.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Shin Megami Tensei: Devil Children - Kuro no Sho"
+    },
+    {
+      "description": "White Book is a sequel to two editions of the first GBC Devil Children title. It stars two new main characters: the careless Kuzuha Masaki and the quiet Ougi Takaharu. They were born on the same day, and mysterious magical creatures appeared on their birthday. Ten years later, the two boys study at Harajuku Elementary School in Tokyo. The boys' peaceful life is interrupted when Ougi's young sister Sho is possessed by a devil unleashed from a subway construction site. In order to find the medicine to save Sho, the boys must journey across five regions dangerous regions.\r\n\r\nLike all Megami Tensei games, \"White Book\" of Devil Children allows you to capture monsters and make them fight for you. You can also fuse monsters in order to get more powerful ones. Your party is always assisted by two demons, a chimaera and a phoenix, who have special abilities (pushing rocks and flying) that will help you on your journey. There is a total of 330 monsters to capture.",
+      "game_id": 10956,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/shin-megami-tensei-devil-children-shiro-no-sho",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-07-27",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1028,
+        "image": "http://www.mobygames.com/images/covers/l/110911-shin-megami-tensei-devil-children-shiro-no-sho-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/110911-shin-megami-tensei-devil-children-shiro-no-sho-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463377-shin-megami-tensei-devil-children-shiro-no-sho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463377-shin-megami-tensei-devil-children-shiro-no-sho-game-boy-color.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Shin Megami Tensei: Devil Children - Shiro no Sho"
+    },
+    {
+      "description": "Th king of Magoku (Demon Country) is concerned. Only one baby has been born in the kingdom that night. According to ancient prophecies, it is the sign of a revival of a godly power called Gryas... Fast-forward fifteen years. You are Yuri, a young student of powers of Gaia. The king of Magoku has sent his servants to recruit people to face the upcoming revival of Gryas and to destroy him. Yuri and his friends decide to join the recruits, without knowing what this adventure will bring...\n\nUnlike most Megaten games, <i>Last Bible II</i> is set in a fantasy world, on a planet Gaia with a medieval culture. You can recruit demons you encounter in random battles and then summon them to fight for you. The moon phase influences the conversations with the demons, and you have to choose the correct answers to their questions in order to recruit them. ",
+      "game_id": 11324,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 3.0,
+      "moby_url": "http://www.mobygames.com/game/megami-tensei-gaiden-last-bible-ii",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1993-11-19",
+          "platform_id": 10,
+          "platform_name": "Game Boy"
+        },
+        {
+          "first_release_date": "1999-04-16",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2012-09-12",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        }
+      ],
+      "sample_cover": {
+        "height": 996,
+        "image": "http://www.mobygames.com/images/covers/l/269553-megami-tensei-gaiden-last-bible-ii-game-boy-color-front-cover.png",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/269553-megami-tensei-gaiden-last-bible-ii-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/461380-megami-tensei-gaiden-last-bible-ii-game-boy-screenshot-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/461380-megami-tensei-gaiden-last-bible-ii-game-boy-screenshot-title.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/461381-megami-tensei-gaiden-last-bible-ii-game-boy-screenshot-main.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/461381-megami-tensei-gaiden-last-bible-ii-game-boy-screenshot-main.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Exploring the outside world",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/461382-megami-tensei-gaiden-last-bible-ii-game-boy-screenshot-exploring.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/461382-megami-tensei-gaiden-last-bible-ii-game-boy-screenshot-exploring.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463381-megami-tensei-gaiden-last-bible-ii-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463381-megami-tensei-gaiden-last-bible-ii-game-boy-color-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Megami Tensei Gaiden: Last Bible II"
+    },
+    {
+      "description": "Dragon Warrior I & II contains Game Boy versions of Dragon Warrior and Dragon Warrior II. This is the third version of each game, following the original games on NES and a later remake on SNES.\n\nIn this version, the US localization has a whole new translation with names closer to the original, letting go of the Old-English-like language used in the original. The games have been tweaked to make it slightly easier and allow the player to progress faster: quick-save (the quick-saved game deleted after it is loaded) is enabled anywhere except in battle, banks in which some gold can be stored in case the player dies have been added, and monsters now reward with more experience and gold.",
+      "game_id": 12684,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 76,
+          "genre_name": "Compilation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 3.8,
+      "moby_url": "http://www.mobygames.com/game/dragon-warrior-i-ii",
+      "num_votes": 12,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-09-23",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 800,
+        "image": "http://www.mobygames.com/images/covers/l/31602-dragon-warrior-i-ii-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/31602-dragon-warrior-i-ii-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main menu on B&W Game Boy",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/178354-dragon-warrior-i-ii-game-boy-color-screenshot-main-menu-on.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/178354-dragon-warrior-i-ii-game-boy-color-screenshot-main-menu-on.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Dragon Warrior I opening movie on B&W Game Boy",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/178358-dragon-warrior-i-ii-game-boy-color-screenshot-dragon-warrior.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/178358-dragon-warrior-i-ii-game-boy-color-screenshot-dragon-warrior.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Dragon Warrior I throne room on GB",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/178359-dragon-warrior-i-ii-game-boy-color-screenshot-dragon-warrior.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/178359-dragon-warrior-i-ii-game-boy-color-screenshot-dragon-warrior.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Dragon Warrior I overworld on GB",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/178360-dragon-warrior-i-ii-game-boy-color-screenshot-dragon-warrior.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/178360-dragon-warrior-i-ii-game-boy-color-screenshot-dragon-warrior.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Dragon Warrior I & II"
+    },
+    {
+      "description": "The first handheld <i>Sakura Taisen</i> game, released between the second and the third main ones, takes place in the original setting: the imperial capital in Japan of 1920s. It is the Taishou era, time of rapid technological development and acquaintance with Western lifestyle in Japan. Disguised as a group of actresses in the imperial theater, the Hanagumi Brigade consists of lovely ladies who are at the same time skilled fighters, able to pilot mechs, and to confront the forces of evil that threaten Japan. A new commander of Hanagumi arrives at the theater to work under the guidance of Ichiro Ogami, the main hero of the series. He leads the beautiful girls Sakura, Sumire, Honglan, and others into battle against demons.\n\nAs in most other games in the series, <i>Sakura Taisen GB</i> is a mixture of Japanese-style adventure with dating mechanics and tactical turn-based battles. The light RPG angle is also present, as the girls fight differently depending on how the protagonist treats them. Unlike other Sakura Taisen games, the battles here are entirely menu-driven. Also, the main plot is non-linear, and it is possible to reach fourteen different endings, which also include bad ones. The hero may even get thrown out of the theater for indecent behavior.",
+      "game_id": 15824,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 164,
+          "genre_name": "Japanese-style Adventure"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 25,
+          "genre_name": "Isometric"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/sakura-taisen-gb",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-07-28",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 928,
+        "image": "http://www.mobygames.com/images/covers/l/274280-sakura-taisen-gb-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/274280-sakura-taisen-gb-game-boy-color-front-cover.jpg",
+        "width": 738
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463380-sakura-taisen-gb-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463380-sakura-taisen-gb-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Sakura Taisen GB"
+    },
+    {
+      "description": "On their way to help in the battle against Sargon, a crew of adventurers each skilled in their own way encounter a storm that rips a hole in their ship. Safely reaching Lamini, or Land of Towers, the friendly people of the land help repair the damaged ship. As the crew members are looking for a job, they meet the Mayor of the town who is in need of messengers. He tells the adventurers that Lord Baniff has not been heard from in weeks, and that he needs them to seek him out in his Tower and bring word of his condition. Entering the doorway into the Tower, the entrance collapses behind them and they must find their way out.\r\n\r\nThe gameplay is similar to other first-person realtime D&D games like the <a href=\"http://www.mobygames.com/search/quick?q=eye+of+the+beholder\">Eye of the Beholder</a> series, though not as complex. There are four characters in the game and you choose one to control. Spell incantations are learned from scrolls and are cast by combining the correct syllables. There are 15 levels to explore and tons of monsters and items to find. You can play the game in cooperative mode with another player using a link cable.",
+      "game_id": 16249,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 15,
+          "genre_name": "Real-Time"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 3.3,
+      "moby_url": "http://www.mobygames.com/game/towers-lord-baniffs-deceit",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1993",
+          "platform_id": 24,
+          "platform_name": "Atari ST"
+        },
+        {
+          "first_release_date": "1994",
+          "platform_id": 2,
+          "platform_name": "DOS"
+        },
+        {
+          "first_release_date": "1999",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 200,
+          "image": "http://www.mobygames.com/images/shots/l/143681-towers-lord-baniff-s-deceit-atari-st-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/143681-towers-lord-baniff-s-deceit-atari-st-screenshot-title-screen.jpg",
+          "width": 320
+        },
+        {
+          "caption": "Cool - it's free! Well, almost free!",
+          "height": 200,
+          "image": "http://www.mobygames.com/images/shots/l/143682-towers-lord-baniff-s-deceit-atari-st-screenshot-cool-it-s.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/143682-towers-lord-baniff-s-deceit-atari-st-screenshot-cool-it-s.jpg",
+          "width": 320
+        },
+        {
+          "caption": "Strange intro",
+          "height": 200,
+          "image": "http://www.mobygames.com/images/shots/l/143683-towers-lord-baniff-s-deceit-atari-st-screenshot-strange-intro.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/143683-towers-lord-baniff-s-deceit-atari-st-screenshot-strange-intro.jpg",
+          "width": 320
+        },
+        {
+          "caption": "Mighty storm (still intro)",
+          "height": 200,
+          "image": "http://www.mobygames.com/images/shots/l/143684-towers-lord-baniff-s-deceit-atari-st-screenshot-mighty-storm.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/143684-towers-lord-baniff-s-deceit-atari-st-screenshot-mighty-storm.jpg",
+          "width": 320
+        }
+      ],
+      "title": "Towers: Lord Baniff's Deceit"
+    },
+    {
+      "description": "Paintball game for the Game Boy Color. It's a capture the flag game containing several levels. You wander around the map from a topdown view, and when you run into hazardous territory, the game switches to a sidescrolling first person environment where your feet are fixed in a central spot. Here you'll battle your opponents using your pellet gun and paint grenades. As you play on the levels gets harder and on later maps there is more than one flag. You also get to buy more weapons. ",
+      "game_id": 17357,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 5,
+          "genre_name": "Sports"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Sports Themes",
+          "genre_category_id": 3,
+          "genre_id": 105,
+          "genre_name": "Paintball"
+        }
+      ],
+      "moby_score": 1.5,
+      "moby_url": "http://www.mobygames.com/game/ultimate-paintball",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-06-01",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/461110-ultimate-paintball-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/461110-ultimate-paintball-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/461111-ultimate-paintball-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/461111-ultimate-paintball-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Its on!",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/461112-ultimate-paintball-game-boy-color-screenshot-its-on.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/461112-ultimate-paintball-game-boy-color-screenshot-its-on.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Choose difficulty level ",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/612572-ultimate-paintball-game-boy-color-screenshot-choose-difficulty.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/612572-ultimate-paintball-game-boy-color-screenshot-choose-difficulty.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Ultimate Paintball"
+    },
+    {
+      "description": "Another RPG title for the Ganbare Goemon series. Once again you take control of the wily adventurer Goemon and his buddies as they travel through feudal Japan fighting evil in its wackiest incarnations. This time around an evil warlord seems to have taken control of Edo castle and used the place to flood all of Japan with strange demons. \n\nThe gameplay is similar to the other RPGs in the series, in which you control your party from an overhead map and explore each area getting quests and items in order to advance the main plot. While you control a party, combat is strictly one-on-one, as the game attempts to join the Pok\u00e9mon craze with \"dueling\" combat between individual monsters. Additionally, you can capture and train the monsters you defeat, and even upgrade them or merge them with other creatures to obtain additional powers. The game can also connect with the similarly-themed Mononoke Sugoroku for the N64, in order to transfer and exchange monsters between both titles.",
+      "game_id": 27557,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/ganbare-goemon-mononoke-dch-tobidase-nabe-bugy",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463564-ganbare-goemon-mononoke-dochu-tobidase-nabe-bugyo-game-boy.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463564-ganbare-goemon-mononoke-dochu-tobidase-nabe-bugyo-game-boy.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Ganbare Goemon: Mononoke D\u014dch\u016b Tobidase Nabe-Bugy\u014d!"
+    },
+    {
+      "description": "Based on the 1996 arcade game, <i>Densha de Go!</i> was one of the first commercial train-driving simulation games, and went on to spawn numerous successors.\n\nThe player can choose from a variety of tracks and trains and will then have to drive the train to the designated stations while sticking to the tight schedule, stopping exactly at the marked positions, obeying all signs and signals, and ensuring passenger safety and comfort.\n\nWhenever the player makes a mistake, points are deducted from a counter which at the start of each round is initialized to a value depending on the selected difficulty. If it reaches zero, the game is over.\n\nThe following lines are featured:<ul><li><b>Sagano Main Line</b> (Sanin Line) from Kameoka to Kyoto</li>\n<li><b>Keihin-T\u014dhoku Line</b> from Shinagawa to Yokohama</li>\n<li><b>T\u014dkaid\u014d Main Line</b> (JR Kyoto Line) from Kyoto to Osaka</li>\n<li><b>Yamanote Line</b> (Inner Circle) from Shibuya to Tokyo Station</li>\n<li><b>T\u014dkaid\u014d Main Line EX</b> from Takatsuki to Osaka, part of the rapid T\u014dkaid\u014d Main Line from the original version, but this time with stops at every station (Windows only)</li>\n<li><b>Sagano Line EX</b> from Kameoka to Kyoto, without the shortcut from Saga-Arashiyama to Tambaguchi from the original version (Windows only)</li></ul>",
+      "game_id": 28788,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 108,
+          "genre_name": "Train"
+        }
+      ],
+      "moby_score": 3.5,
+      "moby_url": "http://www.mobygames.com/game/densha-de-go",
+      "num_votes": 4,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1997-03",
+          "platform_id": 143,
+          "platform_name": "Arcade"
+        },
+        {
+          "first_release_date": "1997-12-18",
+          "platform_id": 6,
+          "platform_name": "PlayStation"
+        },
+        {
+          "first_release_date": "1998",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "1999-03-04",
+          "platform_id": 48,
+          "platform_name": "WonderSwan"
+        },
+        {
+          "first_release_date": "1999-12-10",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 786,
+        "image": "http://www.mobygames.com/images/covers/l/247930-densha-de-go-playstation-front-cover.jpg",
+        "platforms": [
+          "PlayStation"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/247930-densha-de-go-playstation-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/275069-densha-de-go-windows-screenshot-title-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/275069-densha-de-go-windows-screenshot-title-screen.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Legal warning, as it appears in every game of the series.",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/275062-densha-de-go-windows-screenshot-legal-warning-as-it-appears.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/275062-densha-de-go-windows-screenshot-legal-warning-as-it-appears.jpg",
+          "width": 640
+        },
+        {
+          "caption": "The intro sequence is identical to the Arcade version.",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/275067-densha-de-go-windows-screenshot-the-intro-sequence-is-identical.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/275067-densha-de-go-windows-screenshot-the-intro-sequence-is-identical.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Main menu",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/275070-densha-de-go-windows-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/275070-densha-de-go-windows-screenshot-main-menu.jpg",
+          "width": 640
+        }
+      ],
+      "title": "Densha de Go!"
+    },
+    {
+      "description": "The 1998 sequel of the popular Japanese train driving game by Taito has once again been ported to various home systems. For the first time on the PlayStation, it is possible to drive through the snow, and take a seat in the cockpit of a Shinkansen bullet train.\n\nThe gameplay is more arcade than simulation. The focus is on stopping at the stations at the perfect moment and position, keeping up with the schedule, obeying signals and speed limits, and ensuring the safety and comfort of the passengers. Mistakes result in points being deducted from a counter. If it reaches 0, the game is over.\n\nThe following routes are available:<ul><li>Hokuhoku Line from Naoetsu to Uragawara</li>\n<li>T\u014dhoku Shinkansen from Morioka to Shin-Hanamaki</li>\n<li>Akita Shinkansen from Akita to \u014cmagari</li>\n<li>Keihin-Tohoku Line from Shinagawa to Ueno</li>\n<li>Osaka Loop Line from Osaka to Tenn\u014dji (not in the Arcade original)</li>\n<li>Kagoshima Main Line from Hakata to Kokura (only in PlayStation and Windows versions)</li></ul>",
+      "game_id": 29765,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 108,
+          "genre_name": "Train"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/densha-de-go-2",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "1999",
+          "platform_id": 48,
+          "platform_name": "WonderSwan"
+        },
+        {
+          "first_release_date": "1999-03-18",
+          "platform_id": 6,
+          "platform_name": "PlayStation"
+        },
+        {
+          "first_release_date": "1999-10-21",
+          "platform_id": 53,
+          "platform_name": "Neo Geo Pocket Color"
+        },
+        {
+          "first_release_date": "2000-12-08",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 995,
+        "image": "http://www.mobygames.com/images/covers/l/292279-densha-de-go-2-wonderswan-front-cover.jpg",
+        "platforms": [
+          "WonderSwan"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/292279-densha-de-go-2-wonderswan-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/274549-densha-de-go-2-wonderswan-screenshot-title-screen.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/274549-densha-de-go-2-wonderswan-screenshot-title-screen.gif",
+          "width": 224
+        },
+        {
+          "caption": "Options",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/274550-densha-de-go-2-wonderswan-screenshot-options.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/274550-densha-de-go-2-wonderswan-screenshot-options.gif",
+          "width": 224
+        },
+        {
+          "caption": "Select a train.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/274551-densha-de-go-2-wonderswan-screenshot-select-a-train.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/274551-densha-de-go-2-wonderswan-screenshot-select-a-train.gif",
+          "width": 224
+        },
+        {
+          "caption": "A picture of a train",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/274552-densha-de-go-2-wonderswan-screenshot-a-picture-of-a-train.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/274552-densha-de-go-2-wonderswan-screenshot-a-picture-of-a-train.gif",
+          "width": 224
+        }
+      ],
+      "title": "Densha de Go! 2"
+    },
+    {
+      "description": "OCP Technologies has developed an organic and mechanical hybrid supercomputer which they've named \"The Mind\". Unknown to the scientists however, The Mind has secretly been infiltrating computer networks around the world. When the project is finally deemed complete, OCP puts The Mind in control of the security systems of Delta City. At the same time, a gang war erupts in the city and several laboratories are broken into and looted. The police recieve a lead on a gang leader named \"Nexx\" who may be involved and assign RoboCop, a cyborg law enforcement officer, to bring him in.\n\n<i>RoboCop</i> is primarily a top-down action game. Robocop can move up, down, left and right across the map. Enemy units should be shot at to engage, while civilian units need to be protected. RoboCop's objective varies by level but typically involves destroying a particular enemy or finding \"evidence\" items scattered throughout the level. Each level is made up of several maps screens. Between missions RoboCop returns to the police station where he can consult with his ex-partner Lewis, review the station's news or talk to Dr. Lazerus, the scientist in charge of cybernetics.",
+      "game_id": 31021,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 121,
+          "genre_name": "Crime"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 8,
+          "genre_name": "Sci-Fi / Futuristic"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 3.4,
+      "moby_url": "http://www.mobygames.com/game/robocop___",
+      "num_votes": 6,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/287254-robocop-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/287254-robocop-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Choose your language.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/287255-robocop-game-boy-color-screenshot-choose-your-language.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/287255-robocop-game-boy-color-screenshot-choose-your-language.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Intro",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/287256-robocop-game-boy-color-screenshot-intro.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/287256-robocop-game-boy-color-screenshot-intro.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Another part from the introduction",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/287257-robocop-game-boy-color-screenshot-another-part-from-the-introduction.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/287257-robocop-game-boy-color-screenshot-another-part-from-the-introduction.jpg",
+          "width": 160
+        }
+      ],
+      "title": "RoboCop"
+    },
+    {
+      "description": "As a furby you must dance! Woo-teh-loh-wah-boo! <i>Shake it to the left, shake it to the right</i>.\n\nA Furby is an owl-like monster with fluffy pink banana ears. They love to dance, sing, and slowly learn human speech. Specifically a Furby is an autonomous toy robot manufactured by Tiger Electronics, licensor of this game. These toys were among the first successful domestic robots. Here they will be dancing for you. \n\n<i>Dancing Furby</i> operates as a classic rhythm game, with a line of button prompts scrolling across the screen that you will have to press when they reach the current time mark, supposedly matched with the music.  A Furby on screen will dance in accordance with your performance, commenting on your timing in Furbish, \"noo-loo\" being perfect, \"e-day\" being acceptable, and \"boo\" is shrilled for failure. At the end of each song you'll have you score calculated in \"noo-loo\"'s etc. and then be allowed to continue.\n\nSuccessfully clearing a stage will result in you being able to 'connect' the Game Boy's infrared port with the matching port on the forehead of a Furby toy. This will impart information about the song to your furby teaching it to warble F\u00fcr Elise when you least expect it.\n\nYou may also select a Furby to dance with in the game, be it spotted, striped, or lozenge-faced. Good performance will unlock more Furbies.\n\nSongs in the game include Twinkle Twinkle Little Star, F\u00fcr Elise, and a few 'popular' numbers.",
+      "game_id": 36315,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 97,
+          "genre_name": "Music / Rhythm"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 3.0,
+      "moby_url": "http://www.mobygames.com/game/dancing-furby",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-12-24",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Main menu, Dance Mode!",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/326496-dancing-furby-game-boy-color-screenshot-main-menu-dance-mode.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/326496-dancing-furby-game-boy-color-screenshot-main-menu-dance-mode.jpg",
+          "width": 160
+        },
+        {
+          "caption": "A furby descends from heaven.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/326494-dancing-furby-game-boy-color-screenshot-a-furby-descends-from.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/326494-dancing-furby-game-boy-color-screenshot-a-furby-descends-from.jpg",
+          "width": 160
+        },
+        {
+          "caption": "The peacful earth could never expect such heathenistic footwork.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/326495-dancing-furby-game-boy-color-screenshot-the-peacful-earth.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/326495-dancing-furby-game-boy-color-screenshot-the-peacful-earth.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Difficulty selection",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/326497-dancing-furby-game-boy-color-screenshot-difficulty-selection.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/326497-dancing-furby-game-boy-color-screenshot-difficulty-selection.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Dancing Furby"
+    },
+    {
+      "description": "Based on the 2001 movie starring Brendan Frasier and Rachel Weisz, this version differs greatly from it's console version.  The main bulk of the game is side-scroller with stages where the player moves from right to left trying to escape a wall of water while avoiding enemies and pitfalls and even a scene recreating the valley escape in the blimp, but with the same elements.  There are also one-on-one sword fighting stages where the player uses a sword to hack away at enemies that appear one at a time and even a first-person shooting stage that resembles Lethal Enforcers.\n\nThere are three different characters to choose from, Rick O'Connel, Evelyn O'Connel and Ardeth Bay that they can choose at the beginning of each stage, each with their own strengths and weaknesses and depending on which character they pick will determine which stage layout will be present (ex. Rick & Evelyn's water escape stage feature different traps and enemies they must avoid).\n\nThere are eleven stages total and a password feature that allows players to pick up and play at their leisure.",
+      "game_id": 39994,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 21,
+          "genre_name": "Platform"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 9,
+          "genre_name": "Arcade"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 201,
+          "genre_name": "Egypt (Ancient)"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 19,
+          "genre_name": "Flight / Aviation"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 1.8,
+      "moby_url": "http://www.mobygames.com/game/mummy-returns_",
+      "num_votes": 4,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-05",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 796,
+        "image": "http://www.mobygames.com/images/covers/l/149582-the-mummy-returns-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/149582-the-mummy-returns-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/368122-the-mummy-returns-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/368122-the-mummy-returns-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Hieratic?",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/368123-the-mummy-returns-game-boy-color-screenshot-hieratic.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/368123-the-mummy-returns-game-boy-color-screenshot-hieratic.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Ah I see...Just hold it upside down Axel!",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/368124-the-mummy-returns-game-boy-color-screenshot-ah-i-see-just.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/368124-the-mummy-returns-game-boy-color-screenshot-ah-i-see-just.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Character selection",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/368125-the-mummy-returns-game-boy-color-screenshot-character-selection.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/368125-the-mummy-returns-game-boy-color-screenshot-character-selection.jpg",
+          "width": 160
+        }
+      ],
+      "title": "The Mummy Returns"
+    },
+    {
+      "description": "<i>F1 Racing Championship</i> is a a Formula One racing game. Like its counterpart on the PC and consoles the game has an official license for the 1999 season and features all drivers, cars and tracks from that season.\n\nThe game allows for a first person cockpit view of the races. The season can be played in arcade and simulation mode. In the latter mode the player is responsible for adjusting his car before each race.",
+      "game_id": 43455,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 6,
+          "genre_name": "Racing / Driving"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 5,
+          "genre_name": "Sports"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 158,
+          "genre_name": "Vehicle Simulator"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 192,
+          "genre_name": "Track Racing"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 188,
+          "genre_name": "Automobile"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 3.2,
+      "moby_url": "http://www.mobygames.com/game/f1-racing-championship_",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-11-10",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title shown in intro sequence",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463072-f1-racing-championship-game-boy-color-screenshot-title-shown.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463072-f1-racing-championship-game-boy-color-screenshot-title-shown.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Intro movie.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/744383-f1-racing-championship-game-boy-color-screenshot-intro-movie.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/744383-f1-racing-championship-game-boy-color-screenshot-intro-movie.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463073-f1-racing-championship-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463073-f1-racing-championship-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Team/Driver selection.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/744385-f1-racing-championship-game-boy-color-screenshot-team-driver.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/744385-f1-racing-championship-game-boy-color-screenshot-team-driver.jpg",
+          "width": 160
+        }
+      ],
+      "title": "F1 Racing Championship"
+    },
+    {
+      "description": "This game is the portable version of Hoyle Casino. Besides the obvious graphical differences, it contains a smaller amount of slot and video poker machines to play. Like its namesake on the PC and consoles, the game features a variety of casino themed games. You start off with a sum of money and try to make your fortune in a casino playing various games.",
+      "game_id": 43644,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 28,
+          "genre_name": "Casino / Gambling"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/hoyle-casino_",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-10",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Sign in Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463224-hoyle-casino-game-boy-color-screenshot-sign-in-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463224-hoyle-casino-game-boy-color-screenshot-sign-in-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Choose Game",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463225-hoyle-casino-game-boy-color-screenshot-choose-game.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463225-hoyle-casino-game-boy-color-screenshot-choose-game.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Hoyle Casino"
+    },
+    {
+      "description": "<i>10-Pin Bowling</i> is a bowling game for one or two players.\n\nEach player is given the choice to enter his or her name and after that the game begins. Users can charge up their shots and adjust the speed and your curve using the D-pad. If the player takes too long, a red bar will be hit and the throw will become a foul. The player can pause the game, view the score boards and change the rumble settings. There is no option for playing against computer controlled opponents.",
+      "game_id": 52942,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 5,
+          "genre_name": "Sports"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Sports Themes",
+          "genre_category_id": 3,
+          "genre_id": 88,
+          "genre_name": "Bowling"
+        }
+      ],
+      "moby_score": 2.5,
+      "moby_url": "http://www.mobygames.com/game/10-pin-bowling",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-08",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/525208-10-pin-bowling-game-boy-color-screenshot-title-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/525208-10-pin-bowling-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Publisher",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/525209-10-pin-bowling-game-boy-color-screenshot-publisher.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/525209-10-pin-bowling-game-boy-color-screenshot-publisher.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Developer",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/525210-10-pin-bowling-game-boy-color-screenshot-developer.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/525210-10-pin-bowling-game-boy-color-screenshot-developer.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Legal Stuff",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/525211-10-pin-bowling-game-boy-color-screenshot-legal-stuff.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/525211-10-pin-bowling-game-boy-color-screenshot-legal-stuff.jpg",
+          "width": 160
+        }
+      ],
+      "title": "10-Pin Bowling"
+    },
+    {
+      "description": "In <i>Phantom Zona</i>, the player is invited to a school where solving puzzles is the most popular pastime. Upon arriving however, the player will meet Phantom Zona, who reveals that the school is actually a secret base for a gang that fights each other using riddles. When the player enters a battle, he or she is presented with a riddle, and multiple choices answers. Answering correctly will damage the opponent. Answering wrong causes damage to the player. Whoever has the least amount of damage wins. The game makes use of the Game Boy Color's infra-red port. By using anything that emits a infra-red signal, the game generates new puzzles. Players can also use the Game Boy Link cable to swap puzzles.",
+      "game_id": 53695,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 118,
+          "genre_name": "Puzzle"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/phantom-zona",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-10-21",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/532992-phantom-zona-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/532992-phantom-zona-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Opening story",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/532991-phantom-zona-game-boy-color-screenshot-opening-story.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/532991-phantom-zona-game-boy-color-screenshot-opening-story.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Starting the game",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/532993-phantom-zona-game-boy-color-screenshot-starting-the-game.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/532993-phantom-zona-game-boy-color-screenshot-starting-the-game.jpg",
+          "width": 160
+        },
+        {
+          "caption": "I guess this is level 1",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/532994-phantom-zona-game-boy-color-screenshot-i-guess-this-is-level.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/532994-phantom-zona-game-boy-color-screenshot-i-guess-this-is-level.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Phantom Zona"
+    },
+    {
+      "description": "<i>Pok\u00e9mon Card GB2: Here Comes Team GR!</i> is the sequel to Pok\u00e9mon Trading Card Game. The game expands on the original, adding Mint, a female player character, as well as a larger world and more developed storyline. It contains nearly all cards from Base Set, Jungle, Fossil, and Team Rocket. Also introduced is the villainous Team Great Rocket, who have kidnapped many Club Masters and attempted to steal the Legendary Cards.",
+      "game_id": 60742,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 157,
+          "genre_name": "Trading / Collectible Card"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/pokmon-card-gb2-gr-dan-sanjou",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-03-28",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/621784-pokemon-card-gb2-gr-dan-sanjou-game-boy-color-screenshot-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/621784-pokemon-card-gb2-gr-dan-sanjou-game-boy-color-screenshot-title.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Pok\u00e9mon Card GB2: GR Dan Sanjou!"
+    },
+    {
+      "description": "<i>Lil' Monster</i> is an RPG strongly inspired by Pok\u00e9mon games,  the major differences being that it has no open world. The player simply selects locations on map.\n\nThe player uses small monsters for training and battling. The battle rewards the player with experience for the monsters to level-up and gems. In town, he can buy or sell various items. There is also a special Arena.\n\nIn battles, the player selects the monster's special command to use each turn.",
+      "game_id": 61535,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 3.0,
+      "moby_url": "http://www.mobygames.com/game/lil-monster",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-07-30",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/947950-lil-monster-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/947950-lil-monster-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Tutorial's text",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/632030-lil-monster-game-boy-color-screenshot-tutorial-s-text.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/632030-lil-monster-game-boy-color-screenshot-tutorial-s-text.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Fight!",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/632031-lil-monster-game-boy-color-screenshot-fight.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/632031-lil-monster-game-boy-color-screenshot-fight.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Move or something else?",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/632032-lil-monster-game-boy-color-screenshot-move-or-something-else.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/632032-lil-monster-game-boy-color-screenshot-move-or-something-else.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Lil' Monster"
+    },
+    {
+      "description": "<i>Momotar\u014d Densetsu 1\u21922</i> is a port of Momotar\u014d Densetsu Turbo and Momotar\u014d Densetsu II on one cartridge, presented as one whole game; it is necessary to complete <i>Turbo</i> before <i>II</i> can be played. The game balance has been tweaked to make the game easier, and some of the particularly dated jokes have been rewritten, but the games are otherwise more or less identical to the original releases.",
+      "game_id": 62636,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 76,
+          "genre_name": "Compilation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/momotar-densetsu-12",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-01-01",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/947959-momotaro-densetsu-1-2-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/947959-momotaro-densetsu-1-2-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Momotar\u014d Densetsu 1\u21922"
+    },
+    {
+      "description": "<i>Love Hina Party</i> is one of several games based on a Love Hina manga, which in turn was made into anime. The basic story in Love Hina centers around a young boy, Keitaro Urashima, trying to fulfill his promise to a girl he shortly met as a child but whose name he has forgotten. Their promise was to study hard and get accepted at Tokyo University, where they could meet once again. While studying for exam, Keitaro is staying at his grandmother's hotel which seem to be inhabited by girls only. As a new manager of the hotel, he is having a plethora of ups and downs in his relationship with the girls, and one of them even turns out to be the very girl he made a promise to.\n\nThis game puts you in shoes of Keitaro himself as he resumes his duties of a hotel manager. During adventure mode, you can check certain predefined locations and speak with characters you meet, sometimes selecting your answer during conversation. Sometimes during the story, the girls in Hinata apartments will ask you quiz questions about the Love Hina anime. The action mode in the game is done via four different mini-games which, unlike the adventure mode, use 3rd-person perspective.",
+      "game_id": 65586,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 9,
+          "genre_name": "Arcade"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/love-hina-party",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-01-26",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1024,
+        "image": "http://www.mobygames.com/images/covers/l/283294-love-hina-party-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/283294-love-hina-party-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Love Hina Party"
+    },
+    {
+      "description": "<i>Karakuri Jiin Satsujinjiken</i> (\u304b\u3089\u304f\u308a\u5bfa\u9662\u6bba\u4eba\u4e8b\u4ef6) is the first Detective Conan mystery adventure game released for Game Boy Color. During the holidays, Conan and Ran decide to meet at a certain cafe. While there, Ran runs into her classmate Miki by chance, who is part-time working at that very cafe. In turn, Miki calls them to come to her place where she tells them about her worrying about her sister Satomi. Apparently she said she's going on a trip as she was heading out, but she never called or told Miki where she went. She is a rather methodical person, which makes her behavior suspiciously strange, and Miki asks Ran and Conan to help her find her sister. Also, before she went out, she was acting strange according to Miki. After listening in more detail and agreeing to help Miki look for Satomi, Conan and Ran head to Satomi's room to look for clues about her whereabouts. There they find out what was a direction to a secluded old temple and with that as their only lead to go on, they set out to find Satomi.\n\nExploring locations is done in top-down perspective which also allows you to switch between characters, thus not controlling Conan alone. The map system shows you your current location. Message system is used for dialogues with other characters which uses typical first person view displaying the talking character and the text below the character image. On your investigation while searching for clues and talking to other characters, you will obtain keywords which lets you think the case through and after collecting the necessary keywords, you can start the reasoning process. Conan also keeps track on characters he meets, and you can access character profiles from the in-game menu, the same way you access keywords or map system.",
+      "game_id": 71703,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/meitantei-conan-karakuri-jiin-satsujin-jiken",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-02-25",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1010,
+        "image": "http://www.mobygames.com/images/covers/l/348184-meitantei-conan-karakuri-jiin-satsujin-jiken-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/348184-meitantei-conan-karakuri-jiin-satsujin-jiken-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Meitantei Conan: Karakuri Jiin Satsujin Jiken"
+    },
+    {
+      "description": "<i>10-nenme no Shoutaijou</i> (10\u5e74\u76ee\u306e\u62db\u5f85\u72b6) is the mystery adventure game from <i>Kindaichi Shounen no Jikenbo</i> (\u91d1\u7530\u4e00\u5c11\u5e74\u306e\u4e8b\u4ef6\u7c3f) series based on manga series, which in turn also spanned the TV series. The series are centered around a high-school student, Hajime Kindaichi, who has the knack for solving crimes, much like Shinichi Kudou, better known as Conan Edogawa from <i>Meitantei Conan</i> series. The game is presented in a visual novel style with typical commands for reading through the on screen text and going though the message log. The investigation screen is done in a form of top-down map where you can investigate different locations and look for clues.\n\nAkira Kawai, a first-year student of a Fudou high-school received a mysterious letter with ominous sketch and the text saying \"I'll be waiting at the Shiomisou inn.\", sender or reason for sending this letter is unknown. Upon reading this himself, Hajime Kindaichi, along with Miyuki Nanase decided to check if there's more to the meaning of the letter or if it's nothing but a prank of a sort. Upon arriving at the Shiomisou inn, which was in a rather secluded and silent place surrounded by mountain on one side, and a sea on the other, he noticed there are only three more guests besides them. Could one of them be the sender of this letter? The night came swiftly and the weather turned gloomy. There and then, Hajime runs into Kengo Akechi, a detective investigating a report of a supposed seeing of a killer in the area from a 10-year old case. With approaching storm, the scream echoes through the hallway and first in the series of murders engulfs this hotel in an aura of tension. Kindaichi and Akechi are now more than ever determined to get to the bottom of this and catch the murderer behind this.",
+      "game_id": 71882,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/kindaichi-shnen-no-jikenbo-10-nenme-no-shtaij",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-12-16",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1007,
+        "image": "http://www.mobygames.com/images/covers/l/301923-kindaichi-shonen-no-jikenbo-10-nenme-no-shotaijo-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/301923-kindaichi-shonen-no-jikenbo-10-nenme-no-shotaijo-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Kindaichi Sh\u014dnen no Jikenbo: 10-nenme no Sh\u014dtaij\u014d"
+    },
+    {
+      "description": "<i>Pocket Bowling</i> brings bowling to the Game Boy Color. It offers single games for one or two players, a tournament mode consisting of four rounds and progress stored via passwords, and a practice option that allows setting up any pin combination to knock down.\n\nBefore a game, players can select from five different characters, each with different statistics, and select whether they are right- or left-handed. After aligning the ball on the alley, the throwing is done with four consecutive button pushes. The first starts the curve meter, while the second stops it to select the ball curve. The third determines the power of the throw on the power meter, and the final one must be matched to a goal spot for best accuracy.",
+      "game_id": 73942,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 5,
+          "genre_name": "Sports"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Sports Themes",
+          "genre_category_id": 3,
+          "genre_id": 88,
+          "genre_name": "Bowling"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/pocket-bowling",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1998-10-23",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen (US).",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/805087-pocket-bowling-game-boy-color-screenshot-title-screen-us.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/805087-pocket-bowling-game-boy-color-screenshot-title-screen-us.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen (JP).",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/805091-pocket-bowling-game-boy-color-screenshot-title-screen-jp.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/805091-pocket-bowling-game-boy-color-screenshot-title-screen-jp.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main menu.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/805092-pocket-bowling-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/805092-pocket-bowling-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Player select.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/805093-pocket-bowling-game-boy-color-screenshot-player-select.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/805093-pocket-bowling-game-boy-color-screenshot-player-select.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Pocket Bowling"
+    },
+    {
+      "description": "<i>Vegas Games</i> includes eight casino games with several variations of each one. The included games are keno, money wheel, baccarat, slots, video poker, craps, roulette and blackjack.",
+      "game_id": 93754,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 28,
+          "genre_name": "Casino / Gambling"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/vegas-games",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-02",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/917230-vegas-games-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/917230-vegas-games-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Select language (EU).",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/917231-vegas-games-game-boy-color-screenshot-select-language-eu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/917231-vegas-games-game-boy-color-screenshot-select-language-eu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "\"Main menu\".",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/917232-vegas-games-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/917232-vegas-games-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Enter your name.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/917233-vegas-games-game-boy-color-screenshot-enter-your-name.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/917233-vegas-games-game-boy-color-screenshot-enter-your-name.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Vegas Games"
+    },
+    {
+      "description": "<i>Meitantei Conan: Norowareta Kouro</i> (\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u546a\u308f\u308c\u305f\u822a\u8def) is a murder mystery adventure game based on <i>Detective Conan</i> manga and anime. Once again, Kudou Shinichi, a teenager with a great deduction skills who got shrank to a body of a 5-year old and now goes by the name of Conan Edogawa, finds himself in the middle of a mystery as boards the cruise liner as one of a participants on a mystery trip.\n\nThe game uses bird's eye camera while Conan is moving and investigating areas of interest, and switches to first-person visual novel style gameplay during dialogues or sometimes just uses dialogue window with character portraits over the gameplay scene. As in earlier games in the series, Conan obtains keywords that will help him in his investigation through people's testimonies and item clues.",
+      "game_id": 101325,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 164,
+          "genre_name": "Japanese-style Adventure"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 131,
+          "genre_name": "2D scrolling"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/meitantei-conan-norowareta-kro",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-06-01",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/921854-meitantei-conan-norowareta-koro-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/921854-meitantei-conan-norowareta-koro-game-boy-color-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Meitantei Conan: Norowareta K\u014dro"
+    },
+    {
+      "description": "Based on the popular NHK anime & manga created by CLAMP, <i>Itsumo Sakura-chan to Issho</i> (Always with Sakura-chan) is a game which makes use of a real-time clock feature to provide variations in gameplay based on the time of day. The player is tasked with utilizing the clock feature to help Sakura locate the Clow Cards, from the perspective of her guide, Cerberus. The player explores various rooms at various times of day in order to find the cards, while also partaking in Sakura's time at school.\n\nPlayers can utilize a Game Boy Printer to print out themed stickers, including various characters, icons, and whatever text the player enters. Various mini-games are also available.",
+      "game_id": 119869,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 164,
+          "genre_name": "Japanese-style Adventure"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 140,
+          "genre_name": "Mini-Games"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 139,
+          "genre_name": "Life / Social Simulation"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 167,
+          "genre_name": "Point and Select"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 120,
+          "genre_name": "Comedy"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 69,
+          "genre_name": "Meditative / Zen"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 200,
+          "genre_name": "Contemporary"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/cardcaptor-sakura-itsumo-sakura-chan-to-issho",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-05-15",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1020,
+        "image": "http://www.mobygames.com/images/covers/l/531318-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color-front-cover.png",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/531318-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 432,
+          "image": "http://www.mobygames.com/images/shots/l/956045-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/956045-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.jpg",
+          "width": 480
+        },
+        {
+          "caption": "SAY KIDS WHAT TIME IS IT?",
+          "height": 432,
+          "image": "http://www.mobygames.com/images/shots/l/956051-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/956051-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.jpg",
+          "width": 480
+        },
+        {
+          "caption": "CERBERUS used OSAKA ACCENT! It's super effective! SAKURA is confused!",
+          "height": 432,
+          "image": "http://www.mobygames.com/images/shots/l/956047-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/956047-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.jpg",
+          "width": 480
+        },
+        {
+          "caption": "Sweet dreams.",
+          "height": 432,
+          "image": "http://www.mobygames.com/images/shots/l/956048-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/956048-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.jpg",
+          "width": 480
+        }
+      ],
+      "title": "Cardcaptor Sakura: Itsumo Sakura-chan to Issho"
+    }
+  ]

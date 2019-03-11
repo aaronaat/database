@@ -1,0 +1,2150 @@
+[
+    {
+      "description": "After much acclaim for your past farming accomplishments (as part of the previous Harvest Moon titles on GBC), you are asked by a young girl to help her get her farm up and running. The farm, situated on an island, needs plenty of work, so you need all your skills to get things working correctly.\r\n\r\nYour many tasks range from tending to the farm animals, keeping an eye on the budget while purchasing goods (food, water, mechanical items, etc) at the local stores, and so forth. And although the main aim is to build and maintain the farm, there are plenty of opportunities to take care of yourself (go to the movies, buy pets, find a girlfriend/boyfriend).",
+      "game_id": 6492,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 40,
+          "genre_name": "Managerial / Business Simulation"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 4.1,
+      "moby_url": "http://www.mobygames.com/game/harvest-moon-3-gbc",
+      "num_votes": 8,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-11",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2014-12-11",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        }
+      ],
+      "sample_cover": {
+        "height": 134,
+        "image": "http://www.mobygames.com/images/covers/l/295410-harvest-moon-3-gbc-nintendo-3ds-front-cover.png",
+        "platforms": [
+          "Nintendo 3DS"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/295410-harvest-moon-3-gbc-nintendo-3ds-front-cover.jpg",
+        "width": 140
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268736-harvest-moon-3-gbc-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268736-harvest-moon-3-gbc-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen (JP).",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/889620-harvest-moon-3-gbc-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/889620-harvest-moon-3-gbc-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268737-harvest-moon-3-gbc-game-boy-color-screenshot-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268737-harvest-moon-3-gbc-game-boy-color-screenshot-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Good question ;)",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/59823-harvest-moon-3-gbc-game-boy-color-screenshot-good-question.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/59823-harvest-moon-3-gbc-game-boy-color-screenshot-good-question.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Harvest Moon 3 GBC"
+    },
+    {
+      "description": "<em>Harvest Moon</em> is a farming simulation where you must build and maintain a farm during the course of a year, while taking care of your budget and yourself. \n\nYou have the ability to buy, sell and take care of farm animals, crops and any other supplies that you may have. You can trade with many of the town's people, and fellow farmers. If you link up a friend's Game Boy, you can trade items between players as well.\n\nThe local stores supply plenty of items to help you in your quest, at a cost, of course. And if you have the time, you can go about the town in search of a little fun away from work.\n\nFrom an overhead perspective, you can explore your farming area, the local town and the Harvest Sprite tunnels, full of strange and wonderful creatures that can help or destroy your quest. There are four seasons (Summer, Autumn, Winter, Spring) and each brings with it new challenges such as keeping arm animals warm during the colder seasons, and supplying water to the crops during the warmer periods.\n\nThe GBC version includes all new characters and background sprites in full color, but is also backwards compatible with the original Game Boy version. ",
+      "game_id": 6493,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 40,
+          "genre_name": "Managerial / Business Simulation"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 4.0,
+      "moby_url": "http://www.mobygames.com/game/harvest-moon-gb",
+      "num_votes": 12,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1998-08",
+          "platform_id": 10,
+          "platform_name": "Game Boy"
+        },
+        {
+          "first_release_date": "1999-11",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2013-05-02",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        }
+      ],
+      "sample_cover": {
+        "height": 800,
+        "image": "http://www.mobygames.com/images/covers/l/189704-harvest-moon-gb-game-boy-front-cover.jpg",
+        "platforms": [
+          "Game Boy"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/189704-harvest-moon-gb-game-boy-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Part of the opening animation.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/428765-harvest-moon-gb-game-boy-screenshot-part-of-the-opening-animation.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/428765-harvest-moon-gb-game-boy-screenshot-part-of-the-opening-animation.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen (English version)",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/428766-harvest-moon-gb-game-boy-screenshot-title-screen-english-version.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/428766-harvest-moon-gb-game-boy-screenshot-title-screen-english-version.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen (Japanese version)",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/428767-harvest-moon-gb-game-boy-screenshot-title-screen-japanese.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/428767-harvest-moon-gb-game-boy-screenshot-title-screen-japanese.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen (Super Game Boy)",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/428768-harvest-moon-gb-game-boy-screenshot-title-screen-super-game.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/428768-harvest-moon-gb-game-boy-screenshot-title-screen-super-game.jpg",
+          "width": 256
+        }
+      ],
+      "title": "Harvest Moon GB"
+    },
+    {
+      "description": "This unique RPG provides a world of fishing as the prime objective.\n\nThere are two modes of play, The Fish and Raise.\n\nThe Fish: As a young boy, you must search out the fish called Guardian, the only fish in the river that can cure a disease caught by your sister, Teruyo. This mode combines RPG elements such as buying items, talking to the town's folk and searching the local river for the Guardian fish. The fishing element comes into play when you bait or lure fish at the river, in hopes to find a fish.\n\nRaise mode allows you to purchase a fish tank and the extras, and raise a small fish. Much like the many Pok\u00e9mon type games, you can feed it, keep the tank clean and raise the fish.",
+      "game_id": 6516,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 5,
+          "genre_name": "Sports"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Sports Themes",
+          "genre_category_id": 3,
+          "genre_id": 18,
+          "genre_name": "Fishing"
+        }
+      ],
+      "moby_score": 3.5,
+      "moby_url": "http://www.mobygames.com/game/legend-of-the-river-king-gb",
+      "num_votes": 7,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1997-09-19",
+          "platform_id": 10,
+          "platform_name": "Game Boy"
+        },
+        {
+          "first_release_date": "1999-11",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2013-03-07",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        }
+      ],
+      "sample_cover": {
+        "height": 790,
+        "image": "http://www.mobygames.com/images/covers/l/257188-legend-of-the-river-king-gb-game-boy-front-cover.png",
+        "platforms": [
+          "Game Boy"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/257188-legend-of-the-river-king-gb-game-boy-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/265982-legend-of-the-river-king-gb-game-boy-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/265982-legend-of-the-river-king-gb-game-boy-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Select mode",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/265983-legend-of-the-river-king-gb-game-boy-screenshot-select-mode.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/265983-legend-of-the-river-king-gb-game-boy-screenshot-select-mode.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Data",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/265984-legend-of-the-river-king-gb-game-boy-screenshot-data.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/265984-legend-of-the-river-king-gb-game-boy-screenshot-data.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Your sister needs a certain magic fish to save her from her illness.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/265985-legend-of-the-river-king-gb-game-boy-screenshot-your-sister.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/265985-legend-of-the-river-king-gb-game-boy-screenshot-your-sister.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Legend of the River King GB"
+    },
+    {
+      "description": "More fishing adventures on the Game Boy. This time, there are plenty more fish and other river creatures that you can catch and collect, including 60 types of fish, shellfish, plants and insects. Other animals living around the river can smell your catch and may attack you.\r\n\r\nA new element in the game is the ability to trade your fish, etc. with other players. Link up with another friend to trade your catch, either in Legend of the River King 2 or another Natsume title, Harvest Moon.",
+      "game_id": 6517,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 5,
+          "genre_name": "Sports"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Sports Themes",
+          "genre_category_id": 3,
+          "genre_id": 18,
+          "genre_name": "Fishing"
+        }
+      ],
+      "moby_score": 3.4,
+      "moby_url": "http://www.mobygames.com/game/legend-of-the-river-king-2",
+      "num_votes": 4,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-07",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2014-09-18",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        }
+      ],
+      "sample_cover": {
+        "height": 790,
+        "image": "http://www.mobygames.com/images/covers/l/72141-legend-of-the-river-king-2-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/72141-legend-of-the-river-king-2-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/326945-legend-of-the-river-king-2-game-boy-color-screenshot-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/326945-legend-of-the-river-king-2-game-boy-color-screenshot-title.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/326946-legend-of-the-river-king-2-game-boy-color-screenshot-main.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/326946-legend-of-the-river-king-2-game-boy-color-screenshot-main.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Enter your name.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/326947-legend-of-the-river-king-2-game-boy-color-screenshot-enter.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/326947-legend-of-the-river-king-2-game-boy-color-screenshot-enter.jpg",
+          "width": 160
+        },
+        {
+          "caption": "The beginning",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/326949-legend-of-the-river-king-2-game-boy-color-screenshot-the-beginning.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/326949-legend-of-the-river-king-2-game-boy-color-screenshot-the-beginning.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Legend of the River King 2"
+    },
+    {
+      "description": "A motorcycle racing game with an attitude. You race in varying environments for ever increasing sums of money. With that money you can buy faster and better bikes. There are many objects on the road to watch out for, from cars to rocks to signs, if you hit one you'll go flying and loose valuable time. If you crash too often your bike can get wrecked. You can also attack other racers. The default attack is a punch, but some racers have weapons, which you can steal and use \r\nagainst them. The police patrol the various courses, so if you're not careful you can get busted. Road Rash II is not just a racing game but also a fighting game.\r\n",
+      "game_id": 6642,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 6,
+          "genre_name": "Racing / Driving"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 9,
+          "genre_name": "Arcade"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 20,
+          "genre_name": "Motorcycle"
+        }
+      ],
+      "moby_score": 3.8,
+      "moby_url": "http://www.mobygames.com/game/road-rash-ii",
+      "num_votes": 45,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1992",
+          "platform_id": 16,
+          "platform_name": "Genesis"
+        },
+        {
+          "first_release_date": "2000-11-05",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1109,
+        "image": "http://www.mobygames.com/images/covers/l/17644-road-rash-ii-genesis-front-cover.jpg",
+        "platforms": [
+          "Genesis"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/17644-road-rash-ii-genesis-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/142046-road-rash-ii-genesis-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/142046-road-rash-ii-genesis-screenshot-title-screen.jpg",
+          "width": 320
+        },
+        {
+          "caption": "Main menu",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/142047-road-rash-ii-genesis-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/142047-road-rash-ii-genesis-screenshot-main-menu.jpg",
+          "width": 320
+        },
+        {
+          "caption": "Setting your name.",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/466975-road-rash-ii-genesis-screenshot-setting-your-name.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/466975-road-rash-ii-genesis-screenshot-setting-your-name.gif",
+          "width": 320
+        },
+        {
+          "caption": "Cruising around Tennessee",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/175240-road-rash-ii-genesis-screenshot-cruising-around-tennessee.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/175240-road-rash-ii-genesis-screenshot-cruising-around-tennessee.jpg",
+          "width": 320
+        }
+      ],
+      "title": "Road Rash II"
+    },
+    {
+      "description": "Choose from eleven tough and rugged Caterpillar machines including tractors, backhoes, and bulldozers.  Dig ditches, move boulders, and perform daring rescues.  Plus, solve missions including plowing and harvesting a field and building a boulder bridge.",
+      "game_id": 11517,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 2.7,
+      "moby_url": "http://www.mobygames.com/game/caterpillar-construction-zone",
+      "num_votes": 4,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-12-23",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen / Main menu.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/156963-caterpillar-construction-zone-game-boy-color-screenshot-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/156963-caterpillar-construction-zone-game-boy-color-screenshot-title.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Loading level 1",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/160966-caterpillar-construction-zone-game-boy-color-screenshot-loading.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/160966-caterpillar-construction-zone-game-boy-color-screenshot-loading.jpg",
+          "width": 160
+        },
+        {
+          "caption": "The specs on the first vehicle you will use",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/160967-caterpillar-construction-zone-game-boy-color-screenshot-the.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/160967-caterpillar-construction-zone-game-boy-color-screenshot-the.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Using the D10R track-type tractor",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/160968-caterpillar-construction-zone-game-boy-color-screenshot-using.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/160968-caterpillar-construction-zone-game-boy-color-screenshot-using.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Caterpillar Construction Zone"
+    },
+    {
+      "description": "The GameBoy version of the popular  V-Rally series, includes 4 licensed cars and 20 racing tracks from different countries with varying weather conditions (raining on the English track, snow in Sweden etc.), and two game modes: Arcade and Championship.\nIn Arcade mode you race against the clock, and in Championship mode you race against other cars to get to the finish line first.\n\nYou see the car from behind in the usual early racing game style, with symbols popping up to warn about turns and obstacles on the road.",
+      "game_id": 20588,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 6,
+          "genre_name": "Racing / Driving"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 9,
+          "genre_name": "Arcade"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 192,
+          "genre_name": "Track Racing"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 188,
+          "genre_name": "Automobile"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 58,
+          "genre_name": "Off-roading"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 3.0,
+      "moby_url": "http://www.mobygames.com/game/v-rally-championship-edition",
+      "num_votes": 6,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1998",
+          "platform_id": 10,
+          "platform_name": "Game Boy"
+        },
+        {
+          "first_release_date": "1999-06",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2000-10",
+          "platform_id": 65,
+          "platform_name": "Palm OS"
+        },
+        {
+          "first_release_date": "2001-02",
+          "platform_id": 66,
+          "platform_name": "Windows Mobile"
+        },
+        {
+          "first_release_date": "2001-03",
+          "platform_id": 67,
+          "platform_name": "Symbian"
+        }
+      ],
+      "sample_cover": {
+        "height": 800,
+        "image": "http://www.mobygames.com/images/covers/l/56829-v-rally-championship-edition-game-boy-front-cover.jpg",
+        "platforms": [
+          "Game Boy"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/56829-v-rally-championship-edition-game-boy-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/148045-v-rally-championship-edition-game-boy-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/148045-v-rally-championship-edition-game-boy-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Car Selection",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/148046-v-rally-championship-edition-game-boy-screenshot-car-selection.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/148046-v-rally-championship-edition-game-boy-screenshot-car-selection.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Championship mode - Italy",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/148047-v-rally-championship-edition-game-boy-screenshot-championship.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/148047-v-rally-championship-edition-game-boy-screenshot-championship.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Passing an opponent",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/148048-v-rally-championship-edition-game-boy-screenshot-passing-an.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/148048-v-rally-championship-edition-game-boy-screenshot-passing-an.jpg",
+          "width": 160
+        }
+      ],
+      "title": "V-Rally: Championship Edition"
+    },
+    {
+      "description": "Based on the 1996 arcade game, <i>Densha de Go!</i> was one of the first commercial train-driving simulation games, and went on to spawn numerous successors.\n\nThe player can choose from a variety of tracks and trains and will then have to drive the train to the designated stations while sticking to the tight schedule, stopping exactly at the marked positions, obeying all signs and signals, and ensuring passenger safety and comfort.\n\nWhenever the player makes a mistake, points are deducted from a counter which at the start of each round is initialized to a value depending on the selected difficulty. If it reaches zero, the game is over.\n\nThe following lines are featured:<ul><li><b>Sagano Main Line</b> (Sanin Line) from Kameoka to Kyoto</li>\n<li><b>Keihin-T\u014dhoku Line</b> from Shinagawa to Yokohama</li>\n<li><b>T\u014dkaid\u014d Main Line</b> (JR Kyoto Line) from Kyoto to Osaka</li>\n<li><b>Yamanote Line</b> (Inner Circle) from Shibuya to Tokyo Station</li>\n<li><b>T\u014dkaid\u014d Main Line EX</b> from Takatsuki to Osaka, part of the rapid T\u014dkaid\u014d Main Line from the original version, but this time with stops at every station (Windows only)</li>\n<li><b>Sagano Line EX</b> from Kameoka to Kyoto, without the shortcut from Saga-Arashiyama to Tambaguchi from the original version (Windows only)</li></ul>",
+      "game_id": 28788,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 108,
+          "genre_name": "Train"
+        }
+      ],
+      "moby_score": 3.5,
+      "moby_url": "http://www.mobygames.com/game/densha-de-go",
+      "num_votes": 4,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1997-03",
+          "platform_id": 143,
+          "platform_name": "Arcade"
+        },
+        {
+          "first_release_date": "1997-12-18",
+          "platform_id": 6,
+          "platform_name": "PlayStation"
+        },
+        {
+          "first_release_date": "1998",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "1999-03-04",
+          "platform_id": 48,
+          "platform_name": "WonderSwan"
+        },
+        {
+          "first_release_date": "1999-12-10",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 786,
+        "image": "http://www.mobygames.com/images/covers/l/247930-densha-de-go-playstation-front-cover.jpg",
+        "platforms": [
+          "PlayStation"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/247930-densha-de-go-playstation-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/275069-densha-de-go-windows-screenshot-title-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/275069-densha-de-go-windows-screenshot-title-screen.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Legal warning, as it appears in every game of the series.",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/275062-densha-de-go-windows-screenshot-legal-warning-as-it-appears.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/275062-densha-de-go-windows-screenshot-legal-warning-as-it-appears.jpg",
+          "width": 640
+        },
+        {
+          "caption": "The intro sequence is identical to the Arcade version.",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/275067-densha-de-go-windows-screenshot-the-intro-sequence-is-identical.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/275067-densha-de-go-windows-screenshot-the-intro-sequence-is-identical.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Main menu",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/275070-densha-de-go-windows-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/275070-densha-de-go-windows-screenshot-main-menu.jpg",
+          "width": 640
+        }
+      ],
+      "title": "Densha de Go!"
+    },
+    {
+      "description": "The 1998 sequel of the popular Japanese train driving game by Taito has once again been ported to various home systems. For the first time on the PlayStation, it is possible to drive through the snow, and take a seat in the cockpit of a Shinkansen bullet train.\n\nThe gameplay is more arcade than simulation. The focus is on stopping at the stations at the perfect moment and position, keeping up with the schedule, obeying signals and speed limits, and ensuring the safety and comfort of the passengers. Mistakes result in points being deducted from a counter. If it reaches 0, the game is over.\n\nThe following routes are available:<ul><li>Hokuhoku Line from Naoetsu to Uragawara</li>\n<li>T\u014dhoku Shinkansen from Morioka to Shin-Hanamaki</li>\n<li>Akita Shinkansen from Akita to \u014cmagari</li>\n<li>Keihin-Tohoku Line from Shinagawa to Ueno</li>\n<li>Osaka Loop Line from Osaka to Tenn\u014dji (not in the Arcade original)</li>\n<li>Kagoshima Main Line from Hakata to Kokura (only in PlayStation and Windows versions)</li></ul>",
+      "game_id": 29765,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 108,
+          "genre_name": "Train"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/densha-de-go-2",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "1999",
+          "platform_id": 48,
+          "platform_name": "WonderSwan"
+        },
+        {
+          "first_release_date": "1999-03-18",
+          "platform_id": 6,
+          "platform_name": "PlayStation"
+        },
+        {
+          "first_release_date": "1999-10-21",
+          "platform_id": 53,
+          "platform_name": "Neo Geo Pocket Color"
+        },
+        {
+          "first_release_date": "2000-12-08",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 995,
+        "image": "http://www.mobygames.com/images/covers/l/292279-densha-de-go-2-wonderswan-front-cover.jpg",
+        "platforms": [
+          "WonderSwan"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/292279-densha-de-go-2-wonderswan-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/274549-densha-de-go-2-wonderswan-screenshot-title-screen.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/274549-densha-de-go-2-wonderswan-screenshot-title-screen.gif",
+          "width": 224
+        },
+        {
+          "caption": "Options",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/274550-densha-de-go-2-wonderswan-screenshot-options.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/274550-densha-de-go-2-wonderswan-screenshot-options.gif",
+          "width": 224
+        },
+        {
+          "caption": "Select a train.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/274551-densha-de-go-2-wonderswan-screenshot-select-a-train.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/274551-densha-de-go-2-wonderswan-screenshot-select-a-train.gif",
+          "width": 224
+        },
+        {
+          "caption": "A picture of a train",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/274552-densha-de-go-2-wonderswan-screenshot-a-picture-of-a-train.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/274552-densha-de-go-2-wonderswan-screenshot-a-picture-of-a-train.gif",
+          "width": 224
+        }
+      ],
+      "title": "Densha de Go! 2"
+    },
+    {
+      "description": "<i>F-1 World Grand Prix</i> is a Formula 1 racing game for the Game Boy Color, based on the Nintendo 64 title. The Game Boy Color iteration features an official license of the 1998 season and thus all 11 authentic teams, drivers and tracks from that year. Unlike the Nintendo 64 version the game is completely in 2D and is viewed from a 3rd person perspective.\n\nThe game tries to deliver the most realistic racing experience on a handheld of its time. You can manually adjust many aspects of the car before each race, such as transmission, gear, and tyre types and the alignment of your spoilers.\n\nThe game features five playing modes (Grand Prix, Exhibition, Challenge, Time Trial and Two Player), two difficulty settings and allows for three separate save games. You can turn damage and different weather types on and off.",
+      "game_id": 36355,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 6,
+          "genre_name": "Racing / Driving"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 158,
+          "genre_name": "Vehicle Simulator"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 192,
+          "genre_name": "Track Racing"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 188,
+          "genre_name": "Automobile"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 3.8,
+      "moby_url": "http://www.mobygames.com/game/f-1-world-grand-prix_",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen/main menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/947949-f-1-world-grand-prix-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/947949-f-1-world-grand-prix-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "The tongues of racing, or the racing tongues.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/340546-f-1-world-grand-prix-game-boy-color-screenshot-the-tongues.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/340546-f-1-world-grand-prix-game-boy-color-screenshot-the-tongues.jpg",
+          "width": 160
+        },
+        {
+          "caption": "A monochrome car sets the mood as it absorbed into the light of the sun.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/340547-f-1-world-grand-prix-game-boy-color-screenshot-a-monochrome.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/340547-f-1-world-grand-prix-game-boy-color-screenshot-a-monochrome.jpg",
+          "width": 160
+        },
+        {
+          "caption": "A mighty engine belch.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/340548-f-1-world-grand-prix-game-boy-color-screenshot-a-mighty-engine.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/340548-f-1-world-grand-prix-game-boy-color-screenshot-a-mighty-engine.jpg",
+          "width": 160
+        }
+      ],
+      "title": "F-1 World Grand Prix"
+    },
+    {
+      "description": "<i>Bass Masters Classic</i> is a game for the Game Boy Color in which you can participate in a bass fishing tournament. The game features variable weather conditions and times of day, a variety of lures, and realistic fish behavior.\n\nYou can play in tournament and practice mode. The first allows you to compete and qualify for the Bass Master Classic tournament. In practice mode you can chose for yourself with what weather, time, and fishing spot you'd like to play.\n\nGameplay consists of watching the line from the \"lure cam\" angle. Once a fish catches the bait you have to quickly press the D-pad to reel it in.",
+      "game_id": 36975,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 5,
+          "genre_name": "Sports"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Sports Themes",
+          "genre_category_id": 3,
+          "genre_id": 18,
+          "genre_name": "Fishing"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 2.6,
+      "moby_url": "http://www.mobygames.com/game/bass-masters-classic_",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 793,
+        "image": "http://www.mobygames.com/images/covers/l/146111-bass-masters-classic-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/146111-bass-masters-classic-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/462906-bass-masters-classic-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/462906-bass-masters-classic-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Opening.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/745811-bass-masters-classic-game-boy-color-screenshot-opening.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/745811-bass-masters-classic-game-boy-color-screenshot-opening.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/462907-bass-masters-classic-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/462907-bass-masters-classic-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Practice mode. Environment.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/745812-bass-masters-classic-game-boy-color-screenshot-practice-mode.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/745812-bass-masters-classic-game-boy-color-screenshot-practice-mode.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Bass Masters Classic"
+    },
+    {
+      "description": "<i>Pro Pool</i> is a Pool simulation game on the Game Boy Color. You can play a single game against the computer or a friend using a link cable, or you can start hustling. In the hustle mode you start with 100 dollars and have to play games to earn money. With more money you will gain access to bigger places with tougher competitors where more money can be earned. With enough money you can start your own pool bar.\n\nThe game allows you to play a variety of pool games such as 8 Ball, 9 Ball, 6 Ball, 3 Ball, Straight pool and Speed pool. There are 64 computer opponents to play against.",
+      "game_id": 37111,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 5,
+          "genre_name": "Sports"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Sports Themes",
+          "genre_category_id": 3,
+          "genre_id": 89,
+          "genre_name": "Pool / Snooker"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/pro-pool",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 798,
+        "image": "http://www.mobygames.com/images/covers/l/146130-pro-pool-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/146130-pro-pool-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463226-pro-pool-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463226-pro-pool-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "In-game",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/741838-pro-pool-game-boy-color-screenshot-in-game.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/741838-pro-pool-game-boy-color-screenshot-in-game.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Pro Pool"
+    },
+    {
+      "description": "<i>F1 World Grand Prix II</i> is a formula one racing game for the Game Boy Color. Unlike the Nintendo 64 title of the same name, it features the FIA license for the '99 season with all drivers, teams and tracks that come along with said license. Unlike both the Nintendo 64 and Dreamcast version the Game Boy Color version is completely in 2D, just like its predecessor. Playing modes include: exhibition, Grand Prix, time attack, challenge and match race. The latter is a two player mode which works with a link cable. Like the Nintendo 64 version the challenge mode allows you to replay some critical events in the season. Cars can be completely adjusted (tyres, gears, wings, fuel load) and comes with variable weather conditions. You can change said settings before a race and during pit stops.",
+      "game_id": 37939,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 6,
+          "genre_name": "Racing / Driving"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 158,
+          "genre_name": "Vehicle Simulator"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 192,
+          "genre_name": "Track Racing"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 188,
+          "genre_name": "Automobile"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/f1-world-grand-prix-ii-for-game-boy-color",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/348075-f1-world-grand-prix-ii-for-game-boy-color-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/348075-f1-world-grand-prix-ii-for-game-boy-color-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Mode selection",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/348076-f1-world-grand-prix-ii-for-game-boy-color-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/348076-f1-world-grand-prix-ii-for-game-boy-color-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Starting a race.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/348077-f1-world-grand-prix-ii-for-game-boy-color-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/348077-f1-world-grand-prix-ii-for-game-boy-color-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Passing cars.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/348078-f1-world-grand-prix-ii-for-game-boy-color-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/348078-f1-world-grand-prix-ii-for-game-boy-color-game-boy-color-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "F1 World Grand Prix II for Game Boy Color"
+    },
+    {
+      "description": "<i>F1 Racing Championship</i> is a a Formula One racing game. Like its counterpart on the PC and consoles the game has an official license for the 1999 season and features all drivers, cars and tracks from that season.\n\nThe game allows for a first person cockpit view of the races. The season can be played in arcade and simulation mode. In the latter mode the player is responsible for adjusting his car before each race.",
+      "game_id": 43455,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 6,
+          "genre_name": "Racing / Driving"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 5,
+          "genre_name": "Sports"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 158,
+          "genre_name": "Vehicle Simulator"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 192,
+          "genre_name": "Track Racing"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 188,
+          "genre_name": "Automobile"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 3.2,
+      "moby_url": "http://www.mobygames.com/game/f1-racing-championship_",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-11-10",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title shown in intro sequence",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463072-f1-racing-championship-game-boy-color-screenshot-title-shown.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463072-f1-racing-championship-game-boy-color-screenshot-title-shown.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Intro movie.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/744383-f1-racing-championship-game-boy-color-screenshot-intro-movie.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/744383-f1-racing-championship-game-boy-color-screenshot-intro-movie.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463073-f1-racing-championship-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463073-f1-racing-championship-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Team/Driver selection.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/744385-f1-racing-championship-game-boy-color-screenshot-team-driver.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/744385-f1-racing-championship-game-boy-color-screenshot-team-driver.jpg",
+          "width": 160
+        }
+      ],
+      "title": "F1 Racing Championship"
+    },
+    {
+      "description": "This game is the portable version of Hoyle Casino. Besides the obvious graphical differences, it contains a smaller amount of slot and video poker machines to play. Like its namesake on the PC and consoles, the game features a variety of casino themed games. You start off with a sum of money and try to make your fortune in a casino playing various games.",
+      "game_id": 43644,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 28,
+          "genre_name": "Casino / Gambling"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/hoyle-casino_",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-10",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Sign in Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463224-hoyle-casino-game-boy-color-screenshot-sign-in-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463224-hoyle-casino-game-boy-color-screenshot-sign-in-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Choose Game",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463225-hoyle-casino-game-boy-color-screenshot-choose-game.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463225-hoyle-casino-game-boy-color-screenshot-choose-game.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Hoyle Casino"
+    },
+    {
+      "description": "The Game Boy Color version of the original Tom Clancy's Rainbow Six game scales back the 3D visuals of the original game in favor of an almost top-down view, but builds on the same premise of the player controlling a member of the Rainbow counterterrorism unit, responsible for resolving hostage situations and neutralizing threats, in sixteen missions.\n\nThe limitations of the platform are not traded in for an arcade-like approach. Just like the major computer version it stresses careful planning and tactics. After a briefing that needs to be followed attentively, the player assumes the role of the commander and assembles a squad of eight operatives, each with different statistics and abilities, based on character traits such as aggression and self-control, physical elements such as stamina, and specific skills including stealth, firearms, electronics, demolitions and many other types of weapons. They can be divided into up to four independent teams. Next, the operatives are outfitted with a selection of six different rifles, six different handguns, 24 types of armor or camouflage and additional tools including heartbeat sensors and door charges. Default equipment is suggested right away, but that is not sufficient for later missions. In the planning mode, the last part of the pre-mission activities, the commander needs to set out waypoints on the map and determine the course of action.\n\nThe actual missions are shown in 2D where the different characters can sneak around, blow up doors, rescue hostages and engage the enemy, all requiring a tactical approach. The general plot points and mission objectives are true to the computer version.",
+      "game_id": 44108,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 153,
+          "genre_name": "Tactical Shooter"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 3.2,
+      "moby_url": "http://www.mobygames.com/game/tom-clancys-rainbow-six__",
+      "num_votes": 7,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-04-03",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 795,
+        "image": "http://www.mobygames.com/images/covers/l/14285-tom-clancy-s-rainbow-six-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/14285-tom-clancy-s-rainbow-six-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen / Main menu.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/156962-tom-clancy-s-rainbow-six-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/156962-tom-clancy-s-rainbow-six-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Mission briefing",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/178219-tom-clancy-s-rainbow-six-game-boy-color-screenshot-mission.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/178219-tom-clancy-s-rainbow-six-game-boy-color-screenshot-mission.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Select your roster.  You get eight people per mission",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/178220-tom-clancy-s-rainbow-six-game-boy-color-screenshot-select.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/178220-tom-clancy-s-rainbow-six-game-boy-color-screenshot-select.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Select your equipment.  You can give separate assignments to each character.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/178221-tom-clancy-s-rainbow-six-game-boy-color-screenshot-select.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/178221-tom-clancy-s-rainbow-six-game-boy-color-screenshot-select.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Tom Clancy's Rainbow Six"
+    },
+    {
+      "description": "As Tanner, you're going undercover to be the wheelman for a crime syndicate in order to break open a big case. On the way, you'll eliminate competition, drive getaway cars, scare some people silly, evade plenty of police and steal one of their cars, dodge bad guys and smash through a few windows.\n\nYou have multiple vehicles that you will use and there are also mini games like checkpoint, pursuit, survival and get away. Unlike the other versions, the GBC version is top down and the city of San Francisco is missing.",
+      "game_id": 45139,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 6,
+          "genre_name": "Racing / Driving"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        }
+      ],
+      "moby_score": 3.1,
+      "moby_url": "http://www.mobygames.com/game/driver_",
+      "num_votes": 10,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-05-16",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/146776-driver-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/146776-driver-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/146777-driver-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/146777-driver-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Choosing a vehicle for a free ride",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/146778-driver-game-boy-color-screenshot-choosing-a-vehicle-for-a.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/146778-driver-game-boy-color-screenshot-choosing-a-vehicle-for-a.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Cruising Miami",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/146779-driver-game-boy-color-screenshot-cruising-miami.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/146779-driver-game-boy-color-screenshot-cruising-miami.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Driver"
+    },
+    {
+      "description": "<i>3-D Ultra Pinball: Thrillride</i> is a two-dimensional pinball game made to look like Hersheypark. This version of the game is an adaptation of the Windows version of the same name.\n\nTwo sets of flippers are controlled as well as bumper cars in the pits to extend the life of each ball. Up to four players can hand off the Game Boy Color and play in turn. Each player is represented by a different anthropomorphic Hershy's product. There are three different difficulty levels which each player can set individually so novice players can stand a chance against the veterans of the game.\n\nHigh scores are saved to the battery backup.",
+      "game_id": 53057,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 53,
+          "genre_name": "Pinball"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 2.9,
+      "moby_url": "http://www.mobygames.com/game/3-d-ultra-pinball-thrillride_",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-12",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/526412-3-d-ultra-pinball-thrillride-game-boy-color-screenshot-title.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/526412-3-d-ultra-pinball-thrillride-game-boy-color-screenshot-title.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Look at those options.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/526413-3-d-ultra-pinball-thrillride-game-boy-color-screenshot-look.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/526413-3-d-ultra-pinball-thrillride-game-boy-color-screenshot-look.jpg",
+          "width": 160
+        },
+        {
+          "caption": "High Scores are saved to the cartridge.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/526414-3-d-ultra-pinball-thrillride-game-boy-color-screenshot-high.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/526414-3-d-ultra-pinball-thrillride-game-boy-color-screenshot-high.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Up to 4 players.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/526415-3-d-ultra-pinball-thrillride-game-boy-color-screenshot-up.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/526415-3-d-ultra-pinball-thrillride-game-boy-color-screenshot-up.jpg",
+          "width": 160
+        }
+      ],
+      "title": "3-D Ultra Pinball: Thrillride"
+    },
+    {
+      "description": "<i>Catz</i> is a virtual pet and basically the same game as Dogz. The player adopts a cat and has to care for its well-being. The cat walks around in its one-screen room and the player controls a cursor which can be used to pet or grab it. Additionally a few accessories can be selected from a different screen, e.g. a brush, which are used for to keep it healthy and happy. If the player neglects it, the cat runs away. Over time the player can unlock more items and even more cat breeds.",
+      "game_id": 56044,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        }
+      ],
+      "moby_score": 3.2,
+      "moby_url": "http://www.mobygames.com/game/catz_",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-12",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/600558-catz-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/600558-catz-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/600559-catz-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/600559-catz-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "We can choose the cat's colour.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/600560-catz-game-boy-color-screenshot-we-can-choose-the-cat-s-colour.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/600560-catz-game-boy-color-screenshot-we-can-choose-the-cat-s-colour.jpg",
+          "width": 160
+        },
+        {
+          "caption": "OK, we'll try.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/600561-catz-game-boy-color-screenshot-ok-we-ll-try.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/600561-catz-game-boy-color-screenshot-ok-we-ll-try.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Catz"
+    },
+    {
+      "description": "<i>Dogz</i> is a virtual pet and basically the same game as Catz. The player adopts a dog and has to care for its well-being. The dog walks around in its one-screen room and the player controls a cursor which can be used to pet or grab it. Additionally a few accessories can be selected from a different screen, e.g. a brush, which are used for to keep it healthy and happy. If the player neglects it, the dog runs away. Over time the player can unlock more items and even more dog breeds.",
+      "game_id": 56045,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        }
+      ],
+      "moby_score": 3.0,
+      "moby_url": "http://www.mobygames.com/game/dogz_",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-12",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/601901-dogz-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/601901-dogz-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/601902-dogz-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/601902-dogz-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "It can be assumed we will. We are all very nice at MobyGames!",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/601903-dogz-game-boy-color-screenshot-it-can-be-assumed-we-will-we.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/601903-dogz-game-boy-color-screenshot-it-can-be-assumed-we-will-we.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Isn't he cuuuuute?",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/601904-dogz-game-boy-color-screenshot-isn-t-he-cuuuuute.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/601904-dogz-game-boy-color-screenshot-isn-t-he-cuuuuute.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Dogz"
+    },
+    {
+      "description": "<i>Pok\u00e9mon Card GB2: Here Comes Team GR!</i> is the sequel to Pok\u00e9mon Trading Card Game. The game expands on the original, adding Mint, a female player character, as well as a larger world and more developed storyline. It contains nearly all cards from Base Set, Jungle, Fossil, and Team Rocket. Also introduced is the villainous Team Great Rocket, who have kidnapped many Club Masters and attempted to steal the Legendary Cards.",
+      "game_id": 60742,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 157,
+          "genre_name": "Trading / Collectible Card"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/pokmon-card-gb2-gr-dan-sanjou",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-03-28",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/621784-pokemon-card-gb2-gr-dan-sanjou-game-boy-color-screenshot-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/621784-pokemon-card-gb2-gr-dan-sanjou-game-boy-color-screenshot-title.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Pok\u00e9mon Card GB2: GR Dan Sanjou!"
+    },
+    {
+      "description": "<i>Harvest Moon 2 GBC</i> is a farming simulation game and the sequel to Harvest Moon GB. The mayor gives the player a free farm. However, the player must become a successful farmer, as the mayor will come to check on the player at the end of the year. If the farm is successful, he allows the play to keep farming a few more years. If not, he gives the player a second chance, because if they don't get their act together, he'll reclaim the land and develop it into an amusement park.\n\nThe player chooses to play as either a boy or a girl, and then chooses if they want a dog or a cat as a pet (the pet choice slightly effects gameplay). The dog keeps other dogs from invading your farm at night, and the cat will occasionally bring items to the player's house. Livestock includes cows (for milk), chickens (for eggs) and sheep (for wool). A horse may also be eventually obtained for riding and work. The player's income primarily comes from crops. They are raised from seeds and must be watered every day until the harvest. The player can then sell them. Sometimes plants will produce more than one harvest. Crops can be grown all year long, but a greenhouse must be built in order to grow flowers and herbs during all seasons. Tools can be used to help with work, and include axes, hoes, hammers, watering cans, sickles, fishing rods, pickaxes and umbrellas. Unlike the previous game, there is no dating/romance feature.",
+      "game_id": 69038,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 40,
+          "genre_name": "Managerial / Business Simulation"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 4.8,
+      "moby_url": "http://www.mobygames.com/game/harvest-moon-2-gbc",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-08-06",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2014-10-16",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        }
+      ],
+      "sample_cover": {
+        "height": 134,
+        "image": "http://www.mobygames.com/images/covers/l/292893-harvest-moon-2-gbc-nintendo-3ds-front-cover.png",
+        "platforms": [
+          "Nintendo 3DS"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/292893-harvest-moon-2-gbc-nintendo-3ds-front-cover.jpg",
+        "width": 140
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen (EU/US).",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/889744-harvest-moon-2-gbc-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/889744-harvest-moon-2-gbc-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Intro.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/889743-harvest-moon-2-gbc-game-boy-color-screenshot-intro.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/889743-harvest-moon-2-gbc-game-boy-color-screenshot-intro.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen (German).",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/889745-harvest-moon-2-gbc-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/889745-harvest-moon-2-gbc-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen (JP).",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/889746-harvest-moon-2-gbc-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/889746-harvest-moon-2-gbc-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Harvest Moon 2 GBC"
+    },
+    {
+      "description": "<i>NASCAR 2000</i> for the Game Boy Color is the handheld edition of the console/PC game, featuring platform-appropriate 2D graphics and its own selection of drivers, tracks and modes.\n\nThe game includes 33 drivers of the 2000 season, along with 16 tracks to race on. The available racing modes are single races and a 16-race season, with progress saved to battery-backed RAM. There is also a head-to-head two-player mode via link cable. Game options include selectable difficulty, numbers of car on the track (from 10 to 20), race length (in % of a real NASCAR race, default is 3% for 11 laps), car damage (off, on, or limited) and pit mode (for short or long races).\n\nBefore a race, the selected car can be tuned from the defaults of which every driver has his own. Fuel volume, wheel lock, rear spoiler, shock absorbers, tire pressure and weight jacking are adjustable. During the race, the own car is seen from a third-person perspective, with race stats, damage and fuel indicators, speed and current gear displayed at the top and bottom. Only in the season mode there is  a choice of automatic or manual shifting.",
+      "game_id": 75417,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 6,
+          "genre_name": "Racing / Driving"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 5,
+          "genre_name": "Sports"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 192,
+          "genre_name": "Track Racing"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 188,
+          "genre_name": "Automobile"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 3.3,
+      "moby_url": "http://www.mobygames.com/game/nascar-2000_",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/154122-nascar-2000-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/154122-nascar-2000-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Menu screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/154123-nascar-2000-game-boy-color-screenshot-menu-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/154123-nascar-2000-game-boy-color-screenshot-menu-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Choosing the driver.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/154124-nascar-2000-game-boy-color-screenshot-choosing-the-driver.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/154124-nascar-2000-game-boy-color-screenshot-choosing-the-driver.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Race grid.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/154125-nascar-2000-game-boy-color-screenshot-race-grid.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/154125-nascar-2000-game-boy-color-screenshot-race-grid.jpg",
+          "width": 160
+        }
+      ],
+      "title": "NASCAR 2000"
+    },
+    {
+      "description": "<i>Vegas Games</i> includes eight casino games with several variations of each one. The included games are keno, money wheel, baccarat, slots, video poker, craps, roulette and blackjack.",
+      "game_id": 93754,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 28,
+          "genre_name": "Casino / Gambling"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/vegas-games",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-02",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/917230-vegas-games-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/917230-vegas-games-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Select language (EU).",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/917231-vegas-games-game-boy-color-screenshot-select-language-eu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/917231-vegas-games-game-boy-color-screenshot-select-language-eu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "\"Main menu\".",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/917232-vegas-games-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/917232-vegas-games-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Enter your name.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/917233-vegas-games-game-boy-color-screenshot-enter-your-name.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/917233-vegas-games-game-boy-color-screenshot-enter-your-name.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Vegas Games"
+    },
+    {
+      "description": "Based on the popular NHK anime & manga created by CLAMP, <i>Itsumo Sakura-chan to Issho</i> (Always with Sakura-chan) is a game which makes use of a real-time clock feature to provide variations in gameplay based on the time of day. The player is tasked with utilizing the clock feature to help Sakura locate the Clow Cards, from the perspective of her guide, Cerberus. The player explores various rooms at various times of day in order to find the cards, while also partaking in Sakura's time at school.\n\nPlayers can utilize a Game Boy Printer to print out themed stickers, including various characters, icons, and whatever text the player enters. Various mini-games are also available.",
+      "game_id": 119869,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 164,
+          "genre_name": "Japanese-style Adventure"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 140,
+          "genre_name": "Mini-Games"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 139,
+          "genre_name": "Life / Social Simulation"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 167,
+          "genre_name": "Point and Select"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 120,
+          "genre_name": "Comedy"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 69,
+          "genre_name": "Meditative / Zen"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 200,
+          "genre_name": "Contemporary"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/cardcaptor-sakura-itsumo-sakura-chan-to-issho",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-05-15",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1020,
+        "image": "http://www.mobygames.com/images/covers/l/531318-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color-front-cover.png",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/531318-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 432,
+          "image": "http://www.mobygames.com/images/shots/l/956045-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/956045-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.jpg",
+          "width": 480
+        },
+        {
+          "caption": "SAY KIDS WHAT TIME IS IT?",
+          "height": 432,
+          "image": "http://www.mobygames.com/images/shots/l/956051-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/956051-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.jpg",
+          "width": 480
+        },
+        {
+          "caption": "CERBERUS used OSAKA ACCENT! It's super effective! SAKURA is confused!",
+          "height": 432,
+          "image": "http://www.mobygames.com/images/shots/l/956047-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/956047-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.jpg",
+          "width": 480
+        },
+        {
+          "caption": "Sweet dreams.",
+          "height": 432,
+          "image": "http://www.mobygames.com/images/shots/l/956048-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/956048-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.jpg",
+          "width": 480
+        }
+      ],
+      "title": "Cardcaptor Sakura: Itsumo Sakura-chan to Issho"
+    }
+  ]

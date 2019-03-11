@@ -1,0 +1,2310 @@
+[
+    {
+      "description": "Guide a team of up to six soldiers through 72 levels of combat in this top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades or rockets, which can be used to destroy groups of enemies, buildings or some vehicles (by pressing both buttons at once). \n\nEach mission has a specific objective, and some feature vehicles such as tanks that used make things easier. Your troops can cross water but can't shoot within it, so finding and controlling bridges is often crucial. You can use the arrangement of trees to find hiding places to shoot from, and should watch out for CPU soldiers also doing so.",
+      "game_id": 210,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 173,
+          "genre_name": "Multiple Units/Characters Control"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 167,
+          "genre_name": "Point and Select"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 15,
+          "genre_name": "Real-Time"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 131,
+          "genre_name": "2D scrolling"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 25,
+          "genre_name": "Isometric"
+        }
+      ],
+      "moby_score": 3.7,
+      "moby_url": "http://www.mobygames.com/game/cannon-fodder",
+      "num_votes": 225,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1993",
+          "platform_id": 19,
+          "platform_name": "Amiga"
+        },
+        {
+          "first_release_date": "1993",
+          "platform_id": 2,
+          "platform_name": "DOS"
+        },
+        {
+          "first_release_date": "1994",
+          "platform_id": 117,
+          "platform_name": "Acorn 32-bit"
+        },
+        {
+          "first_release_date": "1994",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "1994",
+          "platform_id": 24,
+          "platform_name": "Atari ST"
+        },
+        {
+          "first_release_date": "1994",
+          "platform_id": 35,
+          "platform_name": "3DO"
+        },
+        {
+          "first_release_date": "1994",
+          "platform_id": 56,
+          "platform_name": "Amiga CD32"
+        },
+        {
+          "first_release_date": "1994-12",
+          "platform_id": 16,
+          "platform_name": "Genesis"
+        },
+        {
+          "first_release_date": "1995",
+          "platform_id": 17,
+          "platform_name": "Jaguar"
+        },
+        {
+          "first_release_date": "2000-12",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2004",
+          "platform_id": 64,
+          "platform_name": "J2ME"
+        },
+        {
+          "first_release_date": "2005-11-20",
+          "platform_id": 67,
+          "platform_name": "Symbian"
+        },
+        {
+          "first_release_date": "2009-03-24",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2013-04-23",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "2015-12-17",
+          "platform_id": 1,
+          "platform_name": "Linux"
+        }
+      ],
+      "sample_cover": {
+        "height": 376,
+        "image": "http://www.mobygames.com/images/covers/l/8333-cannon-fodder-dos-front-cover.jpg",
+        "platforms": [
+          "DOS"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/8333-cannon-fodder-dos-front-cover.jpg",
+        "width": 276
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Intro",
+          "height": 200,
+          "image": "http://www.mobygames.com/images/shots/l/119142-cannon-fodder-dos-screenshot-intro.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/119142-cannon-fodder-dos-screenshot-intro.jpg",
+          "width": 320
+        },
+        {
+          "caption": "Intro (CD version)",
+          "height": 200,
+          "image": "http://www.mobygames.com/images/shots/l/119143-cannon-fodder-dos-screenshot-intro-cd-version.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/119143-cannon-fodder-dos-screenshot-intro-cd-version.jpg",
+          "width": 320
+        },
+        {
+          "caption": "Title",
+          "height": 200,
+          "image": "http://www.mobygames.com/images/shots/l/894-cannon-fodder-dos-screenshot-title.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/894-cannon-fodder-dos-screenshot-title.gif",
+          "width": 320
+        },
+        {
+          "caption": "Pre-mission cutscene",
+          "height": 200,
+          "image": "http://www.mobygames.com/images/shots/l/900-cannon-fodder-dos-screenshot-pre-mission-cutscene.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/900-cannon-fodder-dos-screenshot-pre-mission-cutscene.gif",
+          "width": 320
+        }
+      ],
+      "title": "Cannon Fodder"
+    },
+    {
+      "description": "A sequel to Worms 2, <i>Worms Armageddon</i> expands upon its predecessor by enhancing a few facets of gameplay and including play over the Internet through Team 17's WormNet. \n\nLike the previous <i>Worms</i> installments, the game is an artillery variant. The player give an artillery piece a shot angle and shot power, and try to hit the opponent, taking into account wind effects. The player and the opponent exchange these shots in a turn-based fashion. The game puts the player in command of a team of up to eight worms, which can move around the landscape (one at a time), using many types of weapons to try to dispatch the enemy, from bazookas to mini-guns to exploding sheep. In some situations, the worms can also jump, swing by rope, and descend with a parachute.\n\nThe game includes an expansive editor that allows players to customize nearly every aspect of the game. Custom teams can be created, and players are able to edit their special weapons, grave markers, flags, victory fanfares, and voice sets, which can be imported into the game from outer sources. A random terrain generator and a terrain-import system are provided as well. The latter makes it possible to import into the game files in image formats, which the game converts into playable terrains.\n",
+      "game_id": 633,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 143,
+          "genre_name": "Artillery"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 173,
+          "genre_name": "Multiple Units/Characters Control"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 124,
+          "genre_name": "War"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 120,
+          "genre_name": "Comedy"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 131,
+          "genre_name": "2D scrolling"
+        }
+      ],
+      "moby_score": 3.8,
+      "moby_url": "http://www.mobygames.com/game/worms-armageddon",
+      "num_votes": 141,
+      "official_url": "http://wormsarmageddon.team17.com/",
+      "platforms": [
+        {
+          "first_release_date": "1999",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "1999",
+          "platform_id": 8,
+          "platform_name": "Dreamcast"
+        },
+        {
+          "first_release_date": "1999-10-29",
+          "platform_id": 6,
+          "platform_name": "PlayStation"
+        },
+        {
+          "first_release_date": "2000-01-19",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2000-03-30",
+          "platform_id": 9,
+          "platform_name": "Nintendo 64"
+        }
+      ],
+      "sample_cover": {
+        "height": 500,
+        "image": "http://www.mobygames.com/images/covers/l/4224-worms-armageddon-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/4224-worms-armageddon-windows-front-cover.jpg",
+        "width": 388
+      },
+      "sample_screenshots": [
+        {
+          "caption": "title screen",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/7668-worms-armageddon-windows-screenshot-title-screen.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/7668-worms-armageddon-windows-screenshot-title-screen.gif",
+          "width": 640
+        },
+        {
+          "caption": "main menu (there are plenty of sub-menus though)",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/7669-worms-armageddon-windows-screenshot-main-menu-there-are-plenty.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/7669-worms-armageddon-windows-screenshot-main-menu-there-are-plenty.gif",
+          "width": 640
+        },
+        {
+          "caption": "explosions are more cartoon alike now",
+          "height": 600,
+          "image": "http://www.mobygames.com/images/shots/l/7670-worms-armageddon-windows-screenshot-explosions-are-more-cartoon.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/7670-worms-armageddon-windows-screenshot-explosions-are-more-cartoon.gif",
+          "width": 800
+        },
+        {
+          "caption": "and there's even more equipping arsenal",
+          "height": 600,
+          "image": "http://www.mobygames.com/images/shots/l/7671-worms-armageddon-windows-screenshot-and-there-s-even-more-equipping.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/7671-worms-armageddon-windows-screenshot-and-there-s-even-more-equipping.gif",
+          "width": 800
+        }
+      ],
+      "title": "Worms: Armageddon"
+    },
+    {
+      "description": "It is the year 2015, and China is invading Russia for more resources. In their way is the US \"Force 21\". Take either side in this 3D RTS. There are no unit building. What you got is what you have to work with. Command over 40 different units of high-tech combat in 30 single-player campaigns and 10 multiplayer maps. Up to 4 players can join multiplayer action. Edit your own maps and missions with the included editor.",
+      "game_id": 2770,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 15,
+          "genre_name": "Real-Time"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 80,
+          "genre_name": "Tank"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 56,
+          "genre_name": "Helicopter"
+        }
+      ],
+      "moby_score": 2.1,
+      "moby_url": "http://www.mobygames.com/game/force-21",
+      "num_votes": 14,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-08",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2000-12-06",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 927,
+        "image": "http://www.mobygames.com/images/covers/l/22710-force-21-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/22710-force-21-windows-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main Menu",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/14261-force-21-windows-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/14261-force-21-windows-screenshot-main-menu.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Splash shown in Intro sequence",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/462757-force-21-game-boy-color-screenshot-splash-shown-in-intro-sequence.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/462757-force-21-game-boy-color-screenshot-splash-shown-in-intro-sequence.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Language selection screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/462761-force-21-game-boy-color-screenshot-language-selection-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/462761-force-21-game-boy-color-screenshot-language-selection-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/462762-force-21-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/462762-force-21-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Force 21"
+    },
+    {
+      "description": "Tetris meets shoot-'em-up, <i>Rampart</i> is a game combining strategy and artillery action. Build your castle from Tetris-style pieces, place your cannons, bombard the enemy, try to repair, do it all over again. The original arcade release has a single-player and a two-player mode; later revisions incorporate three-player gameplay.",
+      "game_id": 3345,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 9,
+          "genre_name": "Arcade"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 15,
+          "genre_name": "Real-Time"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 3.5,
+      "moby_url": "http://www.mobygames.com/game/rampart",
+      "num_votes": 58,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1990",
+          "platform_id": 143,
+          "platform_name": "Arcade"
+        },
+        {
+          "first_release_date": "1991",
+          "platform_id": 16,
+          "platform_name": "Genesis"
+        },
+        {
+          "first_release_date": "1992",
+          "platform_id": 19,
+          "platform_name": "Amiga"
+        },
+        {
+          "first_release_date": "1992",
+          "platform_id": 18,
+          "platform_name": "Lynx"
+        },
+        {
+          "first_release_date": "1992",
+          "platform_id": 2,
+          "platform_name": "DOS"
+        },
+        {
+          "first_release_date": "1992",
+          "platform_id": 24,
+          "platform_name": "Atari ST"
+        },
+        {
+          "first_release_date": "1992",
+          "platform_id": 27,
+          "platform_name": "Commodore 64"
+        },
+        {
+          "first_release_date": "1992-01",
+          "platform_id": 22,
+          "platform_name": "NES"
+        },
+        {
+          "first_release_date": "1992-08",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "1992-10-30",
+          "platform_id": 10,
+          "platform_name": "Game Boy"
+        },
+        {
+          "first_release_date": "1993-09",
+          "platform_id": 26,
+          "platform_name": "SEGA Master System"
+        },
+        {
+          "first_release_date": "1999-11-01",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1107,
+        "image": "http://www.mobygames.com/images/covers/l/118039-rampart-genesis-front-cover.jpg",
+        "platforms": [
+          "Genesis"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/118039-rampart-genesis-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen.",
+          "height": 240,
+          "image": "http://www.mobygames.com/images/shots/l/660439-rampart-arcade-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/660439-rampart-arcade-screenshot-title-screen.jpg",
+          "width": 336
+        },
+        {
+          "caption": "Awaiting other players.",
+          "height": 240,
+          "image": "http://www.mobygames.com/images/shots/l/660440-rampart-arcade-screenshot-awaiting-other-players.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/660440-rampart-arcade-screenshot-awaiting-other-players.jpg",
+          "width": 336
+        },
+        {
+          "caption": "Your the Blue Army.",
+          "height": 240,
+          "image": "http://www.mobygames.com/images/shots/l/660441-rampart-arcade-screenshot-your-the-blue-army.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/660441-rampart-arcade-screenshot-your-the-blue-army.jpg",
+          "width": 336
+        },
+        {
+          "caption": "Select a castle to defend.",
+          "height": 240,
+          "image": "http://www.mobygames.com/images/shots/l/660442-rampart-arcade-screenshot-select-a-castle-to-defend.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/660442-rampart-arcade-screenshot-select-a-castle-to-defend.jpg",
+          "width": 336
+        }
+      ],
+      "title": "Rampart"
+    },
+    {
+      "description": "A Game Boy version of the popular card game, in the Pok\u00e9mon Trading Card Game, your character must collect cards, form decks, and battle Gym Leaders for better cards.  Secret cards can be unlocked by defeating certain characters.  Includes card types: Grass, Fire, Water, Electric, Fighting, Psychic, Colorless, Trainer Cards, and of course, Energy Cards.  Special cards include Surfing or Flying Pikachu, and others.\n\nThe game starts our with a mini-tutorial which lets the main character learn the game, and lets him or her choose the starter deck.",
+      "game_id": 4707,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 157,
+          "genre_name": "Trading / Collectible Card"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        }
+      ],
+      "moby_score": 3.7,
+      "moby_url": "http://www.mobygames.com/game/pokmon-trading-card-game",
+      "num_votes": 26,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1998-12-18",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2014-07-10",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        }
+      ],
+      "sample_cover": {
+        "height": 500,
+        "image": "http://www.mobygames.com/images/covers/l/8286-pokemon-trading-card-game-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/8286-pokemon-trading-card-game-game-boy-color-front-cover.jpg",
+        "width": 500
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/24795-pokemon-trading-card-game-game-boy-color-screenshot-title-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/24795-pokemon-trading-card-game-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Game Start/Continue",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/24796-pokemon-trading-card-game-game-boy-color-screenshot-game-start.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/24796-pokemon-trading-card-game-game-boy-color-screenshot-game-start.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Configuration Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/24797-pokemon-trading-card-game-game-boy-color-screenshot-configuration.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/24797-pokemon-trading-card-game-game-boy-color-screenshot-configuration.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Cards In Hand",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/24798-pokemon-trading-card-game-game-boy-color-screenshot-cards-in.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/24798-pokemon-trading-card-game-game-boy-color-screenshot-cards-in.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Pok\u00e9mon Trading Card Game"
+    },
+    {
+      "description": "Similar to Army Men: Air Tactics and Army Men: Air Attack, except in pocket form. There are 16 missions in total, ranging from saving fellow Army Men to destroying enemy territory or delivering supplies. ",
+      "game_id": 5071,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 56,
+          "genre_name": "Helicopter"
+        }
+      ],
+      "moby_score": 5.0,
+      "moby_url": "http://www.mobygames.com/game/army-men-air-combat",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-11-27",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 499,
+        "image": "http://www.mobygames.com/images/covers/l/8831-army-men-air-combat-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/8831-army-men-air-combat-game-boy-color-front-cover.jpg",
+        "width": 500
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/156084-army-men-air-combat-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/156084-army-men-air-combat-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Attacking a tank.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/243370-army-men-air-combat-game-boy-color-screenshot-attacking-a.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/243370-army-men-air-combat-game-boy-color-screenshot-attacking-a.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Explosion after defeating a tank.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/243371-army-men-air-combat-game-boy-color-screenshot-explosion-after.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/243371-army-men-air-combat-game-boy-color-screenshot-explosion-after.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Attacking a truck and an RPG.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/243372-army-men-air-combat-game-boy-color-screenshot-attacking-a.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/243372-army-men-air-combat-game-boy-color-screenshot-attacking-a.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Army Men: Air Combat"
+    },
+    {
+      "description": "The classic card game goes portable with this Game Boy Color Version of Uno!\r\n\r\nPlay against a friend with the link cable, and play 2 different versions of the game with up to 4 players.\r\n\r\nPlay to a specific point total and have special cards in the game.\r\n\r\n\r\n",
+      "game_id": 6092,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        }
+      ],
+      "moby_score": 3.0,
+      "moby_url": "http://www.mobygames.com/game/uno",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-12-16",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268786-uno-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268786-uno-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268787-uno-game-boy-color-screenshot-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268787-uno-game-boy-color-screenshot-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Selecting one of the four Uno modes",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268788-uno-game-boy-color-screenshot-selecting-one-of-the-four-uno.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268788-uno-game-boy-color-screenshot-selecting-one-of-the-four-uno.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Drawing cards",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268789-uno-game-boy-color-screenshot-drawing-cards.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268789-uno-game-boy-color-screenshot-drawing-cards.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Uno"
+    },
+    {
+      "description": "<i>Heroes of Might and Magic II</i> is a fantasy strategy game that pits you against diabolical warlords in a struggle for territory and resources. Dangerous enemies and mystical creatures roam the land and await any hero who sets out to defeat them. At stake is the ultimate prize: control of the land and the royal throne. Support the villainous usurper and lead the armies of evil, or be loyal to the righteous prince and deliver the people from tyranny.",
+      "game_id": 9888,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 165,
+          "genre_name": "RPG elements"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        }
+      ],
+      "moby_score": 3.3,
+      "moby_url": "http://www.mobygames.com/game/heroes-of-might-and-magic-ii",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-12-07",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 811,
+        "image": "http://www.mobygames.com/images/covers/l/67800-heroes-of-might-and-magic-ii-game-boy-color-front-cover.png",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/67800-heroes-of-might-and-magic-ii-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen / Main menu.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/156722-heroes-of-might-and-magic-ii-game-boy-color-screenshot-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/156722-heroes-of-might-and-magic-ii-game-boy-color-screenshot-title.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Pick your hero for the campaign",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/536186-heroes-of-might-and-magic-ii-game-boy-color-screenshot-pick.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/536186-heroes-of-might-and-magic-ii-game-boy-color-screenshot-pick.jpg",
+          "width": 160
+        },
+        {
+          "caption": "And the story starts",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/536187-heroes-of-might-and-magic-ii-game-boy-color-screenshot-and.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/536187-heroes-of-might-and-magic-ii-game-boy-color-screenshot-and.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Picking up a chest",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/536189-heroes-of-might-and-magic-ii-game-boy-color-screenshot-picking.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/536189-heroes-of-might-and-magic-ii-game-boy-color-screenshot-picking.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Heroes of Might and Magic II"
+    },
+    {
+      "description": "In <i>Yu-Gi-Oh! Dark Duel Stories</i>, the player's goal is to defeat various characters from the <i>Yu-Gi-Oh!</i> manga, anime, and card game, eventually making it to the four Rulers of Ancient Egypt, who have the precious Millennium pieces. Each character must be defeated at least five times in order to get to the next stage. Typically, the goal of a card duel is to reduce the opponent's 8000 life points to zero; however, sometimes a duel can be won by forcing the opponent to run out of cards in their deck, or by having all five pieces of Exodia in one hand.\n\nAs usually in <i>Yu-Gi-Oh!</i> games, cards represent monsters: as a general rule, a monster with a higher attack and defense rating emerges victorious. However, in this game elemental affinities play a role as well. For example, a monster of the Aqua element will be beaten by a monster of the Thunder element even if his attack and defense ratings are somewhat higher. \n\nThe player can also create his/her own cards by combining card halves that can be obtained after winning a duel. A trade mode and a real-life battle mode (using the link cable) is also available.",
+      "game_id": 11946,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 157,
+          "genre_name": "Trading / Collectible Card"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 2.5,
+      "moby_url": "http://www.mobygames.com/game/yu-gi-oh-dark-duel-stories",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2002-03",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 797,
+        "image": "http://www.mobygames.com/images/covers/l/425769-yu-gi-oh-dark-duel-stories-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/425769-yu-gi-oh-dark-duel-stories-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Dark Duel Stories",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/60427-yu-gi-oh-dark-duel-stories-game-boy-color-screenshot-dark-duel.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/60427-yu-gi-oh-dark-duel-stories-game-boy-color-screenshot-dark-duel.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Decide what you want to do at the main menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/60428-yu-gi-oh-dark-duel-stories-game-boy-color-screenshot-decide.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/60428-yu-gi-oh-dark-duel-stories-game-boy-color-screenshot-decide.jpg",
+          "width": 160
+        },
+        {
+          "caption": "In campaign mode, choose your opponent to battle",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/60429-yu-gi-oh-dark-duel-stories-game-boy-color-screenshot-in-campaign.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/60429-yu-gi-oh-dark-duel-stories-game-boy-color-screenshot-in-campaign.jpg",
+          "width": 160
+        },
+        {
+          "caption": "View or edit your deck in the deck screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/60430-yu-gi-oh-dark-duel-stories-game-boy-color-screenshot-view-or.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/60430-yu-gi-oh-dark-duel-stories-game-boy-color-screenshot-view-or.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Yu-Gi-Oh! Dark Duel Stories"
+    },
+    {
+      "description": "In the perilous world of Warlocked, a ferocious war is raging between the Human forces of Queen Azarel and the Beast horde of Chief Zog. Players can control either side, each of them offers 30 missions. \r\n\r\nWarlocked brings real-time strategy gaming to the Boy Color set in a fantasy warfare scenario. The key to victory is a balanced mix of resource gathering, building, exploration and combat. Adding a magical twist to the straightforward action is the presence of wizards, each of whom has one powerful spell. While some wizards can convert enemy troops to your side, others can change them into chickens or skeletons. More than 20 kinds of wizards are hidden throughout the game.\r\n\r\nUsing a Game Link Cable, you can test your war skills against another player. Two-player battle maps are earned by progressing through the single-player game. Warlocked also enables you to build your own personal armies with resources that you have saved in your campaigns in single player mode, and then trade them with a friend using the infrared ports on the console. ",
+      "game_id": 13875,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 167,
+          "genre_name": "Point and Select"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 15,
+          "genre_name": "Real-Time"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 3.7,
+      "moby_url": "http://www.mobygames.com/game/warlocked",
+      "num_votes": 4,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-07-24",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 800,
+        "image": "http://www.mobygames.com/images/covers/l/224144-warlocked-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/224144-warlocked-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Introduction",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/77538-warlocked-game-boy-color-screenshot-introduction.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/77538-warlocked-game-boy-color-screenshot-introduction.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/77539-warlocked-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/77539-warlocked-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        },
+        {
+          "caption": "The main base",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/77543-warlocked-game-boy-color-screenshot-the-main-base.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/77543-warlocked-game-boy-color-screenshot-the-main-base.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Attacking enemy forces!",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/77544-warlocked-game-boy-color-screenshot-attacking-enemy-forces.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/77544-warlocked-game-boy-color-screenshot-attacking-enemy-forces.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Warlocked"
+    },
+    {
+      "description": "The popular card games collection for Game Boy Color.  Includes 14 card game variations: Spades, War, Hearts, Cribbage, Old Maid, Gin Rummy, Go Fish, and 6 varieties of Solitaire.  Supports a pass play, and Game Link Cable multiplayer.",
+      "game_id": 15123,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 118,
+          "genre_name": "Puzzle"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 167,
+          "genre_name": "Point and Select"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 2.5,
+      "moby_url": "http://www.mobygames.com/game/hoyle-card-games_",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-12-01",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268656-hoyle-card-games-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268656-hoyle-card-games-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Learning how to play Crazy Eights game",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268657-hoyle-card-games-game-boy-color-screenshot-learning-how-to.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268657-hoyle-card-games-game-boy-color-screenshot-learning-how-to.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Selecting a character",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268658-hoyle-card-games-game-boy-color-screenshot-selecting-a-character.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268658-hoyle-card-games-game-boy-color-screenshot-selecting-a-character.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Selecting a card game",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268659-hoyle-card-games-game-boy-color-screenshot-selecting-a-card.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268659-hoyle-card-games-game-boy-color-screenshot-selecting-a-card.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Hoyle Card Games"
+    },
+    {
+      "description": "The first handheld <i>Sakura Taisen</i> game, released between the second and the third main ones, takes place in the original setting: the imperial capital in Japan of 1920s. It is the Taishou era, time of rapid technological development and acquaintance with Western lifestyle in Japan. Disguised as a group of actresses in the imperial theater, the Hanagumi Brigade consists of lovely ladies who are at the same time skilled fighters, able to pilot mechs, and to confront the forces of evil that threaten Japan. A new commander of Hanagumi arrives at the theater to work under the guidance of Ichiro Ogami, the main hero of the series. He leads the beautiful girls Sakura, Sumire, Honglan, and others into battle against demons.\n\nAs in most other games in the series, <i>Sakura Taisen GB</i> is a mixture of Japanese-style adventure with dating mechanics and tactical turn-based battles. The light RPG angle is also present, as the girls fight differently depending on how the protagonist treats them. Unlike other Sakura Taisen games, the battles here are entirely menu-driven. Also, the main plot is non-linear, and it is possible to reach fourteen different endings, which also include bad ones. The hero may even get thrown out of the theater for indecent behavior.",
+      "game_id": 15824,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 164,
+          "genre_name": "Japanese-style Adventure"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 25,
+          "genre_name": "Isometric"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/sakura-taisen-gb",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-07-28",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 928,
+        "image": "http://www.mobygames.com/images/covers/l/274280-sakura-taisen-gb-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/274280-sakura-taisen-gb-game-boy-color-front-cover.jpg",
+        "width": 738
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463380-sakura-taisen-gb-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463380-sakura-taisen-gb-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Sakura Taisen GB"
+    },
+    {
+      "description": "<i>Hexcite: The Shapes of Victory</i> is a puzzle game played on a honeycomb-like playing field. In the center is a hexagon; six more hexagons make up the entire playing field. Because of the turn-based gameplay, two people can play using only one system. Two-player link mode is also supported.\n\nPlayers begin by placing a geometric shape (triangle, hexagon, parallelogram, etc.) in the center hexagon.  The CPU or human opponent then places another shape adjacent (and touching completely on one side) to a previously played piece.  Players score bonus points for completing any full hexagon. Much of the strategy in this game is in tricking your opponent into letting you take a bonus. Bonuses are also scored for placing a piece so that two sides will contribute a score. The game is over when all pieces have been played, or if the remaining pieces cannot be played.  In that case points are subtracted for any remaining pieces, based on the complexity of the shape (twice as many points are subtracted for a hexagon compared to a triangle).\n\nIn Japan, this game has seen several Windows versions, and even has been released as a board game.",
+      "game_id": 20560,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 118,
+          "genre_name": "Puzzle"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 167,
+          "genre_name": "Point and Select"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        }
+      ],
+      "moby_score": 3.4,
+      "moby_url": "http://www.mobygames.com/game/hexcite-the-shapes-of-victory",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1998",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2000-06-29",
+          "platform_id": 48,
+          "platform_name": "WonderSwan"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/147011-hexcite-the-shapes-of-victory-game-boy-color-screenshot-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/147011-hexcite-the-shapes-of-victory-game-boy-color-screenshot-title.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Title Screen (Jpn)",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/147010-hexcite-the-shapes-of-victory-game-boy-color-screenshot-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/147010-hexcite-the-shapes-of-victory-game-boy-color-screenshot-title.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Main Menu",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/147012-hexcite-the-shapes-of-victory-game-boy-color-screenshot-main.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/147012-hexcite-the-shapes-of-victory-game-boy-color-screenshot-main.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/327557-hexcite-the-shapes-of-victory-wonderswan-screenshot-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/327557-hexcite-the-shapes-of-victory-wonderswan-screenshot-title.jpg",
+          "width": 224
+        }
+      ],
+      "title": "Hexcite: The Shapes of Victory"
+    },
+    {
+      "description": "Monkey Puncher is a game where the goal is to train a monkey to fight in boxing matches in order to save your kidnapped sibling. You can choose to play as either a boy or a girl character; the one you do not pick is your sibling. \n\nShortly after starting the game you are given your first monkey, Freddy. You can train him in skipping, using a punchbag, doing sit-ups, running and even going shopping. There is also a sixth activity, called sparring. These activities work to improve his speed, power, strength, stamina, knowledge and (for the latter activity) all of these, although only by a small amount.\n\nIn all of the aforementioned apart from shopping, you train your monkey by getting him to copy your actions; your actions are controlled by the rhythmic pressing of the A button. After a while, your monkey should be able to imitate your actions with ease, eventually being able to start the activity without prompting. In regards to shopping, you can send him out to buy what you want from a selection of items, or just let him go out and buy what he likes. This is a good way of obtaining certain items that are otherwise unobtainable. The rarity of items and the accuracy of which items it brings home from your shopping list increases as its knowledge does. Sparring involves pitting your own monkey against a computer controlled one in order to raise every stat by a small amount. Finally, you can 'date' your monkeys, either with each other, with a friend's monkey or in the dating shop available within the game. This is a good way of obtaining monkeys with higher stats, depending on which monkeys you breed and with whom. \n\nDuring boxing matches, you do not have direct control over your monkey, but in between bouts you can do things such as refill its health, stamina, or both. You can also advise it on what strategy to use against its opponent. These matches are won by either a count or by KO'ing the opponent, however if time runs out before there is a clear winner, the winner is the monkey who is left with the most health at the end of the match. ",
+      "game_id": 44688,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 48,
+          "genre_name": "Fighting"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/monkey-puncher",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/415493-monkey-puncher-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/415493-monkey-puncher-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen (Japanese version)",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/415494-monkey-puncher-game-boy-color-screenshot-title-screen-japanese.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/415494-monkey-puncher-game-boy-color-screenshot-title-screen-japanese.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen (Game Boy)",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/415495-monkey-puncher-game-boy-color-screenshot-title-screen-game.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/415495-monkey-puncher-game-boy-color-screenshot-title-screen-game.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen (Super Game Boy)",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/415496-monkey-puncher-game-boy-color-screenshot-title-screen-super.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/415496-monkey-puncher-game-boy-color-screenshot-title-screen-super.jpg",
+          "width": 256
+        }
+      ],
+      "title": "Monkey Puncher"
+    },
+    {
+      "description": "Players take on the role of a spy in white (or black), and go on a mission to go to four different locations and collect 4 items: a CD, passport, key and a sum of cash (and a brief-case to contain these things). But there's a snatch, another spy is also on the same mission. Players have to sweep him out of their way and collect the items before he does!\n\nPlayers have a choice among four locations and between Black Spy and White Spy. Each location contains a certain number of levels, which all have the same objectives: get the briefcase, collect the four items and get to the exit door. Players can try to slow their competitor down by killing him by placing traps in the rooms (dynamite, coil, spring, bucket and a time bomb) or using weapons (fists, knife and stick) when encountering him. When getting killed, players will be redirected to the starting point and all collected items are lost. Players are provided with a map which shows how many rooms there are and what is inside each room (trap, players' counterpart, items). Players can never be killed off entirely. The game is only over when the counterpart gets all the items and escapes through the exit door.\n\nThe graphics are in 2D. The player's process is saved via passwords. The player can play against the computer or another player.",
+      "game_id": 53017,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 93,
+          "genre_name": "Spy / Espionage"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 4.3,
+      "moby_url": "http://www.mobygames.com/game/spy-vs-spy__",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "And they died sadly ever after (title screen)",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/526002-spy-vs-spy-game-boy-color-screenshot-and-they-died-sadly-ever.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/526002-spy-vs-spy-game-boy-color-screenshot-and-they-died-sadly-ever.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Intro",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/525999-spy-vs-spy-game-boy-color-screenshot-intro.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/525999-spy-vs-spy-game-boy-color-screenshot-intro.jpg",
+          "width": 160
+        },
+        {
+          "caption": "White Spy: do you want a trip to Heaven, Black? It will be very enjoyable (intro)",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/526000-spy-vs-spy-game-boy-color-screenshot-white-spy-do-you-want.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/526000-spy-vs-spy-game-boy-color-screenshot-white-spy-do-you-want.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Black Spy: oh thanks! Why don't you come with me too? (intro)",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/526001-spy-vs-spy-game-boy-color-screenshot-black-spy-oh-thanks-why.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/526001-spy-vs-spy-game-boy-color-screenshot-black-spy-oh-thanks-why.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Spy vs Spy"
+    },
+    {
+      "description": "<i>Battleship: The Classic Naval Game</i> is a <i>Battleship</i> variant. On a 8x8 grid, both players place four ships of varying size. Each round one player guesses a grid of the opponent's board and is told if it was a hit. The winning condition is to sink all enemy ships first. The speciality of this variant are a few extra weapons with a limited usage which can bomb multiple fields at once. There is also a radar which reveals four fields of the enemy board.",
+      "game_id": 54448,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 41,
+          "genre_name": "Naval / Watercraft"
+        }
+      ],
+      "moby_score": 2.8,
+      "moby_url": "http://www.mobygames.com/game/battleship-the-classic-naval-combat-game",
+      "num_votes": 4,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1989-12-22",
+          "platform_id": 10,
+          "platform_name": "Game Boy"
+        },
+        {
+          "first_release_date": "1999",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 802,
+        "image": "http://www.mobygames.com/images/covers/l/306034-battleship-the-classic-naval-combat-game-game-boy-front-cover.png",
+        "platforms": [
+          "Game Boy"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/306034-battleship-the-classic-naval-combat-game-game-boy-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/553257-battleship-the-classic-naval-combat-game-game-boy-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/553257-battleship-the-classic-naval-combat-game-game-boy-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen (JP)",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/901375-battleship-the-classic-naval-combat-game-game-boy-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/901375-battleship-the-classic-naval-combat-game-game-boy-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Placing your ships",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/553258-battleship-the-classic-naval-combat-game-game-boy-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/553258-battleship-the-classic-naval-combat-game-game-boy-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Pick your weapon",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/553259-battleship-the-classic-naval-combat-game-game-boy-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/553259-battleship-the-classic-naval-combat-game-game-boy-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Battleship: The Classic Naval Combat Game"
+    },
+    {
+      "description": "<i>Las Vegas Cool Hand</i> is a game featuring three card games: Black Jack (LA Strip, London, Atlantic City or Downtown LA house rules), Cribbage (6 Card, 7 Card, 6 Card Auction or 7 Card Auction) and Solitaire (Klondike, Elevens, Monte Carlo or Calculation). For each card game there are also a few additional options to set, e.g. the difficulty level for Cribbage or a time limit for solitaire. Besides a detailed in-game explanation of the games and their history, there are no further specialities.",
+      "game_id": 56011,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        }
+      ],
+      "moby_score": 2.0,
+      "moby_url": "http://www.mobygames.com/game/las-vegas-cool-hand",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1998",
+          "platform_id": 10,
+          "platform_name": "Game Boy"
+        },
+        {
+          "first_release_date": "1998",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/689949-las-vegas-cool-hand-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/689949-las-vegas-cool-hand-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Select Game.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/689950-las-vegas-cool-hand-game-boy-color-screenshot-select-game.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/689950-las-vegas-cool-hand-game-boy-color-screenshot-select-game.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Blackjack Dealer.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/689951-las-vegas-cool-hand-game-boy-color-screenshot-blackjack-dealer.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/689951-las-vegas-cool-hand-game-boy-color-screenshot-blackjack-dealer.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Hit or Stand?",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/689952-las-vegas-cool-hand-game-boy-color-screenshot-hit-or-stand.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/689952-las-vegas-cool-hand-game-boy-color-screenshot-hit-or-stand.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Las Vegas Cool Hand"
+    },
+    {
+      "description": "Sequel of Game Boy Wars (and next game in Nintendo Wars series) pits two parties against each other: it's the \"Red Star\" army versus the \"White Moon\" army in turn-based battles.\nOn each map, the goal is to either destroy all enemy forces or capture the enemy's capital city. In game player can buy units - troops, vehicles, planes, boats or helicopters, units can be constructed in special place: factories and cities build land units, airports makes air units etc. each unit has its own characteristics weapons. Battles in game are shown as animated sequences, during which the two sides attack each other.\nThere are 54 new maps in Game Boy Wars 2.",
+      "game_id": 59384,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        }
+      ],
+      "moby_score": 4.1,
+      "moby_url": "http://www.mobygames.com/game/game-boy-wars-2",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1998-11-20",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/947960-game-boy-wars-2-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/947960-game-boy-wars-2-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Begin Turn",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/600660-game-boy-wars-2-game-boy-color-screenshot-begin-turn.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/600660-game-boy-wars-2-game-boy-color-screenshot-begin-turn.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Map - there we spend most time",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/600661-game-boy-wars-2-game-boy-color-screenshot-map-there-we-spend.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/600661-game-boy-wars-2-game-boy-color-screenshot-map-there-we-spend.jpg",
+          "width": 160
+        },
+        {
+          "caption": "jeep vs artillery",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/600662-game-boy-wars-2-game-boy-color-screenshot-jeep-vs-artillery.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/600662-game-boy-wars-2-game-boy-color-screenshot-jeep-vs-artillery.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Game Boy Wars 2"
+    },
+    {
+      "description": "<i>Game Boy Wars 3</i> is a turn based strategy game, it is the last game in the Game Boy Wars series for the Game Boy Color. The story is similar to previous games: the Red Star army fights against the White Moon army.\n\nThe goal is invariable, the player must destroy all enemy forces or capture the enemy's capital city. The player can buy various units - soldiers, vehicles, tanks, planes, helicopters, or boats. <i>Game Boy Wars 3</i> is more difficult than others games in the  series as the player must have facilities and materials to build new units. Battles and other actions like sieges are shown as short animated sequences.\n\nThe game has 60 maps in skirmishes (standard mode) and 45 campaign missions. <i>Game Boy Wars 3</i> also features a Beginner Mode",
+      "game_id": 62358,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        }
+      ],
+      "moby_score": 3.7,
+      "moby_url": "http://www.mobygames.com/game/game-boy-wars-3",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-08-30",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/947957-game-boy-wars-3-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/947957-game-boy-wars-3-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "1st Day",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/643903-game-boy-wars-3-game-boy-color-screenshot-1st-day.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/643903-game-boy-wars-3-game-boy-color-screenshot-1st-day.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Artillery ",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/643904-game-boy-wars-3-game-boy-color-screenshot-artillery.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/643904-game-boy-wars-3-game-boy-color-screenshot-artillery.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Attack",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/643905-game-boy-wars-3-game-boy-color-screenshot-attack.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/643905-game-boy-wars-3-game-boy-color-screenshot-attack.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Game Boy Wars 3"
+    },
+    {
+      "description": "<i>Dragon Ball Z: Legendary Super Warriors</i> allows the player to play all his or her favorite Dragon Ball Z fights using cards to do battle.\nSimilar to the Pok\u00e9mon Trading Card Game, cards are used to power up characters and use special abilities to defeat the enemy.\nPlayers can create custom decks, and play against a friend using the Link Cable.",
+      "game_id": 63552,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 25,
+          "genre_name": "Isometric"
+        }
+      ],
+      "moby_score": 2.2,
+      "moby_url": "http://www.mobygames.com/game/dragon-ball-z-legendary-super-warriors",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2002-08-09",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 801,
+        "image": "http://www.mobygames.com/images/covers/l/278130-dragon-ball-z-legendary-super-warriors-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/278130-dragon-ball-z-legendary-super-warriors-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "French title screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/920655-dragon-ball-z-legendary-super-warriors-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/920655-dragon-ball-z-legendary-super-warriors-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Japanese title screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/920656-dragon-ball-z-legendary-super-warriors-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/920656-dragon-ball-z-legendary-super-warriors-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "German title screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/920652-dragon-ball-z-legendary-super-warriors-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/920652-dragon-ball-z-legendary-super-warriors-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Italian title screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/920653-dragon-ball-z-legendary-super-warriors-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/920653-dragon-ball-z-legendary-super-warriors-game-boy-color-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Dragon Ball Z: Legendary Super Warriors"
+    },
+    {
+      "description": "<i>Trade & Battle: Card Hero</i> is a card battle role-playing game and the first game in <i>Card Hero</i> series. The player controls Hiro, a school boy who is just learning the game of cards, but dreams of becoming a master of this game by collecting different cards and beating all the opponents in town. Card duels are played according to rules that involve monster cards (basic attacking power) and magic cards (special cards with various effects). To win a card duel the player must defeat the opponent's Master card. There are three rulesets: Junior, Senior, and Pro which affect the complexity and difficulty of the duels. \n\nThe game supports two-player battles and trading via Gameboy link cable. ",
+      "game_id": 64178,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/trade-battle-card-hero",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-02-21",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2011-08-10",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        }
+      ],
+      "sample_cover": {
+        "height": 80,
+        "image": "http://www.mobygames.com/images/covers/l/279608-trade-battle-card-hero-nintendo-3ds-front-cover.jpg",
+        "platforms": [
+          "Nintendo 3DS"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/279608-trade-battle-card-hero-nintendo-3ds-front-cover.jpg",
+        "width": 80
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/674432-trade-battle-card-hero-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/674432-trade-battle-card-hero-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Intro",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/674431-trade-battle-card-hero-game-boy-color-screenshot-intro.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/674431-trade-battle-card-hero-game-boy-color-screenshot-intro.jpg",
+          "width": 160
+        },
+        {
+          "caption": "This screen shows up when you start a new game",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/674433-trade-battle-card-hero-game-boy-color-screenshot-this-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/674433-trade-battle-card-hero-game-boy-color-screenshot-this-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "In your house",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/674421-trade-battle-card-hero-game-boy-color-screenshot-in-your-house.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/674421-trade-battle-card-hero-game-boy-color-screenshot-in-your-house.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Trade & Battle: Card Hero"
+    },
+    {
+      "description": "From Sculptured Software comes an adaptation of the classic board game <i>Monopoly</i> for the dominating console systems of the early 90s (later also ported to Game Boy Color).\n\nThe game can be played by up to eight players (only four in the Game Boy versions). Any number of positions can be taken over by computer opponents. The game comes with eight different opponents, which are selected from a portrait gallery (8- and 16-bit versions feature different names and portraits).\n\nIt is possible to set up a time limit for a game, and also to customize the game. Amount of starting money, owned properties, houses and hotels can be set for any player before starting. The game also comes with a number of preset scenarios with varied starting parameters. The 8-bit versions have eight scenarios, the 16-bit versions add another four. The Game Boy versions also feature the scenarios, but don't have the customization option.\n\nDuring gameplay, the board is seen from the top. Moving tokens are displayed in a special animation in the center of the board, as is a hand throwing the dice. Auctions and trades take place on special screens, with the 16-bit versions being more elaborately animated and illustrated.",
+      "game_id": 68090,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 4.1,
+      "moby_url": "http://www.mobygames.com/game/monopoly______",
+      "num_votes": 22,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1991",
+          "platform_id": 22,
+          "platform_name": "NES"
+        },
+        {
+          "first_release_date": "1991-12",
+          "platform_id": 10,
+          "platform_name": "Game Boy"
+        },
+        {
+          "first_release_date": "1992",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "1992-01-25",
+          "platform_id": 16,
+          "platform_name": "Genesis"
+        },
+        {
+          "first_release_date": "1998-12-11",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1146,
+        "image": "http://www.mobygames.com/images/covers/l/77939-monopoly-nes-front-cover.jpg",
+        "platforms": [
+          "NES"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/77939-monopoly-nes-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/61506-monopoly-nes-screenshot-title.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/61506-monopoly-nes-screenshot-title.gif",
+          "width": 256
+        },
+        {
+          "caption": "Title screen (Japanese version)",
+          "height": 240,
+          "image": "http://www.mobygames.com/images/shots/l/548881-monopoly-nes-screenshot-title-screen-japanese-version.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/548881-monopoly-nes-screenshot-title-screen-japanese-version.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Select Players",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/61507-monopoly-nes-screenshot-select-players.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/61507-monopoly-nes-screenshot-select-players.gif",
+          "width": 256
+        },
+        {
+          "caption": "By selecting a computer player, you'll be asked to select a character for it",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/61509-monopoly-nes-screenshot-by-selecting-a-computer-player-you.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/61509-monopoly-nes-screenshot-by-selecting-a-computer-player-you.gif",
+          "width": 256
+        }
+      ],
+      "title": "Monopoly"
+    },
+    {
+      "description": "<i>Pok\u00e9mon Sapphire Version</i>, not to be confused with the official Game Boy Advance game of the same title, is an unlicensed strategy RPG.\n\nThe player starts the game with a team of six unevolved Pok\u00e9mon, and can recruit other Pok\u00e9mon by winning battles. In battle, the player moves their Pok\u00e9mon around a grid-based map, and at the end of a turn, can choose to use an item or attack an enemy if in range. A Pok\u00e9mon can use either a standard attack, or one of four moves that consume SP, this game's version of mana; either way, once an attack has been used, any enemy that is in range can use a counterattack. Also scattered across the map are treasure chests and houses that contain items.\n\nPok\u00e9mon gain experience and level up through defeating enemies, and can evolve and learn new attacks once reaching certain level thresholds. ",
+      "game_id": 74297,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 152,
+          "genre_name": "Tactical RPG"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/pokmon-sapphire-version_",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2003",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/795783-pokemon-sapphire-version-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/795783-pokemon-sapphire-version-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Part of the opening sequence.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/795784-pokemon-sapphire-version-game-boy-color-screenshot-part-of.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/795784-pokemon-sapphire-version-game-boy-color-screenshot-part-of.jpg",
+          "width": 160
+        },
+        {
+          "caption": "The Baby Alliance! Just the group I want to see!",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/795785-pokemon-sapphire-version-game-boy-color-screenshot-the-baby.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/795785-pokemon-sapphire-version-game-boy-color-screenshot-the-baby.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Whatever you say, man.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/795786-pokemon-sapphire-version-game-boy-color-screenshot-whatever.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/795786-pokemon-sapphire-version-game-boy-color-screenshot-whatever.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Pok\u00e9mon Sapphire Version"
+    },
+    {
+      "description": "<i>Heroes of Might and Magic</i> is a turn-based strategy game with a fantasy setting and the first appearance of the series on the Game Boy Color. In concept, rules and gameplay it is based closely on the original PC game, but has controls and graphics adapted to the handheld and comes with its own set of scenarios.\n\nAs in the original game, players control one of four warlords and must defeat the other three to win a scenario. Heroes are the central units of the game and are used to explore the top-down map, gather treasure and resources, claim mines, find artifacts and fight battles against roaming creatures or enemy heroes. The player's castles are used to recruit new heroes and to produce units to both defend the castles and make up the heroes' armies. Castles can be upgraded by adding new buildings, allowing for different and more powerful units to be built. Battles take place on special tactical screens and allow attacker and defender to give movement and attacking orders to each group of units. Heroes can employ magic spells during battles, but otherwise don't take part in the fights directly. By gaining experience, heroes level up RPG-style, increasing the power of their armies in the process.\n\nThe game does not include a campaign like the PC version, but instead comes with a selection of 31 freely selectable scenarios designed especially for the handheld. These are rated according to difficulty (6 easy, 17 medium, 8 hard) and map size. The opponent's intelligence and the amount of initial resources are customizable. Games can be saved to battery-backed RAM, for which three save slots are available.",
+      "game_id": 75516,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 165,
+          "genre_name": "RPG elements"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 2.6,
+      "moby_url": "http://www.mobygames.com/game/heroes-of-might-and-magic_",
+      "num_votes": 7,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-06-20",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 811,
+        "image": "http://www.mobygames.com/images/covers/l/210391-heroes-of-might-and-magic-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/210391-heroes-of-might-and-magic-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/82137-heroes-of-might-and-magic-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/82137-heroes-of-might-and-magic-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Select scenario",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/82138-heroes-of-might-and-magic-game-boy-color-screenshot-select.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/82138-heroes-of-might-and-magic-game-boy-color-screenshot-select.jpg",
+          "width": 160
+        },
+        {
+          "caption": "World view",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/82139-heroes-of-might-and-magic-game-boy-color-screenshot-world-view.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/82139-heroes-of-might-and-magic-game-boy-color-screenshot-world-view.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Hero and troops",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/82140-heroes-of-might-and-magic-game-boy-color-screenshot-hero-and.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/82140-heroes-of-might-and-magic-game-boy-color-screenshot-hero-and.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Heroes of Might and Magic"
+    },
+    {
+      "description": "<i>Othello Millennium</i> is a adaptation of Othello/Reversi for Game Boy Color. The main draw is the Story Mode, where players select between a boy or girl as their character and play through a total of five levels of increasing difficulty against animated CPU opponents represented by animals. Before each match, players are asked a series of trivia questions pertaining to Othello, and some strategy questions where they are asked to choose the best move for a given board state; getting these questions right is not necessary to advance the game. They can also skip this mode entirely and just play a single game, selecting between 4 CPU opponents or choosing to play against Guest, which lets them play a two-player game (by handing off the game to a second player between moves).",
+      "game_id": 106066,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 167,
+          "genre_name": "Point and Select"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/othello-millennium",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-10-08",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/927986-othello-millennium-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/927986-othello-millennium-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Othello Millennium"
+    }
+  ]

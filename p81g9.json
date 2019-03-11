@@ -1,0 +1,1716 @@
+[
+    {
+      "description": "This version of <i>Brain Challenge</i> expands on the one created for mobile phones. Players tackle 30 brain exercises in five different categories (Focus, Visual, Logic, Math and newly-added Memory).\n\nGame modes include Test, Free Training, and Kid Mode for younger players. In Creative Mode, players perform relaxing activities like drawing. In Stress Mode, players perform the same tests as the regular Test mode except with the addition of distracting images, flashes, and sounds. More difficult versions of the original tests also appear in this mode.\n\nCharts track each player's overall performance and progress.  Players can also select an A.I. coach to guide them through the various tests and assist them in setting and reaching training  goals. Up to four players can challenge each other offline or online.\n\nThe Xbox 360 version includes Avatar support.  Some of the extra modes must be downloaded in an add-on pack for the Playstation 3.",
+      "game_id": 46232,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 43,
+          "genre_name": "Math / Logic"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 107,
+          "genre_name": "Mental training"
+        }
+      ],
+      "moby_score": 2.8,
+      "moby_url": "http://www.mobygames.com/game/brain-challenge_",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2007-12-04",
+          "platform_id": 80,
+          "platform_name": "iPod Classic"
+        },
+        {
+          "first_release_date": "2008-01-08",
+          "platform_id": 44,
+          "platform_name": "Nintendo DS"
+        },
+        {
+          "first_release_date": "2008-03-12",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2008-08-27",
+          "platform_id": 86,
+          "platform_name": "iPhone"
+        },
+        {
+          "first_release_date": "2008-11-10",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2008-11-25",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2008-12-04",
+          "platform_id": 46,
+          "platform_name": "PSP"
+        },
+        {
+          "first_release_date": "2009",
+          "platform_id": 91,
+          "platform_name": "Android"
+        },
+        {
+          "first_release_date": "2009-05-25",
+          "platform_id": 88,
+          "platform_name": "Zeebo"
+        },
+        {
+          "first_release_date": "2009-07-13",
+          "platform_id": 87,
+          "platform_name": "Nintendo DSi"
+        },
+        {
+          "first_release_date": "2010-01-07",
+          "platform_id": 100,
+          "platform_name": "webOS"
+        },
+        {
+          "first_release_date": "2010-06-07",
+          "platform_id": 96,
+          "platform_name": "iPad"
+        },
+        {
+          "first_release_date": "2010-10-25",
+          "platform_id": 98,
+          "platform_name": "Windows Phone"
+        },
+        {
+          "first_release_date": "2011-01-20",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "2012",
+          "platform_id": 105,
+          "platform_name": "PS Vita"
+        }
+      ],
+      "sample_cover": {
+        "height": 128,
+        "image": "http://www.mobygames.com/images/covers/l/99057-brain-challenge-ipod-classic-front-cover.png",
+        "platforms": [
+          "iPod Classic"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/99057-brain-challenge-ipod-classic-front-cover.jpg",
+        "width": 170
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Some say people use only 10% of their brains...",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/737470-brain-challenge-zeebo-screenshot-some-say-people-use-only.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/737470-brain-challenge-zeebo-screenshot-some-say-people-use-only.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Title screen.",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/737471-brain-challenge-zeebo-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/737471-brain-challenge-zeebo-screenshot-title-screen.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Loading screen.",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/737472-brain-challenge-zeebo-screenshot-loading-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/737472-brain-challenge-zeebo-screenshot-loading-screen.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Creating a new profile.",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/737473-brain-challenge-zeebo-screenshot-creating-a-new-profile.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/737473-brain-challenge-zeebo-screenshot-creating-a-new-profile.jpg",
+          "width": 640
+        }
+      ],
+      "title": "Brain Challenge"
+    },
+    {
+      "description": "The sequel to EA Sports Active, <i>EA Sports Active 2</i> adds new exercises, workout plans, and brings the series to the Xbox360 and PS3 alongside the Wii.\n\nThe major inclusion to <i>Active 2</i> is a wireless heart rate monitor worn on the arm.  The player's heart rate is displayed on the screen along with five activity targets giving encouragement to faster rates (for pushing themselves harder).  The heart rate monitor is not meant to be a safety device, and workouts do not appear to change in any way based on its readings.\n\n<i>Active 2</i>'s major change from the previous title is to move away from using handheld sensors (the Wiimote and nunchuck) to track activity.  The PS3 and Wii versions include additional wireless sensors worn on the arm and leg (\"Total Body Tracking\" system), while the Xbox360 version uses only the heart rate monitor and the Kinect to track movement.  All three platforms thus allow players to freely use hand weights and perform floor exercises - two limitations of the first game.  As with the first game, a resistance band is also included for those who do not have their own workout equipment.\n\nPlayers can choose from three week or nine week programs.  These programs are rigidly guided systems (unlike user-selected \"classes\") that track players through the range of weeks selected.  Four exercises are scheduled per week, and the contents of each session are preset by unspecified fitness experts.  The game also encourages filling out an in-game journal, inviting the user to fill in eating habits, weight, hours slept, and additional activity outside of the program.  All of this information is presented in various charts and graphs giving a general idea of the user's progress through the program.  Users can also customize separate workouts if the choose, or deselect specific exercises in a preset session (though they may not replace them with others).\n\nAs with the first game, various tweaks on running in place is the primary cardio exercise.  Different types of squats and jumping in place are used to focus on the legs, and weight raises or bent-over rows for the arms.  Each workout session has a warm-up and cool down period with a variety of stretches.  Floor exercises are included, ranging from push-ups and sit-ups to yet more stretches.  As with the first title, minigames are also used as part of the exercises.  These include basketball, mountain biking (more squats), and boxing.  Additional games (such as dodge ball and soccer) are available on the Xbox/Kinect, and Balance Board games (such as mountain boarding) exclusive to the Wii.  A global setting (easy, medium, and hard) affects the intensity of all workouts, directly raising the number of reps or time spent on the virtual track.\n\nThe Wii version is limited to one player.  The 360 supports up to two players locally.  The 360 and PS3 versions include online multiplayer, allowing two players to perform the same workout session at the same time.  360 and PS3 also tie into an online tracking system, where players can track and share their workout from the web.  Players can also join a \"Workout Group,\" tracking and contributing to a total group goal.",
+      "game_id": 53043,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 5,
+          "genre_name": "Sports"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 92,
+          "genre_name": "Health / Nutrition"
+        },
+        {
+          "genre_category": "Sports Themes",
+          "genre_category_id": 3,
+          "genre_id": 49,
+          "genre_name": "Football (European) / Soccer"
+        },
+        {
+          "genre_category": "Sports Themes",
+          "genre_category_id": 3,
+          "genre_id": 36,
+          "genre_name": "Boxing"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 104,
+          "genre_name": "Bike / Bicycling"
+        }
+      ],
+      "moby_score": 3.5,
+      "moby_url": "http://www.mobygames.com/game/ea-sports-active-2",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2010-09-16",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2010-09-16",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2010-09-16",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        }
+      ],
+      "sample_cover": {
+        "height": 662,
+        "image": "http://www.mobygames.com/images/covers/l/228642-ea-sports-active-2-xbox-360-front-cover.jpg",
+        "platforms": [
+          "Xbox 360"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/228642-ea-sports-active-2-xbox-360-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "EA Sports Active 2"
+    },
+    {
+      "description": "<i>Learning with the PooYoos Episode 1</i> is, as the title screen states, an educational game \u00abfor young kids\u00bb, especially aimed at those of them who are aged between three and six. The PooYoos have the features and appearance\nof colourful baby animals: rabbits, pigs, tortoises, pandas, elephants, cats and more; two different levels of interactivity, Young PooYoo and Big PooYoo, meet every children's needs according to age and degree of development.\n\nThe main menu, named \u00abwhole workshop\u00bb since it's as if the game is located in an infancy school, displays the Workshop mode (the main one, comprehensive of magic workshop, music workshop \u2014 with many musical instruments played by the PooYoos, while the child is asked to follow the rhythm \u2014 and sky workshop), Mini-game mode, Dance mode (getting children to dance), and Present mode.\n\nWhile approaching numbers, letters and names, kids can familiarize themselves with colours, shapes, musical instruments, different rhythms and sounds, objects like a sunshade, a pinwheel, ... The Present mode aims at developing socialization skills: the PooYoos love gifts, they need help to open giftboxes, and, everytime one is opened, one new of many toys and fantastic treasures will be discovered, like flying balloons, paper boats and other ones.\n\nThe game has been designed for children that have not learnt reading. In Europe, the game is available in Dutch, English, French, German, Italian\nand Spanish. The American version includes texts and voices in English, \nFrench, and Spanish.",
+      "game_id": 56530,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 98,
+          "genre_name": "Sociology"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 59,
+          "genre_name": "Music"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 46,
+          "genre_name": "Pre-school / Toddler"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 44,
+          "genre_name": "Reading / Writing"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 43,
+          "genre_name": "Math / Logic"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/learning-with-the-pooyoos-episode-1",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2009-09-18",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2011-06-01",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 225,
+        "image": "http://www.mobygames.com/images/covers/l/245068-learning-with-the-pooyoos-episode-1-wii-front-cover.jpg",
+        "platforms": [
+          "Wii"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/245068-learning-with-the-pooyoos-episode-1-wii-front-cover.jpg",
+        "width": 160
+      },
+      "sample_screenshots": [],
+      "title": "Learning with the PooYoos: Episode 1"
+    },
+    {
+      "description": "<i>Learning With the PooYoos: Episode 2</i> continues the educational task of <a href=\"http://www.mobygames.com/game/learning-with-the-pooyoos-episode-1\">Learning with the PooYoos: Episode 1</a>. \nThe game is dedicated to infants in an age from three to six years. \nThe PooYoos have the features and appearance of colourful baby animals: pandas, rabbits, pigs, elephants, cats, tortoises and more; two different levels of interactivity, Young PooYoo and Big PooYoo, match every children's needs in relation to the age and developmental degree of theirs.\n\nThe main menu, named \u00abwhole workshop\u00bb since it's as if the game is located in an infancy school, displays the Workshop mode (the main one, comprehensive of Plant workshop and Music workshop \u2014 with many musical instruments played by the PooYoos, while the child is asked to follow the rhythm \u2014 and sky workshop), Mini-game mode, Dance mode (getting children to dance), and Present mode.\n\nWhile approaching numbers, letters and names, kids can familiarize themselves with colours, shapes, musical instruments, different rhythms and sounds, the space, objects like a watering can, a carrot, ... The Present mode purposes to expand socialization skills: PooYoos love presents, they need help to open giftboxes, and each time a new one of many fabulous treasures and toys will be discovered, such as a magical tree and many more others.\n\nThe game is intended to children that have not learnt reading.\nIn Europe, the game is available in Dutch, English, French, German, Italian and Spanish.  The American version includes texts and voices in English, French, and Spanish.",
+      "game_id": 56550,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 98,
+          "genre_name": "Sociology"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 81,
+          "genre_name": "Ecology / Nature"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 59,
+          "genre_name": "Music"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 46,
+          "genre_name": "Pre-school / Toddler"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 44,
+          "genre_name": "Reading / Writing"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 43,
+          "genre_name": "Math / Logic"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/learning-with-the-pooyoos-episode-2",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2010-04-05",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2011-11-22",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 225,
+        "image": "http://www.mobygames.com/images/covers/l/245088-learning-with-the-pooyoos-episode-2-wii-front-cover.jpg",
+        "platforms": [
+          "Wii"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/245088-learning-with-the-pooyoos-episode-2-wii-front-cover.jpg",
+        "width": 160
+      },
+      "sample_screenshots": [],
+      "title": "Learning with the PooYoos: Episode 2"
+    },
+    {
+      "description": "<i>Rocksmith</i> is a music game where a guitar is used as a controller to play songs as popularized through the Guitar Freaks, Guitar Hero and Rock Band series. Unlike those games however an actual guitar is used. Almost any electric guitar can be plugged in using a custom standard 1\u20444 in (6.35 mm) output jack of a guitar to a USB plug to transfer the signal from analog to digital. The Real Tone cable is included with every copy of the game but can also be bought separately as the game can be played in split-screen multiplayer. The guitar playing process is not simplified as it aims to teach players to learn and improve real guitar skills. Instead it has an adaptive difficulty level starting with single notes that gradually become more complicated and are eventually turned into the complete riffs if the player manages to keep up.\n\nIt borrows the familiar view from the aforementioned games where a song is represented as a stream of notes flowing on a board towards the player. They need to be timed right to play them out correctly. Near the bottom of the screen is a horizontal overlay that shows the correct position on the fingerboard. Near the top of the screen the lyrics flow by along with the overall score based on accuracy and difficulty. An overall rating keeps track of the progress throughout the entire game. It comes with a selection of over 50 classic and modern rocks songs with some unlockables when a double encore is achieved in a journey mode set.\n\nIn the amp mode the sounds of the guitar can be tuned through a selection of pedals and amplifiers. They can be mapped to three slots to activate them during songs. Preset settings are used for each song by default to make them sound authentic and custom ones are unlocked when a songs has been properly played. A riff repeater option offers custom difficulty levels by breaking up the songs into parts such as the intro, outro, solo, verse and it comes with three modes. In Free Play every note needs to be played, The Accelerator detects the skill level and adapts based on speed along with the option to define a custom speed throughout the song, and The Leveler starts at the lowest level and offers 30 chances to get it right. Performing well in the latter raises percentages until a riff has been mastered.\n\nVarious minigames are offered to practice 12 specific guitar skills such as chords, sustains, shifting, tremolo etc. There are variants of Galaga, a slider puzzle, a baseball game, a \"Simon says\" game, one where zombies are shot through chords, and more. Next to the solus version there is a guitar bundle that comes with a real Epiphone guitar, picks and a strap.",
+      "game_id": 57978,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 59,
+          "genre_name": "Music"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 97,
+          "genre_name": "Music / Rhythm"
+        }
+      ],
+      "moby_score": 3.7,
+      "moby_url": "http://www.mobygames.com/game/rocksmith",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2011-10-18",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2011-10-18",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [],
+      "title": "Rocksmith"
+    },
+    {
+      "description": "This is a re-release of the original <i>Rocksmith</i> game streamlined with its expansion. It contains:<ul>\n<li>Rocksmith (base game)</li>\n<li>Rocksmith: Bass Expansion (expansion)</li></ul>For the PC platform this is the first release of the game. The retail release includes the Real Tone cable required to connect a guitar. The game is also sold as a digital download but then the cable has to be ordered separately.",
+      "game_id": 58029,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 76,
+          "genre_name": "Compilation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 59,
+          "genre_name": "Music"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 97,
+          "genre_name": "Music / Rhythm"
+        }
+      ],
+      "moby_score": 4.1,
+      "moby_url": "http://www.mobygames.com/game/rocksmith_",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2012-10-16",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2012-10-16",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2012-10-16",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1128,
+        "image": "http://www.mobygames.com/images/covers/l/271320-rocksmith-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/271320-rocksmith-windows-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Rocksmith"
+    },
+    {
+      "description": "<i>Tehodoki Mahjong: Ny\u016bmon-hen</i> (Introduction Mahjong Initiation) is a Mahjong introductory game.\nIt introduces the Chinese board game Mahjong to neophites of any age with simple tutorials and illustrations, starting from the basics and the different game modes. It features Mahjong champion Moriyama Shigekazu, under whose guidance and supervision the player is taught about the scoring rules, the terminology and the different game pieces through different lessons and quizzes.",
+      "game_id": 61269,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 43,
+          "genre_name": "Math / Logic"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/tehodoki-mahjong-nymon-hen",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-03-25",
+          "platform_id": 6,
+          "platform_name": "PlayStation"
+        },
+        {
+          "first_release_date": "2009-11-25",
+          "platform_id": 46,
+          "platform_name": "PSP"
+        },
+        {
+          "first_release_date": "2009-11-25",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2012-08-28",
+          "platform_id": 105,
+          "platform_name": "PS Vita"
+        }
+      ],
+      "sample_cover": {
+        "height": 162,
+        "image": "http://www.mobygames.com/images/covers/l/267557-tehodoki-mahjong-nyumon-hen-psp-front-cover.jpg",
+        "platforms": [
+          "PSP",
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/267557-tehodoki-mahjong-nyumon-hen-psp-front-cover.jpg",
+        "width": 177
+      },
+      "sample_screenshots": [],
+      "title": "Tehodoki Mahjong: Ny\u016bmon-hen"
+    },
+    {
+      "description": "<i>Ide Y\u014dsuke no Mahjong Ky\u014dshitsu</i> is a Mahjong learning and practice game featuring Mahjong professional Ide Y\u014dsuke. The game has a number of lessons shown with a manga style drawn Ide Y\u014dsuke explaining the rules of the Chinese classic board game of Mahjong, and allows the player to try what they have learn on Mahjong boards.",
+      "game_id": 65028,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/ide-ysuke-no-mahjong-kyshitsu",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-12-02",
+          "platform_id": 6,
+          "platform_name": "PlayStation"
+        },
+        {
+          "first_release_date": "2008-02-27",
+          "platform_id": 46,
+          "platform_name": "PSP"
+        },
+        {
+          "first_release_date": "2008-02-27",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2012-08-28",
+          "platform_id": 105,
+          "platform_name": "PS Vita"
+        }
+      ],
+      "sample_cover": {
+        "height": 162,
+        "image": "http://www.mobygames.com/images/covers/l/281948-ide-yosuke-no-mahjong-kyoshitsu-psp-front-cover.jpg",
+        "platforms": [
+          "PSP",
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/281948-ide-yosuke-no-mahjong-kyoshitsu-psp-front-cover.jpg",
+        "width": 177
+      },
+      "sample_screenshots": [],
+      "title": "Ide Y\u014dsuke no Mahjong Ky\u014dshitsu"
+    },
+    {
+      "description": "<i>Rocksmith 2014</i> is the sequel to Rocksmith. As its predecessor, it is a music game which uses an actual electric guitar as a controller, but now designed more as a learning tool than a game. The gameplay is essentially the same: notes are shown floating on a board towards an overlay of the guitar's fingerboard near the bottom of the screen and players must hit them as they reach it. The presentation, though, is different: there is no more a \"journey\" mode where the player progresses through events with set lists organized by difficulty. Instead, the game is guided by \"missions\", objectives that must be achieved in some of the available modes in the game. These modes are:\n<ul>\n\t<li>Learn a song: as the name describes, here the player chooses a song to be learnt. Songs can be chosen in no particular order, but the game will recommend songs in a specific progression to help beginners to learn how to play the instrument. The game will also recommend specific lessons or techniques to be learnt or practiced, judging by the players' previous performance. While playing a song, the player can enter a mode called \"Riff Repeater\", where specific parts of the song can be chosen and repeated until mastery. There are several options in this mode, like setting a starting difficulty or speed; once the player reaches mastery in this level of difficulty or speed, the game will level up, increasing the difficulty or speed. Number of repetitions, error tolerance and the ability of viewing previous mistakes are also available.</li>\n\t<li>Session mode: in this mode the player jams with a virtual band. The player selects number and kinds of instruments to play with, the music genre, key, scale (pentatonic minor, for instance), tempo and complexity. The game then shows the main interface with highlighted notes through the fingerboard, telling the player what notes should be played to keep it in key and what notes to emphasize. The band has A.I. and is responsive to how the music is being played, so depending on the intensity or speed of the notes being played, it will follow the player.</li>\n\t<li>Nonstop play: in this mode players create a set list of one or more songs and plays them in sequence, with no intervals between them (except for tuning when needed).</li>\n\t<li>Lessons: here the player can access lessons from the simplest ones like holding the guitar or the pick to more advanced ones two-hands or harmonics techniques. The lessons are presented in video and then the player must practice what was shown. The game recognizes errors and tells the players where they did wrong and what it takes to fix it.</li>\n\t<li>Guitarcade: 11 mini-games allow the player to train specific techniques. They are:\n<ul>\n\t<li>Gone Wailin', a volume dynamics forced side-scroller;</li>\n\t<li>String Skip Saloon, a string skipping game with an old-west shooter theme;</li>\n\t<li>Ducks ReDux, a duck shooting fretting game;</li>\n\t<li>Ninja Slide N, a game where the player controls a ninja slicing ghosts with slides;</li>\n\t<li>Scale Warriors, a beat'em up scales game;</li>\n\t<li>Return to Castle Chordead, a chords rail shooter resembling House of the Dead;</li>\n\t<li>Hurtlin' Hurdles, a tremolo game with an Olympiad theme;</li>\n\t<li>Temple of Bends, a bends platformer;</li>\n\t<li>Scale Racer, an arcade racer game for practicing scales;</li>\n\t<li>Star Chords, another chords rail shooter, now with a sci-fi theme;</li>\n\t<li>Harmonic Heist, a game where the player controls the movements of a thief in a museum with harmonics.</li>\n</ul>\n\t<li>Multiplayer: two players can play co-op in this mode (two Real Tone cables are needed).</li>\n\t<li>Tone designer: an assortment of guitar amps and pedals is available so players can create their own tone. The gear available ranges from actual manufacturers like Marshall and Orange to fictitious ones designed specifically to the game.</li>\n</ul>\nAll Rocksmith DLC songs are compatible with <i>Rocksmith 2014</i>.",
+      "game_id": 73144,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 59,
+          "genre_name": "Music"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 140,
+          "genre_name": "Mini-Games"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 97,
+          "genre_name": "Music / Rhythm"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 131,
+          "genre_name": "2D scrolling"
+        }
+      ],
+      "moby_score": 4.0,
+      "moby_url": "http://www.mobygames.com/game/rocksmith-all-new-2014-edition-remastered_",
+      "num_votes": 1,
+      "official_url": "http://rocksmith.ubi.com/rocksmith",
+      "platforms": [
+        {
+          "first_release_date": "2013-10-22",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2013-10-22",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2013-10-22",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "2013-10-22",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2014-11-04",
+          "platform_id": 141,
+          "platform_name": "PlayStation 4"
+        },
+        {
+          "first_release_date": "2014-11-07",
+          "platform_id": 142,
+          "platform_name": "Xbox One"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/305215-rocksmith-all-new-2014-edition-remastered-windows-front-cover.jpg",
+        "platforms": [
+          "Windows",
+          "Macintosh"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/305215-rocksmith-all-new-2014-edition-remastered-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [],
+      "title": "Rocksmith: All-new 2014 Edition - Remastered"
+    },
+    {
+      "description": "This DLC for Rocksmith: All-new 2014 Edition features the song <i>My Own Worst Enemy</i> by Lit, playable on any electric guitar or bass, including a new Authentic Tone.\n",
+      "game_id": 77808,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 62,
+          "genre_name": "DLC / Add-on"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 59,
+          "genre_name": "Music"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 97,
+          "genre_name": "Music / Rhythm"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/rocksmith-all-new-2014-edition-lit-my-own-worst-enemy",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2015-04-21",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2015-04-21",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2015-04-21",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "2015-04-21",
+          "platform_id": 142,
+          "platform_name": "Xbox One"
+        },
+        {
+          "first_release_date": "2015-04-22",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2015-04-22",
+          "platform_id": 141,
+          "platform_name": "PlayStation 4"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/326627-rocksmith-all-new-2014-edition-lit-my-own-worst-enemy-windows-front-cover.jpg",
+        "platforms": [
+          "Windows",
+          "Macintosh"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/326627-rocksmith-all-new-2014-edition-lit-my-own-worst-enemy-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [],
+      "title": "Rocksmith: All-new 2014 Edition - Lit: My Own Worst Enemy"
+    },
+    {
+      "description": "This DLC for Rocksmith: All-new 2014 Edition features the song <i>Feel the Pain</i> by Dinosaur Jr., playable on any electric guitar or bass, including a new Authentic Tone.\n",
+      "game_id": 77810,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 62,
+          "genre_name": "DLC / Add-on"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 59,
+          "genre_name": "Music"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 97,
+          "genre_name": "Music / Rhythm"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/rocksmith-all-new-2014-edition-dinosaur-jr-feel-the-pain",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2015-04-21",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2015-04-21",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2015-04-21",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "2015-04-21",
+          "platform_id": 142,
+          "platform_name": "Xbox One"
+        },
+        {
+          "first_release_date": "2015-04-22",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2015-04-22",
+          "platform_id": 141,
+          "platform_name": "PlayStation 4"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/326631-rocksmith-all-new-2014-edition-dinosaur-jr-feel-the-pain-windows-front-cover.jpg",
+        "platforms": [
+          "Windows",
+          "Macintosh"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/326631-rocksmith-all-new-2014-edition-dinosaur-jr-feel-the-pain-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [],
+      "title": "Rocksmith: All-new 2014 Edition - Dinosaur Jr.: Feel the Pain"
+    },
+    {
+      "description": "This DLC for Rocksmith: All-new 2014 Edition features the song <i>Hemorrhage (In My Hands)</i> by Fuel, playable on any electric guitar or bass, including a new Authentic Tone.\n",
+      "game_id": 77811,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 62,
+          "genre_name": "DLC / Add-on"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 59,
+          "genre_name": "Music"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 97,
+          "genre_name": "Music / Rhythm"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/rocksmith-all-new-2014-edition-fuel-hemorrhage-in-my-hands",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2015-04-21",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2015-04-21",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2015-04-21",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "2015-04-21",
+          "platform_id": 142,
+          "platform_name": "Xbox One"
+        },
+        {
+          "first_release_date": "2015-04-22",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2015-04-22",
+          "platform_id": 141,
+          "platform_name": "PlayStation 4"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/326633-rocksmith-all-new-2014-edition-fuel-hemorrhage-in-my-hands-windows-front-cover.jpg",
+        "platforms": [
+          "Windows",
+          "Macintosh"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/326633-rocksmith-all-new-2014-edition-fuel-hemorrhage-in-my-hands-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [],
+      "title": "Rocksmith: All-new 2014 Edition - Fuel: Hemorrhage (In My Hands)"
+    },
+    {
+      "description": "This DLC for Rocksmith: All-new 2014 Edition features the song <i>Sex Farm</i> by Spinal Tap, playable on any electric guitar or bass, including a new Authentic Tone.\n",
+      "game_id": 78259,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 62,
+          "genre_name": "DLC / Add-on"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 59,
+          "genre_name": "Music"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 97,
+          "genre_name": "Music / Rhythm"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/rocksmith-all-new-2014-edition-spinal-tap-sex-farm",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2015-03-31",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2015-03-31",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2015-03-31",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "2015-03-31",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2015-03-31",
+          "platform_id": 141,
+          "platform_name": "PlayStation 4"
+        },
+        {
+          "first_release_date": "2015-03-31",
+          "platform_id": 142,
+          "platform_name": "Xbox One"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/328771-rocksmith-all-new-2014-edition-spinal-tap-sex-farm-windows-front-cover.jpg",
+        "platforms": [
+          "Windows",
+          "Macintosh"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/328771-rocksmith-all-new-2014-edition-spinal-tap-sex-farm-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [],
+      "title": "Rocksmith: All-new 2014 Edition - Spinal Tap: Sex Farm"
+    },
+    {
+      "description": null,
+      "game_id": 84092,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 43,
+          "genre_name": "Math / Logic"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        }
+      ],
+      "moby_score": 2.5,
+      "moby_url": "http://www.mobygames.com/game/20q",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2011-04-20",
+          "platform_id": 46,
+          "platform_name": "PSP"
+        },
+        {
+          "first_release_date": "2011-04-20",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2012-02-22",
+          "platform_id": 105,
+          "platform_name": "PS Vita"
+        }
+      ],
+      "sample_cover": {
+        "height": 240,
+        "image": "http://www.mobygames.com/images/covers/l/382089-20q-psp-front-cover.jpg",
+        "platforms": [
+          "PSP",
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/382089-20q-psp-front-cover.jpg",
+        "width": 240
+      },
+      "sample_screenshots": [],
+      "title": "20Q"
+    },
+    {
+      "description": null,
+      "game_id": 84895,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 118,
+          "genre_name": "Puzzle"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        }
+      ],
+      "moby_score": 1.4,
+      "moby_url": "http://www.mobygames.com/game/family-games",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2010-12-13",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2011-01-04",
+          "platform_id": 46,
+          "platform_name": "PSP"
+        },
+        {
+          "first_release_date": "2011-01-04",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 225,
+        "image": "http://www.mobygames.com/images/covers/l/445138-family-games-wii-front-cover.jpg",
+        "platforms": [
+          "Wii"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/445138-family-games-wii-front-cover.jpg",
+        "width": 160
+      },
+      "sample_screenshots": [],
+      "title": "Family Games"
+    },
+    {
+      "description": null,
+      "game_id": 85085,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 29,
+          "genre_name": "Game Show / Trivia / Quiz"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/american-mensa-academy",
+      "num_votes": 0,
+      "official_url": "http://www.maximumgames.com/american-mensa-academy/",
+      "platforms": [
+        {
+          "first_release_date": "2012-10-30",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2013-02-05",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1129,
+        "image": "http://www.mobygames.com/images/covers/l/494438-american-mensa-academy-wii-front-cover.jpg",
+        "platforms": [
+          "Wii"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/494438-american-mensa-academy-wii-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "American Mensa Academy"
+    },
+    {
+      "description": null,
+      "game_id": 86710,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 74,
+          "genre_name": "History"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 71,
+          "genre_name": "Geography"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 29,
+          "genre_name": "Game Show / Trivia / Quiz"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/national-geographic-challenge",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2011-05-13",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2011-05-13",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2011-06-17",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        }
+      ],
+      "sample_cover": {
+        "height": 1137,
+        "image": "http://www.mobygames.com/images/covers/l/477572-national-geographic-challenge-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/477572-national-geographic-challenge-windows-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "National Geographic Challenge!"
+    },
+    {
+      "description": null,
+      "game_id": 90694,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 46,
+          "genre_name": "Pre-school / Toddler"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 44,
+          "genre_name": "Reading / Writing"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 43,
+          "genre_name": "Math / Logic"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 140,
+          "genre_name": "Mini-Games"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/mr-hat-and-the-magic-cube",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2011-03-30",
+          "platform_id": 46,
+          "platform_name": "PSP"
+        },
+        {
+          "first_release_date": "2011-03-30",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2012-02-22",
+          "platform_id": 105,
+          "platform_name": "PS Vita"
+        }
+      ],
+      "sample_cover": {
+        "height": 240,
+        "image": "http://www.mobygames.com/images/covers/l/409724-mr-hat-and-the-magic-cube-psp-front-cover.jpg",
+        "platforms": [
+          "PSP",
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/409724-mr-hat-and-the-magic-cube-psp-front-cover.jpg",
+        "width": 240
+      },
+      "sample_screenshots": [],
+      "title": "Mr. Hat and the Magic Cube"
+    },
+    {
+      "description": null,
+      "game_id": 91124,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 196,
+          "genre_name": "Africa"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 131,
+          "genre_name": "2D scrolling"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/go-diego-go-safari-rescue_",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2008-02-11",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2008-03-07",
+          "platform_id": 7,
+          "platform_name": "PlayStation 2"
+        },
+        {
+          "first_release_date": "2013-03-13",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1138,
+        "image": "http://www.mobygames.com/images/covers/l/471217-go-diego-go-safari-rescue-wii-front-cover.jpg",
+        "platforms": [
+          "Wii"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/471217-go-diego-go-safari-rescue-wii-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Go Diego Go!: Safari Rescue"
+    },
+    {
+      "description": "<i>Panekit</i> is a sandbox open world exploration, collection and (optional) construction game. Make your own models and vehicles by combining 8 kinds of panel shaped parts and then drive them around an open world. Each vehicle has different capabilities that can be used to discover new land.\n\nIt's possible to build machines capable of walking, driving, flying and even transforming between forms. New parts and equipment can be found by driving around the open world and there are mini games - also discoverable in the open world - including: one on one tank shooting battle, sports car race, dragster race, rally race and even an aircraft competition. Two player mini games and demos of various vehicles are both accessible from the main menu.",
+      "game_id": 109325,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 158,
+          "genre_name": "Vehicle Simulator"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 150,
+          "genre_name": "Sandbox / Open World"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 140,
+          "genre_name": "Mini-Games"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 137,
+          "genre_name": "City Building / Construction Simulation"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 96,
+          "genre_name": "Tricks / Stunts"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 172,
+          "genre_name": "Menu Structures"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 15,
+          "genre_name": "Real-Time"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 194,
+          "genre_name": "Truck"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 189,
+          "genre_name": "Hovercraft"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 188,
+          "genre_name": "Automobile"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 151,
+          "genre_name": "Space Flight"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 108,
+          "genre_name": "Train"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 80,
+          "genre_name": "Tank"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 72,
+          "genre_name": "Mecha / Giant Robot"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 58,
+          "genre_name": "Off-roading"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 56,
+          "genre_name": "Helicopter"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 20,
+          "genre_name": "Motorcycle"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 19,
+          "genre_name": "Flight / Aviation"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 134,
+          "genre_name": "Free-roaming camera"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/panekit",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-08-05",
+          "platform_id": 6,
+          "platform_name": "PlayStation"
+        },
+        {
+          "first_release_date": "2007-09-04",
+          "platform_id": 46,
+          "platform_name": "PSP"
+        },
+        {
+          "first_release_date": "2007-09-04",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 811,
+        "image": "http://www.mobygames.com/images/covers/l/543864-panekit-playstation-front-cover.jpg",
+        "platforms": [
+          "PlayStation"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/543864-panekit-playstation-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Panekit"
+    },
+    {
+      "description": null,
+      "game_id": 121127,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 59,
+          "genre_name": "Music"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 97,
+          "genre_name": "Music / Rhythm"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/bandfuse-rock-legends",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2013-11-19",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2014-01-28",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [],
+      "title": "BandFuse: Rock Legends"
+    }
+  ]

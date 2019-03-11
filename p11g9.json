@@ -1,0 +1,534 @@
+[
+    {
+      "description": "A small bear and a small tiger live in their house by a river, minding their own business, when one day a crate is swept ashore from a place called Panama with nothing but bananas inside - the favorite food of the two.\n\nConvinced that this Panama must be some paradise just bursting with bananas, the two set off to find it. Play the tiger, with the bear providing needful advice. In this action/adventure, the player has to overcome obstacles, solve puzzles, and outsmart evil pirates who have their own plans with those two.\n\nBased on the world created by the German children's book author Janosch, this game aims at young children.",
+      "game_id": 5319,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 46,
+          "genre_name": "Pre-school / Toddler"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 25,
+          "genre_name": "Isometric"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 4.5,
+      "moby_url": "http://www.mobygames.com/game/janosch-das-groe-panama-spiel",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 819,
+        "image": "http://www.mobygames.com/images/covers/l/49420-janosch-das-grosse-panama-spiel-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/49420-janosch-das-grosse-panama-spiel-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "The crate from Panama",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/26678-janosch-das-grosse-panama-spiel-game-boy-color-screenshot-the.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/26678-janosch-das-grosse-panama-spiel-game-boy-color-screenshot-the.gif",
+          "width": 160
+        },
+        {
+          "caption": "The text-less conversation interface ",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/26679-janosch-das-grosse-panama-spiel-game-boy-color-screenshot-the.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/26679-janosch-das-grosse-panama-spiel-game-boy-color-screenshot-the.gif",
+          "width": 160
+        },
+        {
+          "caption": "Developer Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/121574-janosch-das-grosse-panama-spiel-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/121574-janosch-das-grosse-panama-spiel-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/121575-janosch-das-grosse-panama-spiel-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/121575-janosch-das-grosse-panama-spiel-game-boy-color-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Janosch: Das gro\u00dfe Panama Spiel"
+    },
+    {
+      "description": "Join the Divas Alexa, Nikki, Tia and Summer in this portable collection of 6 mini games, on their way to the fashion show.\n\nThe mini games include: \"The Scooter Spot\", which is a simple ramp hitting/obstacle avoiding cruise to the mall.  \"The Fashion Spot\", a conveyor belt sorting game, where you toss items in to boxes.  \"The Music Spot\", a simplified Dance Dance Revolution beat hitting game.  \"The Snack Spot\", a Tower of Hanoi meets an ice cream sundae.  \"The Pet Shop\", where you catch a pet in a simple maze.  And finally, \"The Style Spot\", where you dress your Diva and match sets of clothes.",
+      "game_id": 21368,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 46,
+          "genre_name": "Pre-school / Toddler"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 97,
+          "genre_name": "Music / Rhythm"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 21,
+          "genre_name": "Platform"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 2.0,
+      "moby_url": "http://www.mobygames.com/game/diva-starz-mall-mania",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-11-01",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Splash shown in intro sequence",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/462913-diva-starz-mall-mania-game-boy-color-screenshot-splash-shown.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/462913-diva-starz-mall-mania-game-boy-color-screenshot-splash-shown.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/462915-diva-starz-mall-mania-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/462915-diva-starz-mall-mania-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/462916-diva-starz-mall-mania-game-boy-color-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/462916-diva-starz-mall-mania-game-boy-color-screenshot-main-menu.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Diva Starz: Mall Mania"
+    },
+    {
+      "description": "Join Franky the dog as he travels back in time to visit the dinosaurs in this collection of 5 mini games.  Help him recover the 5 stolen pterodactyl eggs before it's too late.\n\nFly on a pterodactyl's back and match color and shapes in the clouds.  Race on a dinosaurs back to match the sequence of letters in the alphabet.  Toss fruits and numbers to hungry dinosaurs across a river.  Make matches in a dinosaur themed game of memory.  And bop a matching dinosaur on the head in a game like Whack a Mole.\n\nThe game has a password feature for saving progress.",
+      "game_id": 21369,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 46,
+          "genre_name": "Pre-school / Toddler"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 43,
+          "genre_name": "Math / Logic"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/jumpstart-dino-adventure-field-trip",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-10-18",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 803,
+        "image": "http://www.mobygames.com/images/covers/l/88391-jumpstart-dino-adventure-field-trip-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/88391-jumpstart-dino-adventure-field-trip-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463084-jumpstart-dino-adventure-field-trip-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463084-jumpstart-dino-adventure-field-trip-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463085-jumpstart-dino-adventure-field-trip-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463085-jumpstart-dino-adventure-field-trip-game-boy-color-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "JumpStart Dino Adventure: Field Trip"
+    },
+    {
+      "description": "A Game Boy cartridge that could interact with a bundled sewing machine that Singer Co. hoped to use to attract new people to the world of loopers and bobbins. The devices are connected by a link cable that rolls out from inside the sewing machine.\n\nThe cartridge contains 84 stitch patterns, including abstract designs, symbols, numbers, and animals such as dolphins. A custom pattern may also be designed. Letters, in block, script, and outline fonts, may also be added to a stitching, ten at a time. The words you use can be added as favorites which can be easily reselected. The patterns can be put together in different combinations.\n\nThe cartridge also allows one to do buttonholes, by selecting between five different styles of holes. \n\nShould something jam on the sewing machine, or some other sort of error occur, a diagram of the machine will appear on the screen with the trouble area flashing. Similarly, should the machine require any attention the information will be supplied through the screen.\n\nOn the Game Boy Color one can also set the color fabric and thread on the screen. ",
+      "game_id": 32496,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/singer-izek",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [],
+      "title": "Singer Izek"
+    },
+    {
+      "description": "<i>Goraku Ou Tango!</i> is a simple word game mimicking the puzzles found in the pages of popular printed Japanese word-puzzle publisher Sekai Bunka. These puzzles consist of taking words writing in English and the two syllabaries of Japan Hiragana, or Katakana, and moving tiles around beneath the word(s) to recreate them in a different writing style. There are several variants on this gameplay.\n\nThere is a story mode featuring a family of archaeologists who are digging up Japanese orthography across the globe. Sweden, for instance, is known not only as being the home of lost Atlantis but also troves of buried Japanese writing! A family member is missing perhaps there will be clues in this the ruins of these global ancient Japanese ruins? By completing the puzzles you will get to see a scene and a new more difficult puzzle.",
+      "game_id": 37125,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 118,
+          "genre_name": "Puzzle"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 44,
+          "genre_name": "Reading / Writing"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 162,
+          "genre_name": "Word Construction"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 167,
+          "genre_name": "Point and Select"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/goraku-tango",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-04-01",
+          "platform_id": 48,
+          "platform_name": "WonderSwan"
+        },
+        {
+          "first_release_date": "2000-02-11",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 995,
+        "image": "http://www.mobygames.com/images/covers/l/309899-goraku-o-tango-wonderswan-front-cover.jpg",
+        "platforms": [
+          "WonderSwan"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/309899-goraku-o-tango-wonderswan-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/334288-goraku-o-tango-wonderswan-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/334288-goraku-o-tango-wonderswan-screenshot-title-screen.jpg",
+          "width": 224
+        },
+        {
+          "caption": "Moving tiles.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/334289-goraku-o-tango-wonderswan-screenshot-moving-tiles.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/334289-goraku-o-tango-wonderswan-screenshot-moving-tiles.jpg",
+          "width": 224
+        },
+        {
+          "caption": "tango- ",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/334290-goraku-o-tango-wonderswan-screenshot-tango.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/334290-goraku-o-tango-wonderswan-screenshot-tango.jpg",
+          "width": 224
+        },
+        {
+          "caption": "Difficulty",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/334291-goraku-o-tango-wonderswan-screenshot-difficulty.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/334291-goraku-o-tango-wonderswan-screenshot-difficulty.jpg",
+          "width": 224
+        }
+      ],
+      "title": "Goraku \u014c Tango!"
+    },
+    {
+      "description": "<i>Mario Family</i> is a unique game. The Japanese appliance company Jaguar designed a sewing machine called the JN-100, and later the JN-2000, which can be controlled via a Nintendo Game Boy Color. This cartridge was then released, containing various designs of Mario characters, enemies, and items,  which can be sewn as patterns using the Jaguar sewing machine.\n\nThe concept is similar to an earlier Mario game for the Famicom Disk System, <i>I am a Teacher: Super Mario Sweater</i>. A follow up was planned, <i>Jaguar Mishin Sashi Senyou Soft: Kirby Family</i>, but was cancelled.",
+      "game_id": 61528,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 79,
+          "genre_name": "Graphics / Art"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/jaguar-mishin-sashi-senyou-soft-mario-family",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-08-27",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/632003-jaguar-mishin-sashi-senyou-soft-mario-family-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/632003-jaguar-mishin-sashi-senyou-soft-mario-family-game-boy-color.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Picking a design",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/632004-jaguar-mishin-sashi-senyou-soft-mario-family-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/632004-jaguar-mishin-sashi-senyou-soft-mario-family-game-boy-color.jpg",
+          "width": 160
+        },
+        {
+          "caption": "I've picked my design.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/632007-jaguar-mishin-sashi-senyou-soft-mario-family-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/632007-jaguar-mishin-sashi-senyou-soft-mario-family-game-boy-color.jpg",
+          "width": 160
+        },
+        {
+          "caption": "This is where you start sewing (I guess...)",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/632009-jaguar-mishin-sashi-senyou-soft-mario-family-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/632009-jaguar-mishin-sashi-senyou-soft-mario-family-game-boy-color.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Jaguar Mishin Sashi Senyou Soft: Mario Family"
+    },
+    {
+      "description": "<i>Blue's Clues: Blue's Alphabet Book</i> is an educational game for pre-schoolers based on the TV show with the same name. The game focuses on teaching young players spelling, letters and the alphabet through several games with simple controls and few button inputs.\n\nFrom the game's main menu the player can either play with Blue's alphabet book (which constitutes the full game), or play any of the games by selecting any of the friends hanging out in the same room.\n\nIn the full game, pages have gone missing in Blue's book, so Steve and Blue set out to play various games with their friends to find clues. After a certain amount of games have been played, pages are filled in with pictures for the letters. The pages can be played in any order.\n\n",
+      "game_id": 63818,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 46,
+          "genre_name": "Pre-school / Toddler"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 44,
+          "genre_name": "Reading / Writing"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/blues-clues-blues-alphabet-book",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/667810-blue-s-clues-blue-s-alphabet-book-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/667810-blue-s-clues-blue-s-alphabet-book-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "The main game menu where the player can either play the full game with Blue, or any mini game with any of the friends.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/667811-blue-s-clues-blue-s-alphabet-book-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/667811-blue-s-clues-blue-s-alphabet-book-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Selecting a page to collect clues and play games.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/667812-blue-s-clues-blue-s-alphabet-book-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/667812-blue-s-clues-blue-s-alphabet-book-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Let's go look for clues Steve!",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/667813-blue-s-clues-blue-s-alphabet-book-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/667813-blue-s-clues-blue-s-alphabet-book-game-boy-color-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Blue's Clues: Blue's Alphabet Book"
+    }
+  ]

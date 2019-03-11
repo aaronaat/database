@@ -1,0 +1,605 @@
+[
+    {
+      "description": "<i>Ultimate Board Game Collection</i> includes over 20 classic board and tabletop games. Each game contains a trophy that can be unlocked by completing a specific goal. Depending on the game, up to six players can compete by passing around a single controller.\n\nThe games include:\n<ul>\n<li>3D Tic-Tac-Toe</li>\n<li>Anagrams</li>\n<li>Backgammon</li>\n<li>Checkers</li>\n<li>Chess</li>\n<li>Chinese Checkers</li>\n<li>Concentration</li>\n<li>Dice</li>\n<li>Dominoes</li>\n<li>Enigma</li>\n<li>Go</li>\n<li>Jigsaws</li>\n<li>Mahjong Solitaire</li>\n<li>Mancala</li>\n<li>Naval Battle</li>\n<li>Parcheesi</li>\n<li>Quatro</li>\n<li>Reversi</li>\n<li>Snakes and Ladders</li>\n<li>Word Cubes</li>\n</ul>",
+      "game_id": 48279,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 118,
+          "genre_name": "Puzzle"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 154,
+          "genre_name": "Tile Matching Puzzle"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 107,
+          "genre_name": "Mental training"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 11,
+          "genre_name": "Chess"
+        }
+      ],
+      "moby_score": 2.5,
+      "moby_url": "http://www.mobygames.com/game/ultimate-board-game-collection__",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2006-07-06",
+          "platform_id": 7,
+          "platform_name": "PlayStation 2"
+        },
+        {
+          "first_release_date": "2013-06-04",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1078,
+        "image": "http://www.mobygames.com/images/covers/l/246085-ultimate-board-game-collection-playstation-2-front-cover.jpg",
+        "platforms": [
+          "PlayStation 2"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/246085-ultimate-board-game-collection-playstation-2-front-cover.jpg",
+        "width": 751
+      },
+      "sample_screenshots": [],
+      "title": "Ultimate Board Game Collection"
+    },
+    {
+      "description": "<i>Pure Chess</i> offers digital chess games on a 3D board with a camera view that can be moved freely. Players can choose from a selection of traditional chess sets including Staunton, Checker and Williams and play with a choice of locations comprising of a museum, a stylish penthouse and a grand library. For players at a beginner's level the game teaches the basics through step-by-step tutorials. Chess skills can then be improved through tournaments with four consecutive games against different opponents of different skills levels. It also contains the official Elo rating system. Against computer players match replay data can be saved, but games cannot be saved mid-game to resume at a later time.\n\nNext to exhibitions matches and tournaments, it offers \"play by mail\" for asynchronous multiplayer games with up to 8 games simultaneously that can span hours, days or weeks. There is no standard local or online mode, only the asynchronous \"play by mail\" where moves are sent to another player over PSN through a message. That multiplayer mode is also limited to friends, it cannot be played through unknown other players. In the Challenge mode specific board setups are offered with the challenge to reach checkmate in just a few moves.",
+      "game_id": 55943,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 11,
+          "genre_name": "Chess"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/pure-chess",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2012-04-11",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2012-04-18",
+          "platform_id": 105,
+          "platform_name": "PS Vita"
+        },
+        {
+          "first_release_date": "2013-08-29",
+          "platform_id": 86,
+          "platform_name": "iPhone"
+        },
+        {
+          "first_release_date": "2013-08-29",
+          "platform_id": 96,
+          "platform_name": "iPad"
+        },
+        {
+          "first_release_date": "2013-08-31",
+          "platform_id": 91,
+          "platform_name": "Android"
+        },
+        {
+          "first_release_date": "2014-03-20",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        },
+        {
+          "first_release_date": "2014-03-20",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        },
+        {
+          "first_release_date": "2014-04-15",
+          "platform_id": 141,
+          "platform_name": "PlayStation 4"
+        }
+      ],
+      "sample_cover": {
+        "height": 240,
+        "image": "http://www.mobygames.com/images/covers/l/242997-pure-chess-playstation-3-front-cover.jpg",
+        "platforms": [
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/242997-pure-chess-playstation-3-front-cover.jpg",
+        "width": 240
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Splash screen (Trial version)",
+          "height": 544,
+          "image": "http://www.mobygames.com/images/shots/l/834525-pure-chess-ps-vita-screenshot-splash-screen-trial-version.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/834525-pure-chess-ps-vita-screenshot-splash-screen-trial-version.jpg",
+          "width": 960
+        },
+        {
+          "caption": "Title screen (Trial version)",
+          "height": 544,
+          "image": "http://www.mobygames.com/images/shots/l/834526-pure-chess-ps-vita-screenshot-title-screen-trial-version.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/834526-pure-chess-ps-vita-screenshot-title-screen-trial-version.jpg",
+          "width": 960
+        },
+        {
+          "caption": "Main menu (Trial version)",
+          "height": 544,
+          "image": "http://www.mobygames.com/images/shots/l/834527-pure-chess-ps-vita-screenshot-main-menu-trial-version.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/834527-pure-chess-ps-vita-screenshot-main-menu-trial-version.jpg",
+          "width": 960
+        },
+        {
+          "caption": "Tutorial lessons (Trial version)",
+          "height": 544,
+          "image": "http://www.mobygames.com/images/shots/l/834528-pure-chess-ps-vita-screenshot-tutorial-lessons-trial-version.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/834528-pure-chess-ps-vita-screenshot-tutorial-lessons-trial-version.jpg",
+          "width": 960
+        }
+      ],
+      "title": "Pure Chess"
+    },
+    {
+      "description": "<i>Ultimate Mind Games</i> is a collection of mini games that can either be played in story mode or individually.\n\nIn story mode the player takes the role of a child with special powers, because their parents can move between board game world, Brun, and another they too have this ability. On returning to the Brun one day the player is met by their friend Mana who informs them that the town is deserted because they have been invaded. The whole country has been invaded by the kingdom of Jejune and board games are banned!<br>\nMana takes the player to resistance HQ and explains that, because the player is so good they must tour round all the towns on the world map, play games in each location improve morale and weaken the invaders grip. More money can be earned by gambling or by taking part in the Sunday matches at the coliseum.<br>\nTime in Brun is measured in weeks. Every Monday supporters of the resistance will pay in their money, on the same day the Jejune invaders will increase their hold in all regions by five percent. Money earned can be used to lobby citizens in a region to support the resistance, this is the game mechanic that allows players who are bad at one of the featured games, say Chess, to take control of that region without having to win at that game.\n\nThe games in the package are:<ul>\n<li>Kalah: an ancient African game, there's a good description of Kalah here \n</li><li>Crystals: (aka Pyramid) a strategy game played on a 5x5 board with fifty-five crystals. The objective is to capture space and build upwards, the player who plays the most pieces wins.\n</li><li>Capture the Flag: is, according to the game's description, a Kogun variant of Sh\u014dgi, Sh\u014dgi as we all know is a \nJapanese board game closely related to Western chess and Chinese xiangqi.\n</li><li>Fan Tan: (aka Seven's, Parliament or Domino) is a card game in which the seven of each suit is laid on the table and the players take turns to play cards in sequence down to the ace and up to the king.\n</li><li>Seven Bridge: is a mahjong game played with cards\n</li><li>Chinese Checkers: is a game like <moby gamegroup=\"\nGenre: Board game - Chinese checkers\">these.\n</li><li>Chess: the champion of both strategy and board games, one of those games that need not be described here.\n</li><li>Draughts: (aka Checkers), if chess is the champion of strategy games then this is the prince, it's another board game that needs no introduction.\n</li><li>Domination: is another variant of Sh\u014dgi, that uses just the pawn and promoted pawn pieces. These move like rooks in chess and the objective is to capture pieces by surrounding them, the first player with three of fewer pieces loses.\n</li><li>Backgammon: considered by some to be a game with the perfect balance of skill and luck Backgammon, of which there are \nmany implementations\n is another board game that needs no description.\n</li><li>Four-In-A-Row: is a game of <moby gamegroup=\"\nGenre: Board game - Connect Four\">Connect Four.\n</li><li>Page One: (aka American Page One or Pagat) is a card game in which each player starts with six cards and attempts to play them all onto a central stack. Cards can be disposed of if they match by number or suit. \n</li><li>Ponnuki Go: a simplified version of \nGo that focuses on the number of pieces captured.\n</li><li>Pairs: is a Concentration type of game played with Mah Jong tiles instead of cards\n</li><li>Leap Frog: is a dice game played on a Sh\u014dgi board. Dice, actually gold pieces, are thrown in order to determine how many squares a player can move. For each circuit the player makes their piece advances in rank. A piece that is passed by another player loses one rank. The first player to achieve the rank of Emperor wins.\n</li></ul>The menu carousel has a section which describes the rules for each game, another which describes the tactics to be employed, one each for the story mode and freeplay, and finally a section for game configuration options\n",
+      "game_id": 65852,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 11,
+          "genre_name": "Chess"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/ultimate-mind-games",
+      "num_votes": 0,
+      "official_url": "http://www.d3p.co.jp/cs/simple/s_20/s20_010.html",
+      "platforms": [
+        {
+          "first_release_date": "2002-09-12",
+          "platform_id": 7,
+          "platform_name": "PlayStation 2"
+        },
+        {
+          "first_release_date": "2012-02-29",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1121,
+        "image": "http://www.mobygames.com/images/covers/l/284113-ultimate-mind-games-playstation-2-front-cover.jpg",
+        "platforms": [
+          "PlayStation 2"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/284113-ultimate-mind-games-playstation-2-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "The game's title screen",
+          "height": 512,
+          "image": "http://www.mobygames.com/images/shots/l/698066-ultimate-mind-games-playstation-2-screenshot-the-game-s-title.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/698066-ultimate-mind-games-playstation-2-screenshot-the-game-s-title.jpg",
+          "width": 640
+        },
+        {
+          "caption": "The game's menu carousel. There are entries for Rules, Tactics, Freeplay, Story Mode, and Settings",
+          "height": 512,
+          "image": "http://www.mobygames.com/images/shots/l/698067-ultimate-mind-games-playstation-2-screenshot-the-game-s-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/698067-ultimate-mind-games-playstation-2-screenshot-the-game-s-menu.jpg",
+          "width": 640
+        },
+        {
+          "caption": "This is the game selection screen. The same format is used for Rules, Tactics and Freeplay. In story Mode it's also used as the Practice menu",
+          "height": 512,
+          "image": "http://www.mobygames.com/images/shots/l/698068-ultimate-mind-games-playstation-2-screenshot-this-is-the-game.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/698068-ultimate-mind-games-playstation-2-screenshot-this-is-the-game.jpg",
+          "width": 640
+        },
+        {
+          "caption": "This is a screen in the Rules section, it covers the gale Crystals. All Rules are broken into small, easy to digest, sections",
+          "height": 512,
+          "image": "http://www.mobygames.com/images/shots/l/698069-ultimate-mind-games-playstation-2-screenshot-this-is-a-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/698069-ultimate-mind-games-playstation-2-screenshot-this-is-a-screen.jpg",
+          "width": 640
+        }
+      ],
+      "title": "Ultimate Mind Games"
+    },
+    {
+      "description": "<i>Battle vs Chess</i> is a chess game inspired by Battle Chess. It uses the Fritz AI and offers various variations of the chess theme.\n\nThe playing mode most similar to <i>Battle Chess</i> are the Battlegrounds where the success of a move is determined through a mini game (when the attacker loses, the piece is set back to its previous position). The two variants are slasher (the player controls a chess piece directly which can attack, dodge and block, the goal is to break through the enemy army and kill the target) and duel (the fight between two pieces is shown from the side and the player needs to perform quick-time events in order to hurt the enemy).  The other single-player modes are classic (regular chess with optional randomized piece placement), campaign (two campaigns with 15 missions - chess matches with special rules and starting positions- each), various chess puzzles and a tutorial. \n\nMultiplayer can either played in battleground mode or as regular chess matches with or without variations: reserve (captured piece can be introduced into the match again), suicide (capturing is mandatory and the goal is to lose all pieces first) or double (every player moves two pieces per round). Additionally fog of war (only squares which are occupied or in the reach of a piece can be seen) can be activated.",
+      "game_id": 69569,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 11,
+          "genre_name": "Chess"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 3.7,
+      "moby_url": "http://www.mobygames.com/game/battle-vs-chess",
+      "num_votes": 3,
+      "official_url": "http://www.battlevschess.com",
+      "platforms": [
+        {
+          "first_release_date": "2011-05-17",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2011-05-17",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2011-05-17",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "2011-05-17",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2013-05-07",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        }
+      ],
+      "sample_cover": {
+        "height": 181,
+        "image": "http://www.mobygames.com/images/covers/l/294093-battle-vs-chess-windows-front-cover.jpg",
+        "platforms": [
+          "Windows",
+          "Macintosh"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/294093-battle-vs-chess-windows-front-cover.jpg",
+        "width": 467
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main menu",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/876145-battle-vs-chess-windows-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/876145-battle-vs-chess-windows-screenshot-main-menu.jpg",
+          "width": 1366
+        },
+        {
+          "caption": "Classic battlefield",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/876146-battle-vs-chess-windows-screenshot-classic-battlefield.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/876146-battle-vs-chess-windows-screenshot-classic-battlefield.jpg",
+          "width": 1366
+        },
+        {
+          "caption": "Game in progress",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/876147-battle-vs-chess-windows-screenshot-game-in-progress.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/876147-battle-vs-chess-windows-screenshot-game-in-progress.jpg",
+          "width": 1366
+        },
+        {
+          "caption": "Like a DDR",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/876148-battle-vs-chess-windows-screenshot-like-a-ddr.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/876148-battle-vs-chess-windows-screenshot-like-a-ddr.jpg",
+          "width": 1366
+        }
+      ],
+      "title": "Battle vs Chess"
+    },
+    {
+      "description": "<i>Chess</i> is one of the three standalone board games that is included in the <i>Best of Board Games</i> bundle which serves as a common interface for the three which can be purchased individually through an application or as a standalone downloadable content.\n\nThis chess game offers single and multiplayer game, and features both 2D and 3D chess board representations which can be toggled during gameplay. Various levels of AI provide different challenges, while adventure mode teaches you new strategies to use against AI or human opponents.",
+      "game_id": 77790,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 11,
+          "genre_name": "Chess"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/best-of-board-games-chess",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2014-10-14",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2014-10-14",
+          "platform_id": 105,
+          "platform_name": "PS Vita"
+        },
+        {
+          "first_release_date": "2015-06-18",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        }
+      ],
+      "sample_cover": {
+        "height": 800,
+        "image": "http://www.mobygames.com/images/covers/l/326582-best-of-board-games-chess-ps-vita-front-cover.jpg",
+        "platforms": [
+          "PS Vita"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/326582-best-of-board-games-chess-ps-vita-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main menu (Trial version)",
+          "height": 544,
+          "image": "http://www.mobygames.com/images/shots/l/833777-best-of-board-games-chess-ps-vita-screenshot-main-menu-trial.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/833777-best-of-board-games-chess-ps-vita-screenshot-main-menu-trial.jpg",
+          "width": 960
+        },
+        {
+          "caption": "Starting the game against CPU (Trial version)",
+          "height": 544,
+          "image": "http://www.mobygames.com/images/shots/l/833778-best-of-board-games-chess-ps-vita-screenshot-starting-the.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/833778-best-of-board-games-chess-ps-vita-screenshot-starting-the.jpg",
+          "width": 960
+        },
+        {
+          "caption": "The queen takes enemy peon (Trial version)",
+          "height": 544,
+          "image": "http://www.mobygames.com/images/shots/l/833779-best-of-board-games-chess-ps-vita-screenshot-the-queen-takes.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/833779-best-of-board-games-chess-ps-vita-screenshot-the-queen-takes.jpg",
+          "width": 960
+        },
+        {
+          "caption": "Check (Trial version)",
+          "height": 544,
+          "image": "http://www.mobygames.com/images/shots/l/833780-best-of-board-games-chess-ps-vita-screenshot-check-trial-version.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/833780-best-of-board-games-chess-ps-vita-screenshot-check-trial-version.jpg",
+          "width": 960
+        }
+      ],
+      "title": "Best of Board Games: Chess"
+    },
+    {
+      "description": null,
+      "game_id": 84101,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 11,
+          "genre_name": "Chess"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/cohort-chess",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2011-06-07",
+          "platform_id": 46,
+          "platform_name": "PSP"
+        },
+        {
+          "first_release_date": "2011-06-07",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 170,
+        "image": "http://www.mobygames.com/images/covers/l/382106-cohort-chess-psp-front-cover.jpg",
+        "platforms": [
+          "PSP",
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/382106-cohort-chess-psp-front-cover.jpg",
+        "width": 170
+      },
+      "sample_screenshots": [],
+      "title": "Cohort Chess"
+    },
+    {
+      "description": null,
+      "game_id": 113011,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 11,
+          "genre_name": "Chess"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/chess-challenger",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2004-01-16",
+          "platform_id": 7,
+          "platform_name": "PlayStation 2"
+        },
+        {
+          "first_release_date": "2012-10-16",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1130,
+        "image": "http://www.mobygames.com/images/covers/l/526770-chess-challenger-playstation-2-front-cover.jpg",
+        "platforms": [
+          "PlayStation 2"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/526770-chess-challenger-playstation-2-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Chess Challenger"
+    }
+  ]

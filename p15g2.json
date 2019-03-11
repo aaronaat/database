@@ -1,0 +1,2292 @@
+[
+    {
+      "description": "You start out as a rookie detective whose job is to track down a crop of thieves stealing the world's most precious treasures. After each assignment briefing, you'll be given a deadline to capture the thief that stole the artifact using clues dealing with your knowledge of geography. \n\nThe game is an updated version of the original Where in the World is Carmen Sandiego?, featuring enhanced graphics, sound effects, and additional control schemes, such as joystick support for computer platforms.",
+      "game_id": 4848,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 71,
+          "genre_name": "Geography"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 172,
+          "genre_name": "Menu Structures"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        }
+      ],
+      "moby_score": 3.6,
+      "moby_url": "http://www.mobygames.com/game/where-in-the-world-is-carmen-sandiego_",
+      "num_votes": 31,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1988",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "1989",
+          "platform_id": 19,
+          "platform_name": "Amiga"
+        },
+        {
+          "first_release_date": "1989",
+          "platform_id": 51,
+          "platform_name": "Apple IIgs"
+        },
+        {
+          "first_release_date": "1990",
+          "platform_id": 2,
+          "platform_name": "DOS"
+        },
+        {
+          "first_release_date": "1990",
+          "platform_id": 60,
+          "platform_name": "Amstrad CPC"
+        },
+        {
+          "first_release_date": "1990-03-30",
+          "platform_id": 45,
+          "platform_name": "TurboGrafx CD"
+        },
+        {
+          "first_release_date": "1991",
+          "platform_id": 24,
+          "platform_name": "Atari ST"
+        },
+        {
+          "first_release_date": "1992",
+          "platform_id": 16,
+          "platform_name": "Genesis"
+        },
+        {
+          "first_release_date": "1993",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        }
+      ],
+      "sample_cover": {
+        "height": 1027,
+        "image": "http://www.mobygames.com/images/covers/l/72123-where-in-the-world-is-carmen-sandiego-amiga-front-cover.jpg",
+        "platforms": [
+          "Amiga"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/72123-where-in-the-world-is-carmen-sandiego-amiga-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title sequence.",
+          "height": 342,
+          "image": "http://www.mobygames.com/images/shots/l/903416-where-in-the-world-is-carmen-sandiego-macintosh-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/903416-where-in-the-world-is-carmen-sandiego-macintosh-screenshot.jpg",
+          "width": 512
+        },
+        {
+          "caption": "Carmen's gang has pulled another caper!",
+          "height": 342,
+          "image": "http://www.mobygames.com/images/shots/l/903417-where-in-the-world-is-carmen-sandiego-macintosh-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/903417-where-in-the-world-is-carmen-sandiego-macintosh-screenshot.jpg",
+          "width": 512
+        },
+        {
+          "caption": "Sign in.",
+          "height": 342,
+          "image": "http://www.mobygames.com/images/shots/l/903418-where-in-the-world-is-carmen-sandiego-macintosh-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/903418-where-in-the-world-is-carmen-sandiego-macintosh-screenshot.jpg",
+          "width": 512
+        },
+        {
+          "caption": "Starting a case in Turkey.",
+          "height": 342,
+          "image": "http://www.mobygames.com/images/shots/l/903419-where-in-the-world-is-carmen-sandiego-macintosh-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/903419-where-in-the-world-is-carmen-sandiego-macintosh-screenshot.jpg",
+          "width": 512
+        }
+      ],
+      "title": "Where in the World Is Carmen Sandiego?"
+    },
+    {
+      "description": "Carmen Sandiego and her gang are loose once again, and it is the players job to capture her! This time round the player not only has to find where she is, but also when she is. Traveling to various locations, they need to assemble clues by questioning witnesses and searching locations to close in and capture Carmen Sandiego. Included with the game is The New America Desk Encyclopedia to help make clues more meaningful (and act as a form of copy protection!).",
+      "game_id": 6564,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 74,
+          "genre_name": "History"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 71,
+          "genre_name": "Geography"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 172,
+          "genre_name": "Menu Structures"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        }
+      ],
+      "moby_score": 3.1,
+      "moby_url": "http://www.mobygames.com/game/where-in-time-is-carmen-sandiego",
+      "num_votes": 46,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1989",
+          "platform_id": 31,
+          "platform_name": "Apple II"
+        },
+        {
+          "first_release_date": "1990",
+          "platform_id": 2,
+          "platform_name": "DOS"
+        },
+        {
+          "first_release_date": "1990",
+          "platform_id": 19,
+          "platform_name": "Amiga"
+        },
+        {
+          "first_release_date": "1990",
+          "platform_id": 27,
+          "platform_name": "Commodore 64"
+        },
+        {
+          "first_release_date": "1990",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "1991",
+          "platform_id": 22,
+          "platform_name": "NES"
+        },
+        {
+          "first_release_date": "1992",
+          "platform_id": 16,
+          "platform_name": "Genesis"
+        },
+        {
+          "first_release_date": "1992",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        }
+      ],
+      "sample_cover": {
+        "height": 624,
+        "image": "http://www.mobygames.com/images/covers/l/86417-where-in-time-is-carmen-sandiego-apple-ii-front-cover.jpg",
+        "platforms": [
+          "Apple II"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/86417-where-in-time-is-carmen-sandiego-apple-ii-front-cover.jpg",
+        "width": 486
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 192,
+          "image": "http://www.mobygames.com/images/shots/l/516109-where-in-time-is-carmen-sandiego-apple-ii-screenshot-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/516109-where-in-time-is-carmen-sandiego-apple-ii-screenshot-title.jpg",
+          "width": 280
+        },
+        {
+          "caption": "Somewhere in San Francisco...",
+          "height": 192,
+          "image": "http://www.mobygames.com/images/shots/l/516110-where-in-time-is-carmen-sandiego-apple-ii-screenshot-somewhere.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/516110-where-in-time-is-carmen-sandiego-apple-ii-screenshot-somewhere.jpg",
+          "width": 280
+        },
+        {
+          "caption": "Welcome to the Acme Detective Agency - Time Crimes Division.",
+          "height": 192,
+          "image": "http://www.mobygames.com/images/shots/l/516111-where-in-time-is-carmen-sandiego-apple-ii-screenshot-welcome.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/516111-where-in-time-is-carmen-sandiego-apple-ii-screenshot-welcome.jpg",
+          "width": 280
+        },
+        {
+          "caption": "Down in the record room.",
+          "height": 192,
+          "image": "http://www.mobygames.com/images/shots/l/516112-where-in-time-is-carmen-sandiego-apple-ii-screenshot-down.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/516112-where-in-time-is-carmen-sandiego-apple-ii-screenshot-down.jpg",
+          "width": 280
+        }
+      ],
+      "title": "Where in Time Is Carmen Sandiego?"
+    },
+    {
+      "description": "This text-based adventure (with some background graphics) was originally released in Japan over the Satellaview system. The game is a spin-off from the Chrono series, and is the precursor to Chrono Cross. Its main characters and plot elements are very close to those of <i>Chrono Cross</i>; it tells the story of Serge (travelling musician), Kid (thief), and Magil (wizard) as they attempt to steal the Frozen Flame from Viper Manor. The game contains multiple, often humorous endings. \n\nGameplay is something between a standard text adventure and a visual novel. Rather than having a full array of possible actions, players are limited to the several options it presents at any time.  With newly discovered items and information, new areas can be reached.  Occasionally battles will occur during the exploration, which are also handled by displaying several possible actions to choose between, such as \"Run\" or \"Jump back as it swings!\"",
+      "game_id": 11830,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 111,
+          "genre_name": "Visual Novel"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 23,
+          "genre_name": "Interactive Fiction / Text Adventure"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 3.9,
+      "moby_url": "http://www.mobygames.com/game/radical-dreamers-nusumenai-hseki",
+      "num_votes": 10,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1996",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/63026-radical-dreamers-nusumenai-hoseki-snes-screenshot-title-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/63026-radical-dreamers-nusumenai-hoseki-snes-screenshot-title-screen.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Serge and Kid are going after Lynx. Hey, that's not nice...",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89512-radical-dreamers-nusumenai-hoseki-snes-screenshot-serge-and.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89512-radical-dreamers-nusumenai-hoseki-snes-screenshot-serge-and.gif",
+          "width": 256
+        }
+      ],
+      "title": "Radical Dreamers: Nusumenai H\u014dseki"
+    },
+    {
+      "description": "Bowser is at it again!  He's using a time machine, called a Timulator, to loot historical artifacts from the past, in order to stock his museum.  He plans to destroy the time machine after, and therefore change the course of history forever.  It's up to Mario to stop Bowser and return all the stolen artifacts to their rightful place in history!",
+      "game_id": 12156,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 74,
+          "genre_name": "History"
+        }
+      ],
+      "moby_score": 2.4,
+      "moby_url": "http://www.mobygames.com/game/marios-time-machine",
+      "num_votes": 14,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1993",
+          "platform_id": 2,
+          "platform_name": "DOS"
+        },
+        {
+          "first_release_date": "1993",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "1994",
+          "platform_id": 5,
+          "platform_name": "Windows 3.x"
+        },
+        {
+          "first_release_date": "1994",
+          "platform_id": 22,
+          "platform_name": "NES"
+        },
+        {
+          "first_release_date": "1994",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        }
+      ],
+      "sample_cover": {
+        "height": 550,
+        "image": "http://www.mobygames.com/images/covers/l/30249-mario-s-time-machine-snes-front-cover.jpg",
+        "platforms": [
+          "SNES"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/30249-mario-s-time-machine-snes-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89492-mario-s-time-machine-snes-screenshot-title-screen.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89492-mario-s-time-machine-snes-screenshot-title-screen.gif",
+          "width": 256
+        },
+        {
+          "caption": "The hero",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89490-mario-s-time-machine-snes-screenshot-the-hero.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89490-mario-s-time-machine-snes-screenshot-the-hero.gif",
+          "width": 256
+        },
+        {
+          "caption": "Bowser's map",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89491-mario-s-time-machine-snes-screenshot-bowser-s-map.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89491-mario-s-time-machine-snes-screenshot-bowser-s-map.gif",
+          "width": 256
+        },
+        {
+          "caption": "Talking to some guys in Philadelphia 1776",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89489-mario-s-time-machine-snes-screenshot-talking-to-some-guys-in.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89489-mario-s-time-machine-snes-screenshot-talking-to-some-guys-in.gif",
+          "width": 256
+        }
+      ],
+      "title": "Mario's Time Machine"
+    },
+    {
+      "description": "This is an adventure game based on the old Japanese fairy tale about Momotaro, a boy who was found by an old couple inside of a huge peach (hence the name Momotaro - \"Peach Guy\"). Momotaro grows up and embarks on a journey to rid the land of the vicious tribe of ogres, and to take their treasures. On his way he meets three animals - a dog, a monkey, and a pheasant, who help him to defeat the ogres. This game is the first part of the story, and is divided into two large chapters, the first telling the story of the dog Ringo, the second the story of the monkey Matsunosuke. \r\n\r\nIn this adventure, you interact with the world by selecting various commands from a menu. Along with traditional commands such as \"Look\" or \"Take\" there are situation-specific commands, for example \"Smell\" for the dog. In certain places it is possible to move by navigating the character physically.",
+      "game_id": 15354,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/heisei-shin-onigashima-zenpen",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1997-12-01",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "2010-05-25",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2014-09-24",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": {
+        "height": 73,
+        "image": "http://www.mobygames.com/images/covers/l/294182-heisei-shin-onigashima-zenpen-wii-u-front-cover.jpg",
+        "platforms": [
+          "Wii U"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/294182-heisei-shin-onigashima-zenpen-wii-u-front-cover.jpg",
+        "width": 73
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89399-heisei-shin-onigashima-zenpen-snes-screenshot-title-screen.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89399-heisei-shin-onigashima-zenpen-snes-screenshot-title-screen.gif",
+          "width": 256
+        },
+        {
+          "caption": "Intro",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89388-heisei-shin-onigashima-zenpen-snes-screenshot-intro.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89388-heisei-shin-onigashima-zenpen-snes-screenshot-intro.gif",
+          "width": 256
+        },
+        {
+          "caption": "This is Ittai, the game's narrator",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89389-heisei-shin-onigashima-zenpen-snes-screenshot-this-is-ittai.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89389-heisei-shin-onigashima-zenpen-snes-screenshot-this-is-ittai.gif",
+          "width": 256
+        },
+        {
+          "caption": "Ittai tells the background story. The old man seems to be amazed",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89390-heisei-shin-onigashima-zenpen-snes-screenshot-ittai-tells-the.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89390-heisei-shin-onigashima-zenpen-snes-screenshot-ittai-tells-the.gif",
+          "width": 256
+        }
+      ],
+      "title": "Heisei Shin Onigashima: Zenpen"
+    },
+    {
+      "description": "The immediate sequel to  Heisei Shin OniOni Shima: Zenpen, released simultaneously with the first part. The two games are based on the popular Japanese fairy tale about the \"peach boy\" Momotaro. He was found by an old man inside a huge peach, and when he grew up, he swore to slay the evil demons and to take their treasure. On his way to the demon land he met three animals: a dog, a monkey, and a pheasant, who helped him on his quest. The second game is split into two parts: the first tells the story of the pheasant Ohana and the princess Otohime, while the second tells about the ultimate battle of the heroes against the evil.\r\n\r\nThe game is an adventure in which you interact with the environments by selecting commands from a menu. As a pheasant, you can also fly from location to location. There are several times sequences when you must act quickly in order to make the game progress.",
+      "game_id": 15355,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/heisei-shin-onigashima-khen",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1997-12-01",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "2010-06-01",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2014-09-24",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": {
+        "height": 73,
+        "image": "http://www.mobygames.com/images/covers/l/294183-heisei-shin-onigashima-kohen-wii-u-front-cover.jpg",
+        "platforms": [
+          "Wii U"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/294183-heisei-shin-onigashima-kohen-wii-u-front-cover.jpg",
+        "width": 73
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89431-heisei-shin-onigashima-kohen-snes-screenshot-title-screen.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89431-heisei-shin-onigashima-kohen-snes-screenshot-title-screen.gif",
+          "width": 256
+        },
+        {
+          "caption": "Intro",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89417-heisei-shin-onigashima-kohen-snes-screenshot-intro.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89417-heisei-shin-onigashima-kohen-snes-screenshot-intro.gif",
+          "width": 256
+        },
+        {
+          "caption": "Ittai once again tells the story",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89418-heisei-shin-onigashima-kohen-snes-screenshot-ittai-once-again.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89418-heisei-shin-onigashima-kohen-snes-screenshot-ittai-once-again.gif",
+          "width": 256
+        },
+        {
+          "caption": "Wow, cool palace!",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89419-heisei-shin-onigashima-kohen-snes-screenshot-wow-cool-palace.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89419-heisei-shin-onigashima-kohen-snes-screenshot-wow-cool-palace.gif",
+          "width": 256
+        }
+      ],
+      "title": "Heisei Shin Onigashima: K\u014dhen"
+    },
+    {
+      "description": "Ihatovo is a magical land created by the Japanese author Kenji Miyazawa. In the game, you are a stranger who arrives at Ihatovo and has to find seven missing notebooks by Miyazawa, to complete his stories, such as for example <i>The Fire Stone</i>, and others.\n\nThis is an adventure game in which you can freely navigate your character through the top-down world, in a console RPG-like fashion. There are no battles in the game and also no puzzles, although at some points you'll have to collect and to use items. The game mainly progresses thanks to conversations with various characters you encounter in Ihatovo.",
+      "game_id": 15357,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/ihatovo-monogatari",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1993-03-05",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        }
+      ],
+      "sample_cover": {
+        "height": 1460,
+        "image": "http://www.mobygames.com/images/covers/l/479911-ihatovo-monogatari-snes-front-cover.jpg",
+        "platforms": [
+          "SNES"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/479911-ihatovo-monogatari-snes-front-cover.jpg",
+        "width": 799
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89434-ihatovo-monogatari-snes-screenshot-title-screen.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89434-ihatovo-monogatari-snes-screenshot-title-screen.gif",
+          "width": 256
+        },
+        {
+          "caption": "Text intro",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89433-ihatovo-monogatari-snes-screenshot-text-intro.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89433-ihatovo-monogatari-snes-screenshot-text-intro.gif",
+          "width": 256
+        },
+        {
+          "caption": "Arriving at Ihatovo",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89435-ihatovo-monogatari-snes-screenshot-arriving-at-ihatovo.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89435-ihatovo-monogatari-snes-screenshot-arriving-at-ihatovo.gif",
+          "width": 256
+        },
+        {
+          "caption": "City of Ihatovo, square",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89436-ihatovo-monogatari-snes-screenshot-city-of-ihatovo-square.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89436-ihatovo-monogatari-snes-screenshot-city-of-ihatovo-square.gif",
+          "width": 256
+        }
+      ],
+      "title": "Ihatovo Monogatari"
+    },
+    {
+      "description": "As a young detective (whom you name yourself), you work as an assistant for the famous investigator Utsugi. Your first important assignment is to investigate a murder case. A girl named Yoko was found murdered near a central bridge. During the investigation, you discover a strange rumor about a mysterious ghost-like \"girl who stands at the back\", spread around the school Yoko studied at. Soon the young detective realizes that the case grows more and more complex and that he will need all his wit and talents to find the criminal!\r\n\r\nThis adventure game is dedicated entirely to investigation. You have a menu with various choices (Talk, Investigate, Think), as well as multiple topics to ask the suspects about. You should find clues by questioning people and gathering information, but also by examining areas - in certain places you should move a hand-like cursor over the screen and click on a precise spot to examine it.",
+      "game_id": 15407,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        }
+      ],
+      "moby_score": 4.1,
+      "moby_url": "http://www.mobygames.com/game/famicom-tantei-club-part-ii-ushiro-ni-tatsu-shjo",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1989-05-23",
+          "platform_id": 22,
+          "platform_name": "NES"
+        },
+        {
+          "first_release_date": "1998-04-01",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "2004-08-10",
+          "platform_id": 12,
+          "platform_name": "Game Boy Advance"
+        },
+        {
+          "first_release_date": "2008-04-30",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2013-05-01",
+          "platform_id": 101,
+          "platform_name": "Nintendo 3DS"
+        },
+        {
+          "first_release_date": "2013-07-31",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": {
+        "height": 80,
+        "image": "http://www.mobygames.com/images/covers/l/277679-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shojo-nintendo-3ds-front-cover.jpg",
+        "platforms": [
+          "Nintendo 3DS"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/277679-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shojo-nintendo-3ds-front-cover.jpg",
+        "width": 80
+      },
+      "sample_screenshots": [
+        {
+          "caption": "The company logo requires you to press a button and to read a commercial to the almost defunct Super Famicom system!",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89756-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shojo-snes-screenshot.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89756-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shojo-snes-screenshot.gif",
+          "width": 256
+        },
+        {
+          "caption": "Title screen",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89739-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shojo-snes-screenshot.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89739-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shojo-snes-screenshot.gif",
+          "width": 256
+        },
+        {
+          "caption": "Intro",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89740-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shojo-snes-screenshot.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89740-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shojo-snes-screenshot.gif",
+          "width": 256
+        },
+        {
+          "caption": "In the prologue, you are just a boy...",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/89742-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shojo-snes-screenshot.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/89742-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shojo-snes-screenshot.gif",
+          "width": 256
+        }
+      ],
+      "title": "Famicom Tantei Club Part II: Ushiro ni Tatsu Sh\u014djo"
+    },
+    {
+      "description": "Join Pac-Man in a side scrolling adventure where you must guide him through Pac-Land, solving puzzles and finding objects in order to defeat the evil Ghost Witch of Nentor. You don't control Pac-Man himself, as you must show him where to go and what to look for, while using the slingshot to knock over and find items or open doors and defeat bad guys before Pac-Man bumps into them. You can collect items you find along the paths from Pac-Man's house in the inventory and use them for a later day.",
+      "game_id": 15846,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        }
+      ],
+      "moby_score": 3.2,
+      "moby_url": "http://www.mobygames.com/game/pac-man-2-the-new-adventures",
+      "num_votes": 27,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1994",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "1994",
+          "platform_id": 16,
+          "platform_name": "Genesis"
+        },
+        {
+          "first_release_date": "2015-10-08",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": {
+        "height": 1131,
+        "image": "http://www.mobygames.com/images/covers/l/58832-pac-man-2-the-new-adventures-genesis-front-cover.png",
+        "platforms": [
+          "Genesis"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/58832-pac-man-2-the-new-adventures-genesis-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Pac-Man and Namco",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/93187-pac-man-2-the-new-adventures-genesis-screenshot-pac-man-and.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/93187-pac-man-2-the-new-adventures-genesis-screenshot-pac-man-and.gif",
+          "width": 256
+        },
+        {
+          "caption": "Super Pac-Man",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/93188-pac-man-2-the-new-adventures-genesis-screenshot-super-pac-man.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/93188-pac-man-2-the-new-adventures-genesis-screenshot-super-pac-man.gif",
+          "width": 256
+        },
+        {
+          "caption": "Cool he is",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/93189-pac-man-2-the-new-adventures-genesis-screenshot-cool-he-is.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/93189-pac-man-2-the-new-adventures-genesis-screenshot-cool-he-is.gif",
+          "width": 256
+        },
+        {
+          "caption": "Yup, she has a cameo here",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/93190-pac-man-2-the-new-adventures-genesis-screenshot-yup-she-has.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/93190-pac-man-2-the-new-adventures-genesis-screenshot-yup-she-has.gif",
+          "width": 256
+        }
+      ],
+      "title": "Pac-Man 2: The New Adventures"
+    },
+    {
+      "description": "<i>D\u014dky\u016bsei 2</i> is a classic \"love adventure\", a genre that is also referred to (quite erroneously) as \"dating simulations\". You are a high-school student, whose father is a famous archaeologist traveling around the world, and whose mother died when he was a child. It is now your third year at the 88 High School, and naturally, your primary concern is your love life. Will you be able to date successfully and to come to a happy ending with one of the fifteen lovely female classmates?\n\nThe game mechanics are a lot like in a \"standard\" adventure game (examine objects, visit various locations, talk to people, make decisions), but the plot centers exclusively around your relationship with the girls. The game has its own internal clock. You can move around your character on a \"city map\", visiting different locations. Every visit takes 20-30 minutes of game time. You can make appointments and visit various places at a specific time. The decisions you make influence the story.",
+      "game_id": 16065,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 87,
+          "genre_name": "Adult"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 3.9,
+      "moby_url": "http://www.mobygames.com/game/dkysei-2",
+      "num_votes": 9,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1995-01-31",
+          "platform_id": 95,
+          "platform_name": "PC-98"
+        },
+        {
+          "first_release_date": "1995-02",
+          "platform_id": 102,
+          "platform_name": "FM Towns"
+        },
+        {
+          "first_release_date": "1996-08-08",
+          "platform_id": 59,
+          "platform_name": "PC-FX"
+        },
+        {
+          "first_release_date": "1997-07-11",
+          "platform_id": 23,
+          "platform_name": "SEGA Saturn"
+        },
+        {
+          "first_release_date": "1997-08-06",
+          "platform_id": 6,
+          "platform_name": "PlayStation"
+        },
+        {
+          "first_release_date": "1997-12-01",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        }
+      ],
+      "sample_cover": {
+        "height": 1142,
+        "image": "http://www.mobygames.com/images/covers/l/408517-dokyusei-2-pc-98-front-cover.jpg",
+        "platforms": [
+          "PC-98"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/408517-dokyusei-2-pc-98-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Cute Elf logo :)",
+          "height": 400,
+          "image": "http://www.mobygames.com/images/shots/l/402148-dokyusei-2-pc-98-screenshot-cute-elf-logo.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/402148-dokyusei-2-pc-98-screenshot-cute-elf-logo.gif",
+          "width": 640
+        },
+        {
+          "caption": "Title screen",
+          "height": 400,
+          "image": "http://www.mobygames.com/images/shots/l/402156-dokyusei-2-pc-98-screenshot-title-screen.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/402156-dokyusei-2-pc-98-screenshot-title-screen.gif",
+          "width": 640
+        },
+        {
+          "caption": "Akira looks kinda angry...",
+          "height": 400,
+          "image": "http://www.mobygames.com/images/shots/l/402150-dokyusei-2-pc-98-screenshot-akira-looks-kinda-angry.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/402150-dokyusei-2-pc-98-screenshot-akira-looks-kinda-angry.gif",
+          "width": 640
+        },
+        {
+          "caption": "No need for violence...",
+          "height": 400,
+          "image": "http://www.mobygames.com/images/shots/l/402151-dokyusei-2-pc-98-screenshot-no-need-for-violence.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/402151-dokyusei-2-pc-98-screenshot-no-need-for-violence.gif",
+          "width": 640
+        }
+      ],
+      "title": "D\u014dky\u016bsei 2"
+    },
+    {
+      "description": "Jennifer and her friends are adopted by a nice lady named Mary one day. They expect to be going to a wonderful new home, at the Barrows Mansion. There they will live with Mary and Mr. Barrows. Unfortunately, something goes terribly wrong and Jennifer's friends are showing up dead one by one.  While this is happening, Mary is missing and Jennifer ends up being chased by a crazed psychopath known only as...Scissorman. \n\nNow she must survive and get out of the mansion in this point-and-click horror adventure... Being a teenage girl, you have no special abilities at all, just your wits and your will to survive, there are a few enemies that can kill you instantly, but Scissorman is the true horror that will give you trouble.",
+      "game_id": 20472,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 83,
+          "genre_name": "Horror"
+        }
+      ],
+      "moby_score": 4.3,
+      "moby_url": "http://www.mobygames.com/game/clock-tower_",
+      "num_votes": 26,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1995-09-14",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "1997",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "1997-07-17",
+          "platform_id": 6,
+          "platform_name": "PlayStation"
+        },
+        {
+          "first_release_date": "1999-12-09",
+          "platform_id": 48,
+          "platform_name": "WonderSwan"
+        },
+        {
+          "first_release_date": "2010-08-03",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2011-11-09",
+          "platform_id": 46,
+          "platform_name": "PSP"
+        },
+        {
+          "first_release_date": "2011-11-09",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2012-08-28",
+          "platform_id": 105,
+          "platform_name": "PS Vita"
+        },
+        {
+          "first_release_date": "2013-11-06",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": {
+        "height": 980,
+        "image": "http://www.mobygames.com/images/covers/l/419278-clock-tower-wonderswan-front-cover.jpg",
+        "platforms": [
+          "WonderSwan"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/419278-clock-tower-wonderswan-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/284196-clock-tower-snes-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/284196-clock-tower-snes-screenshot-title-screen.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Main Menu",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/284197-clock-tower-snes-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/284197-clock-tower-snes-screenshot-main-menu.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Shot from the Intro",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/284198-clock-tower-snes-screenshot-shot-from-the-intro.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/284198-clock-tower-snes-screenshot-shot-from-the-intro.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Another shot from the Intro",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/284199-clock-tower-snes-screenshot-another-shot-from-the-intro.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/284199-clock-tower-snes-screenshot-another-shot-from-the-intro.jpg",
+          "width": 256
+        }
+      ],
+      "title": "Clock Tower"
+    },
+    {
+      "description": "This version is different from it's Genesis counterpart.  While the gameplay is similar (exploring levels to collect clues and solve the mystery), there are four different episodes for this version.  While visiting the Drabwell Ranch, ghost's interrupt the festivities and the gang must find out who is behind the hauntings and why.  Another adventure takes the gang to Deadman's Cove where a ghostly pirate has been scaring off tourists and it is up to Scooby and the Gang to bring it to a halt. The other two mysteries take place at a fun fair and a haunted mansion.\n\nPlayers can use Scooby's unique sniffing ability to find clues. Scooby also consume Scooby Snacks to reduce the fright meter.  Additionally there are a series of mini-games that player can participate in such as \"Wac-A-Monster\" or \"Make a Scooby Sandwich\".  The graphics are faithfully recreated to resemble the long-running Hanna Barbara series.",
+      "game_id": 39832,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 4.8,
+      "moby_url": "http://www.mobygames.com/game/scooby-doo-mystery_",
+      "num_votes": 4,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1995",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        }
+      ],
+      "sample_cover": {
+        "height": 540,
+        "image": "http://www.mobygames.com/images/covers/l/235756-scooby-doo-mystery-snes-front-cover.jpg",
+        "platforms": [
+          "SNES"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/235756-scooby-doo-mystery-snes-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/362520-scooby-doo-mystery-snes-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/362520-scooby-doo-mystery-snes-screenshot-title-screen.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Main menu",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/362521-scooby-doo-mystery-snes-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/362521-scooby-doo-mystery-snes-screenshot-main-menu.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Password screen",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/362522-scooby-doo-mystery-snes-screenshot-password-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/362522-scooby-doo-mystery-snes-screenshot-password-screen.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Intro storyline",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/362523-scooby-doo-mystery-snes-screenshot-intro-storyline.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/362523-scooby-doo-mystery-snes-screenshot-intro-storyline.jpg",
+          "width": 256
+        }
+      ],
+      "title": "Scooby-Doo Mystery"
+    },
+    {
+      "description": "In every sector of the Cosmos, there is a queen who rules over it, keeping the powers of the elements in balance with the help of the Nine Guardians. But with time, the queen's power fades, and a new queen must replace her. Several candidates compete until one of them proves that she has the knowledge of the nine elements and has convinced the Guardians to lend their power to her. The heroine of the game is a seventeen-year-old Angelique Limoges, and her main adversary is a rather unpleasant girl named Rosalia. Will Angelique be able to befriend the Guardians and become the next queen?\n\n<i>Angelique</i> borrows elements from different genres: Japanese-style adventure (without puzzles), \"dating sim\", and (not overly complex) strategy. The goal is to make sure that Angelique has good relationship with the Guardians, maintaining the balance. For that, Angelique has to visit them daily, talk to them, and see what effects their powers have over the land. The situation is further complicated by the fact that Angelique - depending on the Zodiac sign the player chooses for her - has a certain affinity with one of the elements, and therefore, with one of the Guardians. This can lead to a love relationship, which will forfeit Angelique's chances to become a queen, but deliver an ending which can still be considered satisfying. ",
+      "game_id": 42668,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/angelique",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1994-09-23",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/387828-angelique-snes-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/387828-angelique-snes-screenshot-title-screen.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Not afraid, eh?",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/387827-angelique-snes-screenshot-not-afraid-eh.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/387827-angelique-snes-screenshot-not-afraid-eh.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Cosmic events and all that",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/387826-angelique-snes-screenshot-cosmic-events-and-all-that.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/387826-angelique-snes-screenshot-cosmic-events-and-all-that.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Throne room. Introducing the nine handsome dudes... I mean Guardians",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/387829-angelique-snes-screenshot-throne-room-introducing-the-nine.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/387829-angelique-snes-screenshot-throne-room-introducing-the-nine.jpg",
+          "width": 256
+        }
+      ],
+      "title": "Angelique"
+    },
+    {
+      "description": "T\u014dru and his girlfriend Mari are on vacation at a skiing lodge when they find themselves suddenly drawn into a horrible murder mystery. The player must solve the crime. If they are too slow in collecting clues, additional murders will be committed, and will eventually result in a horror movie-like ending. The goal is to complete the story and get a certain number of endings. When this happens, two more stories are unlocked. Getting every possible ending of all three stories will unlock two more stories, these being self-parodies. Completing these unlocks one final feature, a parody of Torneko no Daib\u014dken: Fushigi no Dungeon. None of the stories are related to each other in any way, but they all feature the same characters.\n\nThe gameplay mostly consists of still pictures with text covering the whole screen, which must be read. The player must make choices, including the choice of pointing out who the murderer is. Clues are often misleading, and the true clues are often well-hidden in nonsensical places, like ridiculous dialogue.",
+      "game_id": 65563,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 111,
+          "genre_name": "Visual Novel"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 83,
+          "genre_name": "Horror"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/kamaitachi-no-yoru",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1994-11-25",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "2002-06-28",
+          "platform_id": 12,
+          "platform_name": "Game Boy Advance"
+        },
+        {
+          "first_release_date": "2007-02-13",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2013-08-07",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": {
+        "height": 1453,
+        "image": "http://www.mobygames.com/images/covers/l/523341-kamaitachi-no-yoru-snes-front-cover.png",
+        "platforms": [
+          "SNES"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/523341-kamaitachi-no-yoru-snes-front-cover.jpg",
+        "width": 799
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/734097-kamaitachi-no-yoru-snes-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/734097-kamaitachi-no-yoru-snes-screenshot-title-screen.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Title screen",
+          "height": 160,
+          "image": "http://www.mobygames.com/images/shots/l/863067-kamaitachi-no-yoru-game-boy-advance-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/863067-kamaitachi-no-yoru-game-boy-advance-screenshot-title-screen.jpg",
+          "width": 240
+        },
+        {
+          "caption": "Skiing",
+          "height": 160,
+          "image": "http://www.mobygames.com/images/shots/l/863068-kamaitachi-no-yoru-game-boy-advance-screenshot-skiing.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/863068-kamaitachi-no-yoru-game-boy-advance-screenshot-skiing.jpg",
+          "width": 240
+        },
+        {
+          "caption": "Going back",
+          "height": 160,
+          "image": "http://www.mobygames.com/images/shots/l/863069-kamaitachi-no-yoru-game-boy-advance-screenshot-going-back.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/863069-kamaitachi-no-yoru-game-boy-advance-screenshot-going-back.jpg",
+          "width": 240
+        }
+      ],
+      "title": "Kamaitachi no Yoru"
+    },
+    {
+      "description": "In this text-based adventure you control an elementary school boy staying at his grandfather's house in a rural village for the summer. There he befriends a young girl, and they go on many adventures in the mysterious forest near his grandfather's house. Gameplay is similar to the <i>Shin Onigashima</i> games. Actions are chosen from a command menu. Some commands must be chosen within a time limit. This game was available exclusively as a download for the Nintendo Power cartridge.",
+      "game_id": 65961,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/famicom-bunko-hajimari-no-mori",
+      "num_votes": 0,
+      "official_url": "http://www.nintendo.co.jp/n02/shvc/btaj/",
+      "platforms": [
+        {
+          "first_release_date": "1999-07-01",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "2007-07-17",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2013-08-21",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "The Title Screen.",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/961082-famicom-bunko-hajimari-no-mori-snes-screenshot-the-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/961082-famicom-bunko-hajimari-no-mori-snes-screenshot-the-title-screen.jpg",
+          "width": 256
+        },
+        {
+          "caption": "The Main Menu.",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/961083-famicom-bunko-hajimari-no-mori-snes-screenshot-the-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/961083-famicom-bunko-hajimari-no-mori-snes-screenshot-the-main-menu.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Name the protagonist. You can use either Hiragana or Katakana.",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/961084-famicom-bunko-hajimari-no-mori-snes-screenshot-name-the-protagonist.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/961084-famicom-bunko-hajimari-no-mori-snes-screenshot-name-the-protagonist.jpg",
+          "width": 256
+        },
+        {
+          "caption": "The boy is on his way to the countryside.",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/961085-famicom-bunko-hajimari-no-mori-snes-screenshot-the-boy-is.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/961085-famicom-bunko-hajimari-no-mori-snes-screenshot-the-boy-is.jpg",
+          "width": 256
+        }
+      ],
+      "title": "Famicom Bunko: Hajimari no Mori"
+    },
+    {
+      "description": "<i>Otogiris\u014d</i> is a sound novel. This means the game consists mostly of text, with graphics only making up the background. This is a significant difference from other visual novels, where graphics are usually important. In the game, Kohei and his girlfriend Nami are stopped when their car is hit by a falling tree that was struck by lightning. After wandering through the forest, they happen upon a large abandoned mansion. They decide to seek shelter there for the night. But it's not going to be that simple...",
+      "game_id": 65968,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 111,
+          "genre_name": "Visual Novel"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 83,
+          "genre_name": "Horror"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/otogiris",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1992-03-07",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "2007-08-28",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2014-07-30",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": {
+        "height": 73,
+        "image": "http://www.mobygames.com/images/covers/l/294179-otogiriso-wii-u-front-cover.jpg",
+        "platforms": [
+          "Wii U"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/294179-otogiriso-wii-u-front-cover.jpg",
+        "width": 73
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/734096-otogiriso-snes-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/734096-otogiriso-snes-screenshot-title-screen.jpg",
+          "width": 256
+        }
+      ],
+      "title": "Otogiris\u014d"
+    },
+    {
+      "description": "<i>Gakkou de atta Kowai Hanashi</i> is a survival horror text-based visual novel. Photographs of real people are used for the characters, and real scenery for backgrounds.. Seven mysteries occur at a schoolhouse. Shuichi Sakagami of the school newspaper is sent to investigate and meets with six other students after school to hear their stories.",
+      "game_id": 67313,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 111,
+          "genre_name": "Visual Novel"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 102,
+          "genre_name": "Survival Horror"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/gakkou-de-atta-kowai-hanashi",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1995-08-04",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "2008-08-05",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2014-08-27",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": {
+        "height": 443,
+        "image": "http://www.mobygames.com/images/covers/l/462823-gakkou-de-atta-kowai-hanashi-snes-front-cover.jpg",
+        "platforms": [
+          "SNES"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/462823-gakkou-de-atta-kowai-hanashi-snes-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/924115-gakkou-de-atta-kowai-hanashi-snes-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/924115-gakkou-de-atta-kowai-hanashi-snes-screenshot-title-screen.jpg",
+          "width": 256
+        },
+        {
+          "caption": "One of the... MONSTERS.",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/924116-gakkou-de-atta-kowai-hanashi-snes-screenshot-one-of-the-monsters.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/924116-gakkou-de-atta-kowai-hanashi-snes-screenshot-one-of-the-monsters.jpg",
+          "width": 256
+        }
+      ],
+      "title": "Gakkou de atta Kowai Hanashi"
+    },
+    {
+      "description": "<i>Kai: Tsukikomori</i> is a text-based horror sound novel. Characters are represented by photographs of real people, and backgrounds are photographic images. There are several playable characters and multiple endings. On the seventh anniversary of the main character's grandmother's death, relatives are brought together to commemorate the dead.",
+      "game_id": 67322,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 111,
+          "genre_name": "Visual Novel"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 83,
+          "genre_name": "Horror"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/kai-tsukikomori",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1996-03-01",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "2012-06-05",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        },
+        {
+          "first_release_date": "2016-09-07",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": {
+        "height": 128,
+        "image": "http://www.mobygames.com/images/covers/l/370193-kai-tsukikomori-wii-u-front-cover.jpg",
+        "platforms": [
+          "Wii U"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/370193-kai-tsukikomori-wii-u-front-cover.jpg",
+        "width": 128
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/734098-kai-tsukikomori-snes-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/734098-kai-tsukikomori-snes-screenshot-title-screen.jpg",
+          "width": 256
+        }
+      ],
+      "title": "Kai: Tsukikomori"
+    },
+    {
+      "description": "In <i>Marvelous: M\u014dhitotsu no Takarajima</i>, the famous pirate Captain Maverick is said to have left behind a great treasure known as the \"Marvelous.\" The treasure is said to be protected by unsolvable puzzles and bizarre creatures. While many have gone looking for this treasure, none have ever returned. Now, a group of children on a field trip have landed on the island rumored to house the treasure, as did a group of pirates trying to get the treasure at all costs.\n\nThe game focuses on a group of three 12-year-old boys, Dion, Max, and Jack. Their teacher, Ms. Gina, helps them by giving them items to help organize their group. The game, influenced by The Legend of Zelda: A Link to the Past, is played by interacting with other characters and things. When the player encounters someone or something, a command window shows up with choices of how the player wants to interact with them.",
+      "game_id": 69613,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 166,
+          "genre_name": "Action RPG"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 131,
+          "genre_name": "2D scrolling"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/marvelous-mhitotsu-no-takarajima",
+      "num_votes": 0,
+      "official_url": "http://www.nintendo.co.jp/n02/shvc/p_avrj/",
+      "platforms": [
+        {
+          "first_release_date": "1996-10-26",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "2014-02-12",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": {
+        "height": 73,
+        "image": "http://www.mobygames.com/images/covers/l/294170-marvelous-mohitotsu-no-takarajima-wii-u-front-cover.jpg",
+        "platforms": [
+          "Wii U"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/294170-marvelous-mohitotsu-no-takarajima-wii-u-front-cover.jpg",
+        "width": 73
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/768480-marvelous-mohitotsu-no-takarajima-snes-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/768480-marvelous-mohitotsu-no-takarajima-snes-screenshot-title-screen.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Intro. Text + clouds.",
+          "height": 224,
+          "image": "http://www.mobygames.com/images/shots/l/768479-marvelous-mohitotsu-no-takarajima-snes-screenshot-intro-text.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/768479-marvelous-mohitotsu-no-takarajima-snes-screenshot-intro-text.jpg",
+          "width": 256
+        },
+        {
+          "caption": "Insert name.",
+          "height": 448,
+          "image": "http://www.mobygames.com/images/shots/l/768481-marvelous-mohitotsu-no-takarajima-snes-screenshot-insert-name.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/768481-marvelous-mohitotsu-no-takarajima-snes-screenshot-insert-name.jpg",
+          "width": 512
+        },
+        {
+          "caption": "The game just started.",
+          "height": 448,
+          "image": "http://www.mobygames.com/images/shots/l/768482-marvelous-mohitotsu-no-takarajima-snes-screenshot-the-game.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/768482-marvelous-mohitotsu-no-takarajima-snes-screenshot-the-game.jpg",
+          "width": 512
+        }
+      ],
+      "title": "Marvelous: M\u014dhitotsu no Takarajima"
+    },
+    {
+      "description": "<i>Metal Slader Glory: Director's Cut</i> is an enhanced remake of the Family Computer game Metal Slader Glory. It features improved audio and redrawn graphics, additional scenes omitted from the original game due to lack of cartridge space, different background music due to rights issues, and new artwork for the ending.",
+      "game_id": 75963,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 111,
+          "genre_name": "Visual Novel"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/metal-slader-glory-directors-cut",
+      "num_votes": 0,
+      "official_url": "https://www.nintendo.co.jp/n02/shvc/bmsj/index.html",
+      "platforms": [
+        {
+          "first_release_date": "2000-11-29",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "2015-12-09",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": {
+        "height": 128,
+        "image": "http://www.mobygames.com/images/covers/l/317769-metal-slader-glory-director-s-cut-wii-u-front-cover.jpg",
+        "platforms": [
+          "Wii U"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/317769-metal-slader-glory-director-s-cut-wii-u-front-cover.jpg",
+        "width": 128
+      },
+      "sample_screenshots": [],
+      "title": "Metal Slader Glory: Director's Cut"
+    },
+    {
+      "description": "<i>Emit</i> is a visual novel divided into 3 parts which was made to help Japanese people study English. The game can be played both in English or Japanese with the ability to listen to the audio and/or read the transcript in both languages. There are 2 modes to play the game: Story mode and English Game mode. The story mode is the main game divided into chapters where players get to watch the story unfold and can do a number of exercises after each chapter. During the story mode, players can pause the game at any time in order to look up a term they didn't understand or to change the language.\n\nThe exercises are:<ul>\n<li>Listening comprehension activities where players pick the right options to check their understanding of the story.</li>\n<li>Guessing what's going to happen where players choose the question that's closest to their opinion and listen to the characters in the story commenting about the player's opinion.</li>\n<li>Conversation practice where students can listen to the characters speech and act out the dialogues.</li></ul>\nThe English game mode is a mini-game which involves 2 police officers in the game's world looking for a criminal. Players must tell the officers where they should go, write down which buildings are nearby and take note of the phone calls from the local citizens informing them where the criminal was last seen.\n\nThe first volume of the game deals with Yuri's chance encounter with an old man and the events that unfold after that meeting.",
+      "game_id": 121203,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 85,
+          "genre_name": "Foreign Language"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 111,
+          "genre_name": "Visual Novel"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 172,
+          "genre_name": "Menu Structures"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 69,
+          "genre_name": "Meditative / Zen"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 132,
+          "genre_name": "Cinematic camera"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/emit-vol-1-toki-no-maigo",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1994-03",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "1994-03",
+          "platform_id": 5,
+          "platform_name": "Windows 3.x"
+        },
+        {
+          "first_release_date": "1994-03-25",
+          "platform_id": 102,
+          "platform_name": "FM Towns"
+        },
+        {
+          "first_release_date": "1994-09-30",
+          "platform_id": 95,
+          "platform_name": "PC-98"
+        },
+        {
+          "first_release_date": "1995",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "1995-03-25",
+          "platform_id": 23,
+          "platform_name": "SEGA Saturn"
+        },
+        {
+          "first_release_date": "1995-03-25",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "1995-04-14",
+          "platform_id": 35,
+          "platform_name": "3DO"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "The Title Screen.",
+          "height": 440,
+          "image": "http://www.mobygames.com/images/shots/l/959824-emit-vol-1-toki-no-maigo-windows-screenshot-the-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/959824-emit-vol-1-toki-no-maigo-windows-screenshot-the-title-screen.jpg",
+          "width": 642
+        },
+        {
+          "caption": "The Main Menu (In English)",
+          "height": 440,
+          "image": "http://www.mobygames.com/images/shots/l/959825-emit-vol-1-toki-no-maigo-windows-screenshot-the-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/959825-emit-vol-1-toki-no-maigo-windows-screenshot-the-main-menu.jpg",
+          "width": 642
+        },
+        {
+          "caption": "The story is divided into chapters.",
+          "height": 440,
+          "image": "http://www.mobygames.com/images/shots/l/959826-emit-vol-1-toki-no-maigo-windows-screenshot-the-story-is-divided.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/959826-emit-vol-1-toki-no-maigo-windows-screenshot-the-story-is-divided.jpg",
+          "width": 642
+        },
+        {
+          "caption": "Yuri was just minding her own business.",
+          "height": 440,
+          "image": "http://www.mobygames.com/images/shots/l/959827-emit-vol-1-toki-no-maigo-windows-screenshot-yuri-was-just.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/959827-emit-vol-1-toki-no-maigo-windows-screenshot-yuri-was-just.jpg",
+          "width": 642
+        }
+      ],
+      "title": "Emit: Vol. 1 - Toki no Maigo"
+    },
+    {
+      "description": "<i>Emit</i> is a visual novel divided into 3 parts which was made to help Japanese people study English. The game can be played both in English or Japanese with the ability to listen to the audio and/or read the transcript in both languages. There are 2 modes to play the game: Story mode and English Game mode. The story mode is the main game divided into chapters where players get to watch the story unfold and can do a number of exercises after each chapter. During the story mode, players can pause the game at any time in order to look up a term they didn't understand or to change the language.\n\nThe exercises are:<ul>\n<li>Listening comprehension activities where players pick the right options to check their understanding of the story.</li>\n<li>Guessing what's going to happen where players choose the question that's closest to their opinion and listen to the characters in the story commenting about the player's opinion.</li>\n<li>Conversation practice where students can listen to the characters speech and act out the dialogues.</li></ul>\nThe English game mode is a mini-game which involves 2 police officers in the game's world looking for a criminal. Players must tell the officers where they should go, write down which buildings are nearby and take note of the phone calls from the local citizens informing them where the criminal was last seen.\n\nThe second game deals with Yuri's trip to another world where she becomes one year older every day and must find a way back to her own world.",
+      "game_id": 121246,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 85,
+          "genre_name": "Foreign Language"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 111,
+          "genre_name": "Visual Novel"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 172,
+          "genre_name": "Menu Structures"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 69,
+          "genre_name": "Meditative / Zen"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 132,
+          "genre_name": "Cinematic camera"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/emit-vol-2-inochigake-no-tabi",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1994-03",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "1994-03",
+          "platform_id": 5,
+          "platform_name": "Windows 3.x"
+        },
+        {
+          "first_release_date": "1994-07-01",
+          "platform_id": 102,
+          "platform_name": "FM Towns"
+        },
+        {
+          "first_release_date": "1995",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "1995-01-13",
+          "platform_id": 95,
+          "platform_name": "PC-98"
+        },
+        {
+          "first_release_date": "1995-03-25",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "1995-04-01",
+          "platform_id": 23,
+          "platform_name": "SEGA Saturn"
+        },
+        {
+          "first_release_date": "1995-07-14",
+          "platform_id": 35,
+          "platform_name": "3DO"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "The Title Screen.",
+          "height": 440,
+          "image": "http://www.mobygames.com/images/shots/l/959885-emit-vol-2-inochigake-no-tabi-windows-screenshot-the-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/959885-emit-vol-2-inochigake-no-tabi-windows-screenshot-the-title.jpg",
+          "width": 642
+        },
+        {
+          "caption": "The Main Menu (In English)",
+          "height": 440,
+          "image": "http://www.mobygames.com/images/shots/l/959886-emit-vol-2-inochigake-no-tabi-windows-screenshot-the-main.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/959886-emit-vol-2-inochigake-no-tabi-windows-screenshot-the-main.jpg",
+          "width": 642
+        },
+        {
+          "caption": "Yuri is in the bookstore.",
+          "height": 440,
+          "image": "http://www.mobygames.com/images/shots/l/959887-emit-vol-2-inochigake-no-tabi-windows-screenshot-yuri-is-in.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/959887-emit-vol-2-inochigake-no-tabi-windows-screenshot-yuri-is-in.jpg",
+          "width": 642
+        },
+        {
+          "caption": "Yuri meets her childhood friend Ichiro.",
+          "height": 440,
+          "image": "http://www.mobygames.com/images/shots/l/959888-emit-vol-2-inochigake-no-tabi-windows-screenshot-yuri-meets.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/959888-emit-vol-2-inochigake-no-tabi-windows-screenshot-yuri-meets.jpg",
+          "width": 642
+        }
+      ],
+      "title": "Emit: Vol. 2 - Inochigake no Tabi"
+    },
+    {
+      "description": "<i>Emit</i> is a visual novel divided into 3 parts which was made to help Japanese people study English. The game can be played both in English or Japanese with the ability to listen to the audio and/or read the transcript in both languages. There are 2 modes to play the game: Story mode and English Game mode. The story mode is the main game divided into chapters where players get to watch the story unfold and can do a number of exercises after each chapter. During the story mode, players can pause the game at any time in order to look up a term they didn't understand or to change the language.\n\nThe exercises are:<ul>\n<li>Listening comprehension activities where players pick the right options to check their understanding of the story.</li>\n<li>Guessing what's going to happen where players choose the question that's closest to their opinion and listen to the characters in the story commenting about the player's opinion.</li>\n<li>Conversation practice where students can listen to the characters speech and act out the dialogues.</li></ul>\nExclusive to the third volume is a new English Game called Ghost Sweeper. This game is modeled after traditional turn-based RPGs and in this game players must defeat ghosts and search for objects in haunted houses that they can sell. Players can encounter enemies in set places on a map as well as when searching for objects in rooms and furniture. Some ghosts that are trapped can tell the player where to find things if the player guarantees their freedom.\n\nThe last volume concludes the story with Yuri barely surviving her trip back to her world. In this game, Yuri searches for her doppelg\u00e4nger to get her back to her world and to her son.",
+      "game_id": 121248,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 85,
+          "genre_name": "Foreign Language"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 111,
+          "genre_name": "Visual Novel"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 172,
+          "genre_name": "Menu Structures"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 69,
+          "genre_name": "Meditative / Zen"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 132,
+          "genre_name": "Cinematic camera"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/emit-vol-3-watashi-ni-sayonara-o",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1994-03",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "1994-03",
+          "platform_id": 5,
+          "platform_name": "Windows 3.x"
+        },
+        {
+          "first_release_date": "1994-09-18",
+          "platform_id": 102,
+          "platform_name": "FM Towns"
+        },
+        {
+          "first_release_date": "1995",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "1995-03-17",
+          "platform_id": 95,
+          "platform_name": "PC-98"
+        },
+        {
+          "first_release_date": "1995-03-25",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "1995-04-01",
+          "platform_id": 23,
+          "platform_name": "SEGA Saturn"
+        },
+        {
+          "first_release_date": "1995-09-14",
+          "platform_id": 35,
+          "platform_name": "3DO"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "The Title Screen.",
+          "height": 440,
+          "image": "http://www.mobygames.com/images/shots/l/959904-emit-vol-3-watashi-ni-sayonara-o-windows-screenshot-the-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/959904-emit-vol-3-watashi-ni-sayonara-o-windows-screenshot-the-title.jpg",
+          "width": 642
+        },
+        {
+          "caption": "The Main Menu.",
+          "height": 440,
+          "image": "http://www.mobygames.com/images/shots/l/959905-emit-vol-3-watashi-ni-sayonara-o-windows-screenshot-the-main.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/959905-emit-vol-3-watashi-ni-sayonara-o-windows-screenshot-the-main.jpg",
+          "width": 642
+        },
+        {
+          "caption": "Toshiko is thinking about her daughter.",
+          "height": 440,
+          "image": "http://www.mobygames.com/images/shots/l/959906-emit-vol-3-watashi-ni-sayonara-o-windows-screenshot-toshiko.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/959906-emit-vol-3-watashi-ni-sayonara-o-windows-screenshot-toshiko.jpg",
+          "width": 642
+        },
+        {
+          "caption": "Did something happen to Yuri?",
+          "height": 440,
+          "image": "http://www.mobygames.com/images/shots/l/959907-emit-vol-3-watashi-ni-sayonara-o-windows-screenshot-did-something.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/959907-emit-vol-3-watashi-ni-sayonara-o-windows-screenshot-did-something.jpg",
+          "width": 642
+        }
+      ],
+      "title": "Emit: Vol. 3 - Watashi ni Sayonara o"
+    },
+    {
+      "description": "<i>Emit</i> is a visual novel divided into 3 parts which was made to help Japanese people study English. The game can be played both in English or Japanese with the ability to listen to the audio and/or read the transcript in both languages. There are 2 modes to play the game: Story mode and English Game mode. The story mode is the main game divided into chapters where players get to watch the story unfold and can do a number of exercises after each chapter. During the story mode, players can pause the game at any time in order to look up a term they didn't understand or to change the language.\n\nThe exercises are:<ul>\n<li>Listening comprehension activities where players pick the right options to check their understanding of the story.</li>\n<li>Guessing what's going to happen where players choose the question that's closest to their opinion and listen to the characters in the story commenting about the player's opinion.</li>\n<li>Conversation practice where students can listen to the characters speech and act out the dialogues.</li></ul>\nThe Value pack is a compilation of all 3 volumes of the game bundled together. This compilation marks the first time the game was released on the PlayStation.",
+      "game_id": 121249,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 76,
+          "genre_name": "Compilation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 85,
+          "genre_name": "Foreign Language"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 111,
+          "genre_name": "Visual Novel"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 172,
+          "genre_name": "Menu Structures"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 69,
+          "genre_name": "Meditative / Zen"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 132,
+          "genre_name": "Cinematic camera"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/emit-value-pack",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1995",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "1995",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "1995-09-29",
+          "platform_id": 6,
+          "platform_name": "PlayStation"
+        },
+        {
+          "first_release_date": "1995-12-15",
+          "platform_id": 15,
+          "platform_name": "SNES"
+        },
+        {
+          "first_release_date": "1995-12-15",
+          "platform_id": 23,
+          "platform_name": "SEGA Saturn"
+        },
+        {
+          "first_release_date": "1995-12-15",
+          "platform_id": 95,
+          "platform_name": "PC-98"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [],
+      "title": "Emit: Value Pack"
+    }
+  ]

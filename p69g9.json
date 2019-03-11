@@ -1,0 +1,439 @@
+[
+    {
+      "description": "This is an early home chess game. The standard U. S. chess rules are used in this game. To move a piece, place the X on the board onto the piece to be moved then press the red button. Next, move the X to where you want the piece to go and press the button again. If the move is illegal, the 2600 will give a warning sound and not make the move.\n\nTo castle your king, the king and rook must not have been moved. You move your king two squares in the direction of the rook to castle with. The 2600 will then automatically move your rook around your king, completing the move. You cannot castle out of check and you cannot castle to the king's side if any squares between the king and rook are threatened.\n\nAnother maneuver is called en passant. This move is used to counteract the enemy pawn's initial double move on a adjacent square.  To carry out the en passant, you must advance your\npawn to the fifth rank.  Your opponent then has the option of moving\nhis or her pawn one square (where it would be under attack) or two\nsquares.  If you opponent elects to move two squares, the en passant move allows you to take that pawn by diagonally moving your pawn to the square that was skipped over.\n\n<b>Skill levels</b><br>\nThese determine how long the computer will think on its move. These times are approximate and may vary slightly, depending on what move you did.<br>\nLevel 1=15 seconds<br>\nLevel 2=30 seconds<br>\nLevel 3=45 seconds<br>\nLevel 4=2 minutes, 45 seconds<br>\nLevel 5=3 minutes, 15 seconds<br>\nLevel 6=12 minutes<br>\nLevel 7=10 hours<br>\nLevel 8=10 seconds\n\nLevel 8 is a beginner level.",
+      "game_id": 23401,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 11,
+          "genre_name": "Chess"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 173,
+          "genre_name": "Multiple Units/Characters Control"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 167,
+          "genre_name": "Point and Select"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        }
+      ],
+      "moby_score": 2.2,
+      "moby_url": "http://www.mobygames.com/game/video-chess",
+      "num_votes": 11,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1979",
+          "platform_id": 28,
+          "platform_name": "Atari 2600"
+        },
+        {
+          "first_release_date": "1979",
+          "platform_id": 39,
+          "platform_name": "Atari 8-bit"
+        },
+        {
+          "first_release_date": "2010-09-08",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2010-09-08",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        }
+      ],
+      "sample_cover": {
+        "height": 1070,
+        "image": "http://www.mobygames.com/images/covers/l/211796-video-chess-atari-2600-front-cover.jpg",
+        "platforms": [
+          "Atari 2600"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/211796-video-chess-atari-2600-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Starting screen",
+          "height": 240,
+          "image": "http://www.mobygames.com/images/shots/l/175579-video-chess-atari-2600-screenshot-starting-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/175579-video-chess-atari-2600-screenshot-starting-screen.jpg",
+          "width": 320
+        },
+        {
+          "caption": "A game in progress",
+          "height": 240,
+          "image": "http://www.mobygames.com/images/shots/l/175580-video-chess-atari-2600-screenshot-a-game-in-progress.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/175580-video-chess-atari-2600-screenshot-a-game-in-progress.jpg",
+          "width": 320
+        },
+        {
+          "caption": "Initially loaded screen",
+          "height": 240,
+          "image": "http://www.mobygames.com/images/shots/l/252042-video-chess-atari-8-bit-screenshot-initially-loaded-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/252042-video-chess-atari-8-bit-screenshot-initially-loaded-screen.jpg",
+          "width": 336
+        },
+        {
+          "caption": "Game started",
+          "height": 240,
+          "image": "http://www.mobygames.com/images/shots/l/252043-video-chess-atari-8-bit-screenshot-game-started.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/252043-video-chess-atari-8-bit-screenshot-game-started.jpg",
+          "width": 336
+        }
+      ],
+      "title": "Video Chess"
+    },
+    {
+      "description": "<i>Chessmaster Live</i> is part of the long running Chessmaster game series, developed specifically for Xbox Live Arcade.\n\nYou can take part in games against AI opponents with varying levels of difficulty in a single game or take part in several advanced scenarios for advanced players.\nAs well as standard games, you can play several variations, including \"find the fork\" and \"mate in one\" as well as time limited games. It also contains several new variations of chess that include progressive chess, dark horse and losing chess.\nAs well as being able to choose between a 2-D and 3-D board, you can choose between six different sets of pieces and 3 different boards, all with their own unique sound effects.\n\nChessmaster LIVE also allows you to take on friends over Xbox Live, and is also Live camera enabled.\n",
+      "game_id": 45816,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 11,
+          "genre_name": "Chess"
+        }
+      ],
+      "moby_score": 3.5,
+      "moby_url": "http://www.mobygames.com/game/chessmaster-live",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2008-01-30",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        }
+      ],
+      "sample_cover": {
+        "height": 300,
+        "image": "http://www.mobygames.com/images/covers/l/181733-chessmaster-live-xbox-360-front-cover.jpg",
+        "platforms": [
+          "Xbox 360"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/181733-chessmaster-live-xbox-360-front-cover.jpg",
+        "width": 219
+      },
+      "sample_screenshots": [],
+      "title": "Chessmaster LIVE"
+    },
+    {
+      "description": "<i>Spyglass Board Games</i> contains four electronic versions of classic board games:<ul>\n<li>Chess</li>\n<li>Draughts/Checkers</li>\n<li>Mancala</li>\n<li>Reversi</li>\n</ul>You can also adjust the board and the game pieces to various skins, including gel, marble and metallic silver. Offline play only offers you single player support, but you can go online and challenge friends to one-on-one games, during which you can also use your Xbox LIVE Vision camera to put your image onto the back of the screen, with the playing board hovering just in front of it. The game also supports the communicator headset to talk to the second player.",
+      "game_id": 47822,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 11,
+          "genre_name": "Chess"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 167,
+          "genre_name": "Point and Select"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        }
+      ],
+      "moby_score": 2.7,
+      "moby_url": "http://www.mobygames.com/game/spyglass-board-games",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2007-08-01",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        }
+      ],
+      "sample_cover": {
+        "height": 410,
+        "image": "http://www.mobygames.com/images/covers/l/194935-spyglass-board-games-xbox-360-front-cover.jpg",
+        "platforms": [
+          "Xbox 360"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/194935-spyglass-board-games-xbox-360-front-cover.jpg",
+        "width": 300
+      },
+      "sample_screenshots": [],
+      "title": "Spyglass Board Games"
+    },
+    {
+      "description": "<i>Battle vs Chess</i> is a chess game inspired by Battle Chess. It uses the Fritz AI and offers various variations of the chess theme.\n\nThe playing mode most similar to <i>Battle Chess</i> are the Battlegrounds where the success of a move is determined through a mini game (when the attacker loses, the piece is set back to its previous position). The two variants are slasher (the player controls a chess piece directly which can attack, dodge and block, the goal is to break through the enemy army and kill the target) and duel (the fight between two pieces is shown from the side and the player needs to perform quick-time events in order to hurt the enemy).  The other single-player modes are classic (regular chess with optional randomized piece placement), campaign (two campaigns with 15 missions - chess matches with special rules and starting positions- each), various chess puzzles and a tutorial. \n\nMultiplayer can either played in battleground mode or as regular chess matches with or without variations: reserve (captured piece can be introduced into the match again), suicide (capturing is mandatory and the goal is to lose all pieces first) or double (every player moves two pieces per round). Additionally fog of war (only squares which are occupied or in the reach of a piece can be seen) can be activated.",
+      "game_id": 69569,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 26,
+          "genre_name": "Board Game"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 11,
+          "genre_name": "Chess"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 3.7,
+      "moby_url": "http://www.mobygames.com/game/battle-vs-chess",
+      "num_votes": 3,
+      "official_url": "http://www.battlevschess.com",
+      "platforms": [
+        {
+          "first_release_date": "2011-05-17",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2011-05-17",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2011-05-17",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "2011-05-17",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2013-05-07",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        }
+      ],
+      "sample_cover": {
+        "height": 181,
+        "image": "http://www.mobygames.com/images/covers/l/294093-battle-vs-chess-windows-front-cover.jpg",
+        "platforms": [
+          "Windows",
+          "Macintosh"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/294093-battle-vs-chess-windows-front-cover.jpg",
+        "width": 467
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main menu",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/876145-battle-vs-chess-windows-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/876145-battle-vs-chess-windows-screenshot-main-menu.jpg",
+          "width": 1366
+        },
+        {
+          "caption": "Classic battlefield",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/876146-battle-vs-chess-windows-screenshot-classic-battlefield.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/876146-battle-vs-chess-windows-screenshot-classic-battlefield.jpg",
+          "width": 1366
+        },
+        {
+          "caption": "Game in progress",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/876147-battle-vs-chess-windows-screenshot-game-in-progress.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/876147-battle-vs-chess-windows-screenshot-game-in-progress.jpg",
+          "width": 1366
+        },
+        {
+          "caption": "Like a DDR",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/876148-battle-vs-chess-windows-screenshot-like-a-ddr.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/876148-battle-vs-chess-windows-screenshot-like-a-ddr.jpg",
+          "width": 1366
+        }
+      ],
+      "title": "Battle vs Chess"
+    },
+    {
+      "description": "<i>Team Chess</i> is an adaption of the bughouse chess variant. It involves four players (divided into two teams) who play on two boards. In principle the standard rules apply with one big difference: each time a player captures a piece, it is passed to the teammate. Instead of making a regular move, the player can place on of those pieces on any free square. The game is over as soon as one player accomplishes a checkmate or if one runs out of time (each participant has five minutes which expire when it is his/her turn).\n\nThere are three game modes available: auto match (matchmaking over Xbox Live), arranged teams (creating online matches with selected partners) and offline matches (require four participants). Each online match rewards experience points and eventually leads to level-ups. This unlocks some strategy hints, but is essentially only used for matchmaking.\n\nIn theory the game can also be played alone. However, the CPU players have no AI and only make random moves.",
+      "game_id": 76371,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 11,
+          "genre_name": "Chess"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/team-chess",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2010-05-12",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        }
+      ],
+      "sample_cover": {
+        "height": 300,
+        "image": "http://www.mobygames.com/images/covers/l/320186-team-chess-xbox-360-front-cover.jpg",
+        "platforms": [
+          "Xbox 360"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/320186-team-chess-xbox-360-front-cover.jpg",
+        "width": 219
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main menu (Trial version)",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/822183-team-chess-xbox-360-screenshot-main-menu-trial-version.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/822183-team-chess-xbox-360-screenshot-main-menu-trial-version.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "A tutorial match begins (Trial version)",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/822184-team-chess-xbox-360-screenshot-a-tutorial-match-begins-trial.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/822184-team-chess-xbox-360-screenshot-a-tutorial-match-begins-trial.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "The partner captures a piece and passed it along to the teammate (Trial version)",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/822185-team-chess-xbox-360-screenshot-the-partner-captures-a-piece.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/822185-team-chess-xbox-360-screenshot-the-partner-captures-a-piece.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "The left player places one of the received pieces on the board (Trial version)",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/822186-team-chess-xbox-360-screenshot-the-left-player-places-one.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/822186-team-chess-xbox-360-screenshot-the-left-player-places-one.jpg",
+          "width": 1920
+        }
+      ],
+      "title": "Team Chess"
+    }
+  ]

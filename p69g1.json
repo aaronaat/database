@@ -1,0 +1,4026 @@
+[
+    {
+      "description": "<i>Call of Duty</i> is a first-person shooter set during World War II and the first title in a long-running series. It is also the first game by development studio Infinity Ward and in some ways builds upon Medal of Honor: Allied Assault, a similar title a part of the team had been working on at 2015, Inc. before forming a new company.\n\nPlayers experience the battle in Europe during World War II in different campaigns divided further into missions. Unlike <i>MoH: AA</i> these are not only presented from the view of an American soldier, there is a British and a Soviet campaign as well, each focusing on different parts of the battle. In total there are 24 interconnected missions to play to get to Berlin. In each campaign a different perspective is offered, starting as an American Paratrooper during D-Day, progressing to assume the role as an English Special Forces commando, and finally as a Russian tank commander. Some missions are played in solitary fashion, but in most of them the player is part of a larger group with computer-controlled team mates.\n\nMost of the combat is infantry-based, but some is also set between vehicles or tanks. Multiplayer modes include death match, team death match, behind enemy lines (where the allies are outnumbered) and two objective-based modes: retrieval, and search and destroy.\n\nThe later-released console version <i>Call of Duty Classic</i> is a reworking of the original game with enhanced graphics.",
+      "game_id": 10826,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 124,
+          "genre_name": "War"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 80,
+          "genre_name": "Tank"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 223,
+          "genre_name": "Regional Differences"
+        }
+      ],
+      "moby_score": 4.0,
+      "moby_url": "http://www.mobygames.com/game/call-of-duty",
+      "num_votes": 153,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2003-10-29",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2004-05",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "2009-12-02",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2009-12-02",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1148,
+        "image": "http://www.mobygames.com/images/covers/l/26583-call-of-duty-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/26583-call-of-duty-windows-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Intro Movie",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/53928-call-of-duty-windows-screenshot-intro-movie.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/53928-call-of-duty-windows-screenshot-intro-movie.jpg",
+          "width": 1024
+        },
+        {
+          "caption": "Title Screen and Main Menu",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/53918-call-of-duty-windows-screenshot-title-screen-and-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/53918-call-of-duty-windows-screenshot-title-screen-and-main-menu.jpg",
+          "width": 1024
+        },
+        {
+          "caption": "There are four difficulty settings in Call of Duty, but the game is not that hard even in veteran.",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/490188-call-of-duty-windows-screenshot-there-are-four-difficulty.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/490188-call-of-duty-windows-screenshot-there-are-four-difficulty.jpg",
+          "width": 1024
+        },
+        {
+          "caption": "Diary Entries and mission documents set the tone for each area",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/53927-call-of-duty-windows-screenshot-diary-entries-and-mission-documents.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/53927-call-of-duty-windows-screenshot-diary-entries-and-mission-documents.jpg",
+          "width": 1024
+        }
+      ],
+      "title": "Call of Duty"
+    },
+    {
+      "description": "<i>Call of Duty 2</i> is an installment in the series of war-themed first-person perspective shooters. The game is trying to recreate the big military operations of World War II (Defence of Stalingrad, invasion in Normandy and German-British war in North Africa).\n\nDevelopers from Infinity Ward divided Call of Duty 2 into three campaigns (Russian, British and American) and put into the game a lot of new features (e.g. no health indicator, option to complete mission objectives in different order). Expanded multiplayer modes are also available.",
+      "game_id": 20150,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 124,
+          "genre_name": "War"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 80,
+          "genre_name": "Tank"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 223,
+          "genre_name": "Regional Differences"
+        }
+      ],
+      "moby_score": 3.8,
+      "moby_url": "http://www.mobygames.com/game/call-of-duty-2",
+      "num_votes": 126,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2005-10-25",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2005-11-22",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2006-05-26",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        }
+      ],
+      "sample_cover": {
+        "height": 1000,
+        "image": "http://www.mobygames.com/images/covers/l/57842-call-of-duty-2-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/57842-call-of-duty-2-windows-front-cover.jpg",
+        "width": 702
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Tutorial.",
+          "height": 1024,
+          "image": "http://www.mobygames.com/images/shots/l/137974-call-of-duty-2-windows-screenshot-tutorial.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/137974-call-of-duty-2-windows-screenshot-tutorial.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Interrogation of German soldier.",
+          "height": 1024,
+          "image": "http://www.mobygames.com/images/shots/l/137975-call-of-duty-2-windows-screenshot-interrogation-of-german.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/137975-call-of-duty-2-windows-screenshot-interrogation-of-german.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Ruined city of Stalingrad.",
+          "height": 1024,
+          "image": "http://www.mobygames.com/images/shots/l/137976-call-of-duty-2-windows-screenshot-ruined-city-of-stalingrad.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/137976-call-of-duty-2-windows-screenshot-ruined-city-of-stalingrad.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "There is no health indicator. You're bleeding when you're wounded.",
+          "height": 1024,
+          "image": "http://www.mobygames.com/images/shots/l/137977-call-of-duty-2-windows-screenshot-there-is-no-health-indicator.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/137977-call-of-duty-2-windows-screenshot-there-is-no-health-indicator.jpg",
+          "width": 1280
+        }
+      ],
+      "title": "Call of Duty 2"
+    },
+    {
+      "description": "<i>Blazing Angels</i> is an air combat arcade game putting the player at the command of a fighter squadron in the Second World War. It's a pick-up-and-play type of game, with easy-to-grasp controls and an almost non existent learning curve.\n\nThe action covers the most important moments of the WWII, from the Battle for England to the bombing raids over Berlin, but also warps a bit the history to make for some entertaining if fictitious moments (i.e. you get to fly over Normandy on D-Day, save the day at Pearl Harbor, etc). The gameplay is quite varied, with about 18 flyable planes during the SP campaign (fighters, recon planes, dive, torpedo and level bombers) and diverse tasks and locations that prevent the game from being overly repetitive, despite a general dogfighting approach. The basic squadron command system and the specific abilities of the wingmen lend a bit of a tactical flavor to the game.\n\nThere are a dozen multiplayer game modes available: solo (Dogfight, Seek and Destroy & Aces High), co-op (Dogfight, Onslaught, Bombing Run, Kamikaze and Historical Missions) and squad-based (Dogfight, Capture the Base, Bombing Run and Kamikaze).",
+      "game_id": 22119,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 19,
+          "genre_name": "Flight / Aviation"
+        }
+      ],
+      "moby_score": 3.5,
+      "moby_url": "http://www.mobygames.com/game/blazing-angels-squadrons-of-wwii",
+      "num_votes": 26,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2006",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2006-03-23",
+          "platform_id": 13,
+          "platform_name": "Xbox"
+        },
+        {
+          "first_release_date": "2006-03-23",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2006-12-12",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2007-03-20",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        }
+      ],
+      "sample_cover": {
+        "height": 1124,
+        "image": "http://www.mobygames.com/images/covers/l/62607-blazing-angels-squadrons-of-wwii-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/62607-blazing-angels-squadrons-of-wwii-windows-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Training mission: maintenance run",
+          "height": 1024,
+          "image": "http://www.mobygames.com/images/shots/l/161516-blazing-angels-squadrons-of-wwii-windows-screenshot-training.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/161516-blazing-angels-squadrons-of-wwii-windows-screenshot-training.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Destroying the balloons.",
+          "height": 1024,
+          "image": "http://www.mobygames.com/images/shots/l/161517-blazing-angels-squadrons-of-wwii-windows-screenshot-destroying.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/161517-blazing-angels-squadrons-of-wwii-windows-screenshot-destroying.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Take out the German bombers before they reach the bridge.",
+          "height": 1024,
+          "image": "http://www.mobygames.com/images/shots/l/161518-blazing-angels-squadrons-of-wwii-windows-screenshot-take-out.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/161518-blazing-angels-squadrons-of-wwii-windows-screenshot-take-out.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "All bombers are destroyed.",
+          "height": 1024,
+          "image": "http://www.mobygames.com/images/shots/l/161519-blazing-angels-squadrons-of-wwii-windows-screenshot-all-bombers.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/161519-blazing-angels-squadrons-of-wwii-windows-screenshot-all-bombers.jpg",
+          "width": 1280
+        }
+      ],
+      "title": "Blazing Angels: Squadrons of WWII"
+    },
+    {
+      "description": "The third main <i>Call of Duty</i> game centers around Operation Cobra in Normandy, France, the World War II operation planned by United States Army General Omar Bradley to break out from the Normandy area after the previous month's D-Day landings. You play as 4 allied sides with American, Canadian, British and Polish soldiers in 14 chronological singleplayer missions covering the 88 days leading up to the liberation of Paris. Surprisingly, you cannot play as the French 2nd Armored Division that actually liberated Paris.\n\nThe battles are usually dramatic with many fights and scripted events at the same time, consisting of infantry and vehicles, with semi-destructible environments. In between, there are cinematics that explain the events. A few gameplay mechanics have been kept intact or make a return: slight auto aim, the damage system that allows you to recover if you hide for a moment, and smoke grenades. New features include the ability to toss back unexploded grenades and actions requiring a successful series of button combinations. This can occur in hand-to-hand combat where you can yank the weapon out of enemy soldiers' hands. Enemies work in groups, try different tactics and search for cover.\n\nThe main multiplayer modes are standard deathmatch (battle), team deathmatch (team battle), Capture the Flag (either with two flags or two sides trying to control a single, neutral flag) and Headquarters (two sides either defend or attack a structure, and players can now respawn after dying). The new mode, War, is similar to the gameplay of the Battlefield series. Two teams start with two control points each, and one neutral flag in the middle. The objective is to control all five flags.\n\nThere are multiple-occupancy vehicles (Sherman Tank, Panzer IV, Jeep, Horch, BMW, Harley), and several multiplayer classes: Rifleman, Heavy Assault, Light Assault, Medic, Scout, Support and Anti-Armor. Each class has unique abilities. There are also two rankings: a normal rank system during a single game where your abilities improve if you do well, and an overall TrueSkill ranking. Also, unlike the previous games, your team stays grouped together after a match and is not booted back to the lobby right away.",
+      "game_id": 24923,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 124,
+          "genre_name": "War"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 80,
+          "genre_name": "Tank"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 223,
+          "genre_name": "Regional Differences"
+        }
+      ],
+      "moby_score": 3.7,
+      "moby_url": "http://www.mobygames.com/game/call-of-duty-3",
+      "num_votes": 53,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2006-11-07",
+          "platform_id": 7,
+          "platform_name": "PlayStation 2"
+        },
+        {
+          "first_release_date": "2006-11-07",
+          "platform_id": 13,
+          "platform_name": "Xbox"
+        },
+        {
+          "first_release_date": "2006-11-07",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2006-11-14",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2006-11-19",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        }
+      ],
+      "sample_cover": {
+        "height": 1146,
+        "image": "http://www.mobygames.com/images/covers/l/73704-call-of-duty-3-xbox-360-front-cover.jpg",
+        "platforms": [
+          "Xbox 360"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/73704-call-of-duty-3-xbox-360-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Call Of Duty 3 title screen",
+          "height": 576,
+          "image": "http://www.mobygames.com/images/shots/l/209118-call-of-duty-3-xbox-360-screenshot-call-of-duty-3-title-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/209118-call-of-duty-3-xbox-360-screenshot-call-of-duty-3-title-screen.jpg",
+          "width": 768
+        },
+        {
+          "caption": "You can start a single player game or jump into multiplayer from this screen",
+          "height": 576,
+          "image": "http://www.mobygames.com/images/shots/l/209119-call-of-duty-3-xbox-360-screenshot-you-can-start-a-single.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/209119-call-of-duty-3-xbox-360-screenshot-you-can-start-a-single.jpg",
+          "width": 768
+        },
+        {
+          "caption": "The story is told through numerous cutscenes like this one",
+          "height": 576,
+          "image": "http://www.mobygames.com/images/shots/l/209120-call-of-duty-3-xbox-360-screenshot-the-story-is-told-through.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/209120-call-of-duty-3-xbox-360-screenshot-the-story-is-told-through.jpg",
+          "width": 768
+        },
+        {
+          "caption": "Cooking grenades makes them explode sooner",
+          "height": 576,
+          "image": "http://www.mobygames.com/images/shots/l/209121-call-of-duty-3-xbox-360-screenshot-cooking-grenades-makes.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/209121-call-of-duty-3-xbox-360-screenshot-cooking-grenades-makes.jpg",
+          "width": 768
+        }
+      ],
+      "title": "Call of Duty 3"
+    },
+    {
+      "description": "It's the year 1941 and you are Lt. Henry Walker a young Navy Officer stationed at Pearl Harbor. You are late for duty and on route to your ship as the Japanese attack the harbor and sink it. Now you first help to defend the harbor and then take the fight all the way to the last Battle of the pacific around the Midway Islands.\n\nYou are limited to control the ships, subs and planes the game gives you in the single-player campaign but in multiplayer-matches you are free to jump into anything that moves and isn't currently occupied by another player. So it's yours to decide at anytime if you want to fly a plane, steer a cruiser or take the on the enemy under water with a submarine anytime you like. Since there are several kinds of ships from Torpedo Boats over Destroyers to Aircraft Carriers and planes like the F4F Wildcat or the SBD Dauntless you have different options and weapons at your disposal. On a Aircraft Carrier for example, which has only AA guns, you can build up squads of airplanes, assign targets and launch them. You can also go to the tactical map if you currently controlling a ship and assign formations, give out orders and so on. Or just jump into a vehicle and do everything yourself instead of letting the AI or the other players take care of it.\n\nThe single-player also features three different challenges, one for each type of vehicle. Each mission inside a challenge puts you in difficult situations you've to master. The first mission in the ship challenge for example gives you control over a Japanese Battleship which has been ambushed and needs to reach safety as US Destroyers advance at it's position.",
+      "game_id": 26736,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 41,
+          "genre_name": "Naval / Watercraft"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 19,
+          "genre_name": "Flight / Aviation"
+        }
+      ],
+      "moby_score": 3.6,
+      "moby_url": "http://www.mobygames.com/game/battlestations-midway",
+      "num_votes": 26,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2007",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2007-02-09",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2008-08-14",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        }
+      ],
+      "sample_cover": {
+        "height": 1138,
+        "image": "http://www.mobygames.com/images/covers/l/81509-battlestations-midway-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/81509-battlestations-midway-windows-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Enemy B-17 is going down.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/623776-battlestations-midway-windows-screenshot-enemy-b-17-is-going.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/623776-battlestations-midway-windows-screenshot-enemy-b-17-is-going.jpg",
+          "width": 960
+        },
+        {
+          "caption": "Carrier's escort.",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/623777-battlestations-midway-windows-screenshot-carrier-s-escort.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/623777-battlestations-midway-windows-screenshot-carrier-s-escort.jpg",
+          "width": 1024
+        },
+        {
+          "caption": "Initiating attack on enemy bombers",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/623778-battlestations-midway-windows-screenshot-initiating-attack.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/623778-battlestations-midway-windows-screenshot-initiating-attack.jpg",
+          "width": 960
+        },
+        {
+          "caption": "AA defence of the island",
+          "height": 768,
+          "image": "http://www.mobygames.com/images/shots/l/623779-battlestations-midway-windows-screenshot-aa-defence-of-the.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/623779-battlestations-midway-windows-screenshot-aa-defence-of-the.jpg",
+          "width": 1024
+        }
+      ],
+      "title": "Battlestations: Midway"
+    },
+    {
+      "description": "Set in ancient China, <i>DW5: Empires</i> brings the Empire mode to the latest DW game, while the basic hack & slash, button mashing gameplay remains the same.\n\nThe Empire mode adds a strategy overlay to the basic game, with a map of 25 areas to conquer. Each turn consists of two parts: empire control, and war making. Your territories bring you tax revenue each turn, which you can spend on various different actions. You can create items and tactics for your generals to use in battle. Recruit generals and troops, fortify your territories, among many other command options. You can wage war on other territories, or may be called upon to defend your own. For each battle you select which generals and lieutenants will fight. There are 4 scenarios to unlock, though they offer little to differentiate each other.\n\nThere is two player split-screen co-op, in either of Empire of Free play modes. Next to the soundtrack of the base game, this edition also adds soundtracks from previous titles, including Dynasty Warriors 2, Dynasty Warriors 3 and Dynasty Warriors 4.",
+      "game_id": 29077,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 48,
+          "genre_name": "Fighting"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 40,
+          "genre_name": "Managerial / Business Simulation"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 15,
+          "genre_name": "Real-Time"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 198,
+          "genre_name": "China (Ancient/Imperial)"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 3.4,
+      "moby_url": "http://www.mobygames.com/game/dynasty-warriors-5-empires",
+      "num_votes": 6,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2006-03-23",
+          "platform_id": 7,
+          "platform_name": "PlayStation 2"
+        },
+        {
+          "first_release_date": "2006-03-23",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        }
+      ],
+      "sample_cover": {
+        "height": 1134,
+        "image": "http://www.mobygames.com/images/covers/l/91034-dynasty-warriors-5-empires-xbox-360-front-cover.jpg",
+        "platforms": [
+          "Xbox 360"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/91034-dynasty-warriors-5-empires-xbox-360-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Dynasty Warriors 5: Empires"
+    },
+    {
+      "description": "Boyd Travers is part of the 82d Airborne Division. As a small part of a greater operation he needs to complete several missions in Italy, France, the Netherlands and Germany. He fights alongside AI colleagues in order to free Europe.\n\nAll missions begin with a jump out of an airplane after a short briefing and the chance for you to change your initial weapon loadout. The parachute-jump allows you a little freedom in the selection of your starting point. There's also always a certain area, where you get a bonus if you successfully land there. During these missions anti-aircraft weapons need to be blown up, fellow soldiers have to be rescued and enemy tanks need to be taking out using bazookas. In order to give you more choices in your loadout, you are not only given access to enemy weapons but you can the upgrades you played free. You get an upgrade when you are performing extraordinary feats of valour and marksmanship. This means for example that you earn an upgrade when you kill three enemies in a short order. These upgrades include a bigger magazine for the German K98 or a handle for the Thompson machine gun to make it more accurate.\n\nAlso notable is the health-system. Boyd has four beads of health. If an enemy hits you but doesn't empty a whole bead, your health will regenerate until the bead is full again. If you loose a bead, you need to pick up a health pack in order to regain it.\n\nAlongside the single-player campaign there are also three multiplayer-modes called Team Deathmatch, Team Deathmatch Airborne and Objective for up to 12 players available which all feature the teams Axis against Allied. While Team Deathmatch is pretty standard, Team Deathmatch Airborne features a new twist. In this mode the Allied jump from an airdrop onto the map while the Axis begin on the ground. In objective the goal is to capture all three flags on the map.",
+      "game_id": 30102,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 124,
+          "genre_name": "War"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 202,
+          "genre_name": "Europe"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 223,
+          "genre_name": "Regional Differences"
+        }
+      ],
+      "moby_score": 3.2,
+      "moby_url": "http://www.mobygames.com/game/medal-of-honor-airborne",
+      "num_votes": 47,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2007-09-04",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2007-09-04",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2007-11-19",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1139,
+        "image": "http://www.mobygames.com/images/covers/l/93313-medal-of-honor-airborne-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/93313-medal-of-honor-airborne-windows-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Splash screen",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/251791-medal-of-honor-airborne-windows-screenshot-splash-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/251791-medal-of-honor-airborne-windows-screenshot-splash-screen.jpg",
+          "width": 1600
+        },
+        {
+          "caption": "Main menu",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/251793-medal-of-honor-airborne-windows-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/251793-medal-of-honor-airborne-windows-screenshot-main-menu.jpg",
+          "width": 1600
+        },
+        {
+          "caption": "Prepare to jump.",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/251794-medal-of-honor-airborne-windows-screenshot-prepare-to-jump.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/251794-medal-of-honor-airborne-windows-screenshot-prepare-to-jump.jpg",
+          "width": 1600
+        },
+        {
+          "caption": "Land near the green smoke grenade to get full points.",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/251795-medal-of-honor-airborne-windows-screenshot-land-near-the-green.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/251795-medal-of-honor-airborne-windows-screenshot-land-near-the-green.jpg",
+          "width": 1600
+        }
+      ],
+      "title": "Medal of Honor: Airborne"
+    },
+    {
+      "description": "In Blazing Angels: Squadrons of WWII the missions were inspired by real events of WWII and featured real aircraft.\n\nThe successor now concentrates on the story of an elite pilot who is part of a secret squad which has access to weapon- and aircraft-prototypes that were never really used during the war and were at best in a prototyping stage. With these machines the squad travels around the world to exotic locations in order to prevent the enemy from building the ultimate weapon.\n\nThe gameplay is still the same. You engage in dog fights, bomb targets or fly stunts while you can give rudimentary orders to your squad mates ranging from attack my target to special commands that repair your aircraft.\n\nThe multiplayer features the three categories \"Deathmatch\", \"Co-op\" and \"Squad-based\". In addition to the modes from the original game, these have been supplemented with the two new game-modes \"Capture the Flag\" and \"Epic Battle\". In \"Epic Battle\" two teams over control of a map. There are several bases and structures that can be captured or destroyed in order to weaken the enemy and gain the upper hand.",
+      "game_id": 30412,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 15,
+          "genre_name": "Real-Time"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 19,
+          "genre_name": "Flight / Aviation"
+        }
+      ],
+      "moby_score": 3.4,
+      "moby_url": "http://www.mobygames.com/game/blazing-angels-2-secret-missions-of-wwii",
+      "num_votes": 8,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2007",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2007-09-06",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2007-11-06",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1138,
+        "image": "http://www.mobygames.com/images/covers/l/94438-blazing-angels-2-secret-missions-of-wwii-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/94438-blazing-angels-2-secret-missions-of-wwii-windows-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main menu",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/255013-blazing-angels-2-secret-missions-of-wwii-windows-screenshot.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/255013-blazing-angels-2-secret-missions-of-wwii-windows-screenshot.jpg",
+          "width": 1600
+        },
+        {
+          "caption": "Loading screen",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/255014-blazing-angels-2-secret-missions-of-wwii-windows-screenshot.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/255014-blazing-angels-2-secret-missions-of-wwii-windows-screenshot.jpg",
+          "width": 1600
+        },
+        {
+          "caption": "Mission introduction",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/255015-blazing-angels-2-secret-missions-of-wwii-windows-screenshot.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/255015-blazing-angels-2-secret-missions-of-wwii-windows-screenshot.jpg",
+          "width": 1600
+        },
+        {
+          "caption": "In some missions you start with both wheels on the earth.",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/255016-blazing-angels-2-secret-missions-of-wwii-windows-screenshot.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/255016-blazing-angels-2-secret-missions-of-wwii-windows-screenshot.jpg",
+          "width": 1600
+        }
+      ],
+      "title": "Blazing Angels 2: Secret Missions of WWII"
+    },
+    {
+      "description": "<i>Civil War: A Nation Divided</i> lets players relive the horror and chaos of the Civil War fighting for both the Union and the Confederate Armies in 12 of the most bloodiest battles in America's history.\n\nAs the Union, fight in Fredericksburg and repel the confederate forces or go to Gettysburg and take on hordes of confederates, then on to Chattanooga to begin the invasion of the south leading to battles at Fort Fisher, in Selma, Alabama and take the last line of defensive at Petersburg to march towards the enemie's capital.\n\nAs the Confederates, hold your ground against the Union army at Bull Run, Shiloh and Chickamauga, survive the chaos of Antietam and Chancellorsville and hold off the relentless Ulysses S. Grant at Cold Harbor and try to save the south from falling.  With historical accurate weapons with the help of the History Channel, go into battle as a different soldier and relive the battles as they faced and the challenges to survive the chaos that is The Civil War.",
+      "game_id": 31229,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 2.4,
+      "moby_url": "http://www.mobygames.com/game/history-channel-civil-war-a-nation-divided",
+      "num_votes": 4,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2006-11-07",
+          "platform_id": 7,
+          "platform_name": "PlayStation 2"
+        },
+        {
+          "first_release_date": "2006-11-10",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2006-11-11",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        }
+      ],
+      "sample_cover": {
+        "height": 1112,
+        "image": "http://www.mobygames.com/images/covers/l/97855-the-history-channel-civil-war-a-nation-divided-playstation-2-front-cover.jpg",
+        "platforms": [
+          "PlayStation 2"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/97855-the-history-channel-civil-war-a-nation-divided-playstation-2-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 448,
+          "image": "http://www.mobygames.com/images/shots/l/546387-the-history-channel-civil-war-a-nation-divided-playstation.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/546387-the-history-channel-civil-war-a-nation-divided-playstation.jpg",
+          "width": 512
+        }
+      ],
+      "title": "The History Channel: Civil War - A Nation Divided"
+    },
+    {
+      "description": "<i>Bladestorm: The Hundred Years' War</i> has players take control of a mercenary for hire during the legendary English / French conflict. Lead soldiers, warriors and fellow swords for hire into battle on horseback or on foot, fighting alongside Joan of Arc or the King of England as you strive to become the mercenary champion and gain fame and fortune during these dark times.\n\nThe gameplay takes place in a 3rd-person perspective and takes the form of an action / RPG of sorts. The 'central hub' of the game is a local bar where the player attempts to find jobs that will increase his or her wealth and reputation, as well as dealers that will allow the player to change weaponry or buy more troops to fight alongside them. This hub area also serves as a meeting place for characters from the game world and the player may gleam information from gossip heard that will help them later in-game. Talking to the barman within will present a roster of missions available, the length of that particular campaign and the reward for success - these can take place on either the English or French side (you cannot ally with just one faction). Selecting one of these missions will take you to the battlefield.\n\nThe main game itself is broken down into what first appears to be a strategy sort of game in which the player is shown which territories they have to take to successfully complete the mission - however any strategic element ends here. They can then select which 'home camp' to start from. Once this is chosen they are presented with a battlefield (similar in respects to dynasty warriors). The main objective is to make their way to the castle / village to be taken and successfully seize it from the occupying troops. battling with any enemy troops they encounter along the way. \n\nThe player can command a number of differing types of combatants, from archers to footsoldiers to horseback, and later on in-game camel and elephant riders. Battles are a simple hack and slash affair, with the player attempting to clear the area of enemy troops. Once this has been achieved a base commander will appear at the base under siege. Beat this commander and the player will have seized the territory and completed the mission. Extra fame can be achieved from beating in combat the VIP enemies found throughout the mission. This in turn will also yield treasure for the player, some of which is collectible throughout the game.\n\nAs such, <i>Bladestorm</i> has no end - the player will continue to fight battles as they progress (This is after all the Hundred Years' War!), but there is a story arc within the game to be completed, and the amount of missions - although very similar can give players a lot game content to keep them happy.",
+      "game_id": 32444,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 3.0,
+      "moby_url": "http://www.mobygames.com/game/bladestorm-the-hundred-years-war",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2007-11-02",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2007-11-02",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 917,
+        "image": "http://www.mobygames.com/images/covers/l/106224-bladestorm-the-hundred-years-war-playstation-3-front-cover.jpg",
+        "platforms": [
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/106224-bladestorm-the-hundred-years-war-playstation-3-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Bladestorm: The Hundred Years' War"
+    },
+    {
+      "description": "The sixth main game in the long running Dynasty Warriors series (or fifth if one goes by the original Japanese naming scheme) once again allows the player to take a legendary hero from the quasi-historical novel \"Romance of the Three Kingdoms\" into battle against thousands of enemy peons. The player needs to battle his way through numerous battlefields, capturing forts and succeeding in objectives in order to bring about victory for his faction. It is an action game with traces of strategy when the player is faced with how to achieve certain sub-missions during a battle.\n\nIt is the first of the series to be designed specifically for Xbox 360/Playstation 3 generation of consoles and graphically makes better use of their hardware, allowing for sharper detail and more enemies on screen. New elements include a redesigned combo system, called \"Renbu\" where longer, though less varied, attack strings can be made and the ability to climb and swim.\n\nContrary to tradition of past games in the series, <i>Dynasty Warriors 6</i> offers <i>fewer</i> characters than before. Forty one characters are eventually unlocked, but only seventeen have story modes, each designed specifically for that character. The others can be used in the game's free mode and can be built up and obtain weapons and skills.\n\nThe Playstation Portable and Playstation 2 release adds 6 new character story modes and 5 new stages not found in the Xbox 360/Playstation 3.  The PSP version also adds Meng Huo from Dynasty Warrior 6: Empires as a playable character.",
+      "game_id": 33663,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 39,
+          "genre_name": "Martial Arts"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 198,
+          "genre_name": "China (Ancient/Imperial)"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 3.8,
+      "moby_url": "http://www.mobygames.com/game/dynasty-warriors-6",
+      "num_votes": 13,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2007-11-11",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2007-11-11",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2008-11-19",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        }
+      ],
+      "sample_cover": {
+        "height": 1125,
+        "image": "http://www.mobygames.com/images/covers/l/109749-dynasty-warriors-6-xbox-360-front-cover.jpg",
+        "platforms": [
+          "Xbox 360"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/109749-dynasty-warriors-6-xbox-360-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 576,
+          "image": "http://www.mobygames.com/images/shots/l/457926-dynasty-warriors-6-windows-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/457926-dynasty-warriors-6-windows-screenshot-title-screen.jpg",
+          "width": 1024
+        },
+        {
+          "caption": "Main Menu with Free Mode selected",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/457923-dynasty-warriors-6-windows-screenshot-main-menu-with-free.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/457923-dynasty-warriors-6-windows-screenshot-main-menu-with-free.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "Warrior selection",
+          "height": 576,
+          "image": "http://www.mobygames.com/images/shots/l/457927-dynasty-warriors-6-windows-screenshot-warrior-selection.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/457927-dynasty-warriors-6-windows-screenshot-warrior-selection.jpg",
+          "width": 1024
+        },
+        {
+          "caption": "Clash",
+          "height": 576,
+          "image": "http://www.mobygames.com/images/shots/l/457928-dynasty-warriors-6-windows-screenshot-clash.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/457928-dynasty-warriors-6-windows-screenshot-clash.jpg",
+          "width": 1024
+        }
+      ],
+      "title": "Dynasty Warriors 6"
+    },
+    {
+      "description": "You play as an American G.I. fighting in the Pacific during World War II in this game. Battles are based on real ones, like recapturing a strategic point, search and destroy, defending your position against enemies or scaling Mount Suribachi for planting the American flag. You can also take part in famous battles like Iwo Jima or Guadalcanal.\n\nThis FPS can be played online  as a American or Japanese soldier with usual modes like deathmatch or capture the flag. \n\nBeing a History Channel product, the game is based on real weaponry or places. Each level begins with a documentary composed of authentic footage.",
+      "game_id": 34159,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 1.9,
+      "moby_url": "http://www.mobygames.com/game/history-channel-battle-for-the-pacific",
+      "num_votes": 6,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2007-12-04",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2007-12-04",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2008-02-19",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/112136-the-history-channel-battle-for-the-pacific-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/112136-the-history-channel-battle-for-the-pacific-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [],
+      "title": "The History Channel: Battle for the Pacific"
+    },
+    {
+      "description": "In <i>Kengo: Legend of the 9</i>, the player can play as one of nine real famous samurai's from Japan's history. Available are Musashi Miyamoto, Jubei Yagyu, Sanako Chiba, Ittosai Ito, Izo Okada, Soji Okita, Kojiro Sasaki, Ryoma Sakamoto and Yasubi Horibe, each with their own strengths, weaknesses and combat techniques.\n\nThere are four different modes of play. In the Main Mode, the story is different for each character, being able to interconnect with the others as time goes on and loosely based on real life events from Japan's history including the raid of the Kira mansion and the battle of Ganryujima. There is a Mission Mode where the player has to complete ten missions in a set time limit, a Combat Mode in which two players can play against each other simultaneously. In the Online Mode players can go online and challenge others. Winning these matches the player earns different items they can use to customize their samurai.\n\nThe player collects spirit spheres to upgrade their health, stamina, attack power and defense attributes and can earn experience points, letting them unlock more powerful and complex attacks.  The player can also use the environment against their opponents using grappling moves and getting an \"Instant Kill\" and has three modes of difficult (easy, medium and hard).",
+      "game_id": 34580,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 99,
+          "genre_name": "Stealth"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 48,
+          "genre_name": "Fighting"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 39,
+          "genre_name": "Martial Arts"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 9,
+          "genre_name": "Arcade"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 1.9,
+      "moby_url": "http://www.mobygames.com/game/kengo-legend-of-the-9",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2007-09-11",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        }
+      ],
+      "sample_cover": {
+        "height": 1122,
+        "image": "http://www.mobygames.com/images/covers/l/164043-kengo-legend-of-the-9-xbox-360-front-cover.jpg",
+        "platforms": [
+          "Xbox 360"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/164043-kengo-legend-of-the-9-xbox-360-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Kengo: Legend of the 9"
+    },
+    {
+      "description": "<i>Brothers in Arms: Hell's Highway</i> is the third installment of the Brother in Arms series and takes place four months after \"Operation Overlord\".\n\nThe player once again takes over the control of Staff Sergeant Matthew Baker and his squads as they take part in \"Operation Market Garden\". With the goal to secure multiple bridges, three airborne divisions were dropped into the Netherlands behind enemy lines on the 17th September 1944 - one of which was the 101st Airborne Division, Matt Baker's unit. The game tells the story of him and his squad assaulting and securing Eindhoven and the subsequent defense of the surrounding area against the German counter-attacks.\n\nAs in the previous games the player, in 1st person perspective or via tactical map, orders his squad around the map from cover to cover, ordering them to suppress the enemy and planning a flank attack to take the enemy position out, always advancing to the next objective. But to spice things up a bit, there isn't just an assault team waiting to be controlled. In some missions the player gets access to more specialised machine gun or bazooka teams. Especially the latter is very useful now since cover can be destroyed with enough fire power. There are also missions in which the player has control over a tank or has to fulfill the objective completely on his own.\n\nLike in Rainbow Six: Vegas the player can also now do a move called \"Dig in\" at each cover. This will switch the camera to a 3rd person view and make the character invulnerable to enemy attack (as long as the cover isn't destroyed). From this position he can blind fire or look over the cover to get the kill with the improved combat system which doesn't rely that much on flanking the enemy anymore since every part of an enemy can now be hit if it's visible. And if the player makes an especially impressive shot (long distance head shot for example), the game switches to a slow-motion action cam, showing the hit in every gory detail. Another change is the new health system. As opposed to a fixed amount of health, the characters now regenerate health automatically if not under fire.\n\nThe game also features a team-based multiplayer mode for up to 20 players in which the teams either have to capture flag points or defend these points or eliminate the whole opposition to win the round.",
+      "game_id": 36914,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 223,
+          "genre_name": "Regional Differences"
+        }
+      ],
+      "moby_score": 3.7,
+      "moby_url": "http://www.mobygames.com/game/brothers-in-arms-hells-highway",
+      "num_votes": 21,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2008-09-23",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2008-09-23",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2008-10-07",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        }
+      ],
+      "sample_cover": {
+        "height": 920,
+        "image": "http://www.mobygames.com/images/covers/l/137203-brothers-in-arms-hell-s-highway-playstation-3-front-cover.jpg",
+        "platforms": [
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/137203-brothers-in-arms-hell-s-highway-playstation-3-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main menu",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/598332-brothers-in-arms-hell-s-highway-playstation-3-screenshot-main.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/598332-brothers-in-arms-hell-s-highway-playstation-3-screenshot-main.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Before the war started.",
+          "height": 405,
+          "image": "http://www.mobygames.com/images/shots/l/408161-brothers-in-arms-hell-s-highway-playstation-3-screenshot-before.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/408161-brothers-in-arms-hell-s-highway-playstation-3-screenshot-before.jpg",
+          "width": 720
+        },
+        {
+          "caption": "Remembering the youth.",
+          "height": 405,
+          "image": "http://www.mobygames.com/images/shots/l/408162-brothers-in-arms-hell-s-highway-playstation-3-screenshot-remembering.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/408162-brothers-in-arms-hell-s-highway-playstation-3-screenshot-remembering.jpg",
+          "width": 720
+        },
+        {
+          "caption": "Prepping for a jump.",
+          "height": 405,
+          "image": "http://www.mobygames.com/images/shots/l/408163-brothers-in-arms-hell-s-highway-playstation-3-screenshot-prepping.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/408163-brothers-in-arms-hell-s-highway-playstation-3-screenshot-prepping.jpg",
+          "width": 720
+        }
+      ],
+      "title": "Brothers in Arms: Hell's Highway"
+    },
+    {
+      "description": "<i>Call of Duty: World at War</i> is, like its predecessors, a straightforward military first-person shooter with authentic weaponry like the Thompson Sub Machine Gun or the Arisaka Rifle Type 99, and fairly linear but heavily scripted levels that put the player right in the middle of the action with several NPC-controlled team mates always on his side to aid him and add to the atmosphere. The objectives in these missions range from clearing houses from enemies to planting bombs or defend a position. And instead of using medipacks or something similar to heal himself up, the player just needs to get out of fire for a few seconds to regenerate to full health. New this time around is the co-op campaign for up to four players, allowing everyone to play through the whole single player together with friends.\n\nThe first campaign begins on August 17, 1942 somewhere on the Makin-Atoll in the Asian-Pacific region where Pvt. Miller sits in a hut and has to watch how his squadmates are brutally murdered by Japanese soldiers. But as one soldier approaches him and prepares for the killing blow, an American bayonet comes out of his stomach. Now the roles are turned and in the following operations Pvt. Miller, under the supervision of Sgt. Roebuck, stills his lust for vengeance by helping the American troops drive back the yellow menace in recreations of real missions like \"Operation Watchtower\".\n\nThe second campaign puts the player in the shoes of Pvt. Petrenko and begins on September 17, 1942 in Stalingrad. Lying in a pool of blood, watching how the Germans put one more bullet in his dying comrades, the private survives and under the helpful guidance of Sgt. Reznov begins his journey through the destroyed city to the main goal: killing General Heinrich Amsel.\n\nThe game also features a multiplayer mode similar to the one from Call of Duty 4: Modern Warfare with the playtypes Deathmatch, Team Deathmatch, Capture the Flag, and Search & Destroy in which one team needs to plant a bomb at one of two objectives and the other needs to defend both. The ranking system also makes a return. For every kill or completed objective the player gains experience points and levels up to unlock additional weaponry, attachments or abilities granting a higher accuracy and such. These then can be used to create up to five custom classes in addition to the five pre-defined ones (Rifleman, Light Gunner, Heavy Gunner, Close Assault and Sniper).",
+      "game_id": 37817,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 124,
+          "genre_name": "War"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 202,
+          "genre_name": "Europe"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 197,
+          "genre_name": "Asia"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 80,
+          "genre_name": "Tank"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 223,
+          "genre_name": "Regional Differences"
+        }
+      ],
+      "moby_score": 3.5,
+      "moby_url": "http://www.mobygames.com/game/call-of-duty-world-at-war",
+      "num_votes": 107,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2008-11-06",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2008-11-11",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2008-11-11",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2008-11-11",
+          "platform_id": 82,
+          "platform_name": "Wii"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/130992-call-of-duty-world-at-war-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/130992-call-of-duty-world-at-war-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main menu",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/340698-call-of-duty-world-at-war-windows-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/340698-call-of-duty-world-at-war-windows-screenshot-main-menu.jpg",
+          "width": 1600
+        },
+        {
+          "caption": "Cutscenes are a mix of crude cartoon graphics and documentary footage.",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/340886-call-of-duty-world-at-war-windows-screenshot-cutscenes-are.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/340886-call-of-duty-world-at-war-windows-screenshot-cutscenes-are.jpg",
+          "width": 1600
+        },
+        {
+          "caption": "BOOM makes the barrel.",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/340887-call-of-duty-world-at-war-windows-screenshot-boom-makes-the.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/340887-call-of-duty-world-at-war-windows-screenshot-boom-makes-the.jpg",
+          "width": 1600
+        },
+        {
+          "caption": "Called an airstrike on that tank.",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/340888-call-of-duty-world-at-war-windows-screenshot-called-an-airstrike.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/340888-call-of-duty-world-at-war-windows-screenshot-called-an-airstrike.jpg",
+          "width": 1600
+        }
+      ],
+      "title": "Call of Duty: World at War"
+    },
+    {
+      "description": "Koei brings us again a new addition to the Dynasty Warriors series. This installment still features the same storyline based on the Romance of the Three Kingdoms, with the various officers as playable characters. The character list and appearance is the same as in Dynasty Warriors 6, meaning some of the previous game's characters are not available.\n\nThe difference in this one is that the player is allowed to choose only one character for the chosen force (either Wei, Wu or Shu) who starts in a village that will act as the hub, or camp, from which the game battles are accessed. By completing story missions, some characters are added and can be played as without starting a new game, meaning all acquired weapons, items and materials will be kept.\n\nThe chosen character can be customized in various ways. Apart from the main weapon, one sub weapon, chosen from many weapon types, can be equipped. Both weapons can be switched anytime during battle, to accommodate the situation. A new addition is the Chi system which allows to set special abilities to the character, there are four slots to equip Chi (the two arms and legs). Weapons can also be customized by adding Orbs that give different abilities, such as elemental properties.\n\nIn the village, the player can exchange materials, buy weaponry, items for use in battle, Chi skills and Orbs. Some NPC's may appear in the village, some giving materials or items, or Officer cards, which can be set to help the Village's growth. Over time, better items can be acquired from the shops.\n\nBy talking to the quest board or the Guard at the village's gate, main Missions or Requests can be chosen. Each battle is a series of small maps where various enemy soldiers and weaponry are fought, eventually leading to the commander of the enemy army. The goal of each battle can vary, some are classic goals like \"Defeat the Commander\" and some, less battle oriented, like \"Retrieve all treasure boxes\". In addition, there also are bonus missions that require the player to defeat a particular unit, reaching a certain point before a certain time, etc. Each bonus mission gives extra experience points upon completion.\n\nOther new additions to the battle system are the possibility to have aerial battles, and the main feature of the game: the Fury Mode, unleashed when the Fury gauge (replacing the traditional Musou gauge) is full. The furied character has better stats and move sets, and can unleash the infamous Musou attack to deal some extra damage.\n\nTo add to the surreal look of the game, some new bosses are actually massive beast-like weapons, and usually require the help of other players to defeat them. Multiplayer mode is available only via AdHoc connection, and can connect up to four players.\n",
+      "game_id": 40625,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 48,
+          "genre_name": "Fighting"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 39,
+          "genre_name": "Martial Arts"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 21,
+          "genre_name": "Platform"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 94,
+          "genre_name": "Persistent"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 15,
+          "genre_name": "Real-Time"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 198,
+          "genre_name": "China (Ancient/Imperial)"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 2.9,
+      "moby_url": "http://www.mobygames.com/game/dynasty-warriors-strikeforce",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2009-02-26",
+          "platform_id": 46,
+          "platform_name": "PSP"
+        },
+        {
+          "first_release_date": "2009-10-01",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2009-10-01",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1395,
+        "image": "http://www.mobygames.com/images/covers/l/148986-dynasty-warriors-strikeforce-psp-front-cover.jpg",
+        "platforms": [
+          "PSP"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/148986-dynasty-warriors-strikeforce-psp-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Dynasty Warriors: Strikeforce"
+    },
+    {
+      "description": "<i>Battlestations: Pacific</i> is the successor to Battlestations: Midway and once again pits Japanese against Americans. Two single-player campaigns await the player with one picturing the Japanese starting at the attack on Pearl Harbor and the American campaign following the aftermath of the the Battle for Midway.\n\nSimilar to the Battlefield series the game puts the player right in the middle of the battle, always surrounded by AI-units filling up the free spots. But instead of fighting on foot, the players only use several different kinds of battleships, u-boats and airplanes. These are launched by the players at their team's HQ and can be equipped with different weapon load-outs. Depending e.g. on the type of the airplane (bomber, fighter or such), these range from MGs over rockets and bombs to carpet bombs and paratroopers. Of course once the support bar reaches zero, no more units can be launched.\n\nBesides players doing all the work while sitting in a unit, the commander can also use the tactical map to assign formations, give out orders to the AI as well as other players and so on. This is also the place where the players choose in which unit they want to jump in. Each type of unit also plays radically different. While airplanes concentrate on fast dogfights and low bomb-droppings, ships are slow but can repair themselves. U-Boats on the other hand have the ability to dive and disappear from every enemies radar. To compensate for that, U-Boats not only have a limited supply of oxygen but can also be spotted by sonar and killed with water-bombs.\n\nBesides the campaigns, the game also features five skirmish-modes for both single- and multiplayer. In \"Escort\" both teams have to defend key units from the enemy while themselves attacking and destroying the enemies key units with every player using a pre-defined unit. \"Siege\" on the other hand one team has to attack a island or coastline with the other team defending it. This time each player can choose his own unit from an available pool of units. \"Competition\" again has all the players only controlling one unit but fight on the same side in an effort to destroy as many AI-enemies as possible or completing the objectives. In \"Duel\" the players choose their unit before each mission and have to destroy all enemy units to win the round. And last but not least \"Island Conquest\" requires the capturing of control points to both win the match and gain access to additional units.",
+      "game_id": 40747,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 41,
+          "genre_name": "Naval / Watercraft"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 19,
+          "genre_name": "Flight / Aviation"
+        }
+      ],
+      "moby_score": 3.5,
+      "moby_url": "http://www.mobygames.com/game/battlestations-pacific",
+      "num_votes": 9,
+      "official_url": "http://web.archive.org/web/20090520131116/http://www.battlestations.net/",
+      "platforms": [
+        {
+          "first_release_date": "2009",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2009-05-15",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2010-10-08",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        }
+      ],
+      "sample_cover": {
+        "height": 1140,
+        "image": "http://www.mobygames.com/images/covers/l/149896-battlestations-pacific-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/149896-battlestations-pacific-windows-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main Menu",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/369602-battlestations-pacific-windows-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/369602-battlestations-pacific-windows-screenshot-main-menu.jpg",
+          "width": 1600
+        },
+        {
+          "caption": "Title screen",
+          "height": 1050,
+          "image": "http://www.mobygames.com/images/shots/l/441966-battlestations-pacific-windows-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/441966-battlestations-pacific-windows-screenshot-title-screen.jpg",
+          "width": 1680
+        },
+        {
+          "caption": "Loading Screen",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/369603-battlestations-pacific-windows-screenshot-loading-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/369603-battlestations-pacific-windows-screenshot-loading-screen.jpg",
+          "width": 1600
+        },
+        {
+          "caption": "Nice fleet I've got there.",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/369604-battlestations-pacific-windows-screenshot-nice-fleet-i-ve.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/369604-battlestations-pacific-windows-screenshot-nice-fleet-i-ve.jpg",
+          "width": 1600
+        }
+      ],
+      "title": "Battlestations: Pacific"
+    },
+    {
+      "description": "<i>Battlefield 1943</i> is a remake of the Windows game Battlefield 1942. Battlefield 1943 is a  multiplayer-only first person shooter set in the pacific theater. The player can choose to fight on either the US or Japanese side and must capture and hold certain points on remade pacific island maps from Battlefield 1942.\n\nAt the start of a round (or after being killed), the player can choose between three classes: infantryman, rifleman and scout. The difference between the classes lies in the armament: for example, scouts possess a sniper rifle while infantry soldiers are equipped with an anti-tank gun. The player is also able to use any vehicle, boat and airplane they find in the game.\n\nImprovements over the original Battlefield 1942 game include awards, ranks the player can gain, destructible buildings and an air strike that can be called in from a special building on the map.",
+      "game_id": 41509,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 124,
+          "genre_name": "War"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 80,
+          "genre_name": "Tank"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 19,
+          "genre_name": "Flight / Aviation"
+        }
+      ],
+      "moby_score": 3.8,
+      "moby_url": "http://www.mobygames.com/game/battlefield-1943",
+      "num_votes": 16,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2009-07-08",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2009-07-09",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 300,
+        "image": "http://www.mobygames.com/images/covers/l/157594-battlefield-1943-xbox-360-front-cover.jpg",
+        "platforms": [
+          "Xbox 360"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/157594-battlefield-1943-xbox-360-front-cover.jpg",
+        "width": 219
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/432643-battlefield-1943-xbox-360-screenshot-title-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/432643-battlefield-1943-xbox-360-screenshot-title-screen.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Wake Island map.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/432644-battlefield-1943-xbox-360-screenshot-wake-island-map.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/432644-battlefield-1943-xbox-360-screenshot-wake-island-map.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Pick your class.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/432645-battlefield-1943-xbox-360-screenshot-pick-your-class.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/432645-battlefield-1943-xbox-360-screenshot-pick-your-class.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "1943 uses the destruction engine from Bad Company.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/432646-battlefield-1943-xbox-360-screenshot-1943-uses-the-destruction.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/432646-battlefield-1943-xbox-360-screenshot-1943-uses-the-destruction.jpg",
+          "width": 1280
+        }
+      ],
+      "title": "Battlefield 1943"
+    },
+    {
+      "description": "Samurai Warriors 2 is a game made by Omega Force and published by KOEI, the same developer and publisher of the famous Shin Sangoku Musou (Dynasty Warriors) series. As with the original Samurai Warriors, Samurai Warriors 2 is based on the Japanese Sengoku or \"Warring States\" period, a time of social upheaval, political intrigue, and nearly constant military conflict in Japan that lasted roughly from the middle of the 15th century to the beginning of the 17th century.\n\nThe game is a third person hack-and-slash. You have 26 playable characters to choose from. Once you choose your character you are tossed into massive real-time battles, with the object being to help claim victory for your army by defeating key enemy officers, or simply slaying a large amount of enemy troops, which will boost the morale of your army, and turn the tides of the battle. \n\n10 new warriors are added from the previous game including the legendary Musashi Miyamoto, the unifier of Japan Ieyasu Tokugawa, and the enigmatic ninja Kotaro Fuma. Each warrior has his own unique move set and techniques. Set traps, summon ninja decoys, and more. Use powerful Linked Charge attacks and power up to three Musou gauges. Now castle warfare blends seamlessly with field combat. Take control of castles on the battlefield to gain a significant morale advantage. There are multiple game modes including Story, Free, and Survival modes. Team up with friends for two-player Co-op play or compete with them at \"Sugoroku,\" a bonus party game for up to four players.\n",
+      "game_id": 42588,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 39,
+          "genre_name": "Martial Arts"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 220,
+          "genre_name": "Japan (Ancient/Classical/Medieval)"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 3.0,
+      "moby_url": "http://www.mobygames.com/game/samurai-warriors-2",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2006-02-24",
+          "platform_id": 7,
+          "platform_name": "PlayStation 2"
+        },
+        {
+          "first_release_date": "2006-08-17",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2008-06-27",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2013-01-30",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1138,
+        "image": "http://www.mobygames.com/images/covers/l/165416-samurai-warriors-2-playstation-2-front-cover.png",
+        "platforms": [
+          "PlayStation 2"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/165416-samurai-warriors-2-playstation-2-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Samurai Warriors 2"
+    },
+    {
+      "description": "KronoteK has been founded to use their time-travel-technology to set things right with history - whatever that means. One thing's for sure: The player was one second away of loosing his scalp to an Indian at Custer's Last Stand when KronoteK came by and snatched him. The reason: KronoteK themselves can't do anything themselves in order to keep the time-continuum save. So they need persons marked MIA. People that as far as history is concerned are only a ghost. Of course KronoteK isn't the only time-traveling-agency out there and soon after your first missions in the American Civil War and World War I, the problems suddenly get a lot bigger when well-equipped time-travelers enter the scene and mess everything up.\n\n<i>Darkest of Days</i> is a first-person-shooter with the player and his tutor Dexter entering different periods of time even going as far back as the destruction of Pompey to fulfill their objective according to KronoteK's wishes like making sure that a specific person survives. During their travels they integrate themselves into the setting not only with the correct clothing but also with the weapons fit for the time-period. Only if things get desperate modern guns like a multiple-rockets-launcher or an high-tech assault rifle enter the scene to make things easier. But not everyone can be killed on sight.\n\nImportant persons from history glow either golden or blue. While the first are mission-critical and have to be saved at all costs. The latter can be taken out by either shooting them in their limps or using the so-called chasers, small high-energy-balls that only react to blue-glowing enemies and will take them out without ruining the timeline. Although the mission won't end if the player kills one or more blue-glowing enemies, the reward at the end will decrease from three to no upgrade points at all. These are needed to upgrade the two weapon-types the player can use (rifle and sidearm) in four categories including \"Rate of Fire\" and Accuracy\".",
+      "game_id": 42917,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 8,
+          "genre_name": "Sci-Fi / Futuristic"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 223,
+          "genre_name": "Regional Differences"
+        }
+      ],
+      "moby_score": 2.4,
+      "moby_url": "http://www.mobygames.com/game/darkest-of-days",
+      "num_votes": 10,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2009-09-07",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2009-09-08",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2010-12-06",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        }
+      ],
+      "sample_cover": {
+        "height": 1101,
+        "image": "http://www.mobygames.com/images/covers/l/167168-darkest-of-days-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/167168-darkest-of-days-windows-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main Menu",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/393042-darkest-of-days-windows-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/393042-darkest-of-days-windows-screenshot-main-menu.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "Loading Screen",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/393043-darkest-of-days-windows-screenshot-loading-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/393043-darkest-of-days-windows-screenshot-loading-screen.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "We want to catch an enemy agent in this mission.",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/393053-darkest-of-days-windows-screenshot-we-want-to-catch-an-enemy.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/393053-darkest-of-days-windows-screenshot-we-want-to-catch-an-enemy.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "Upgrading my weapons.",
+          "height": 1200,
+          "image": "http://www.mobygames.com/images/shots/l/393047-darkest-of-days-windows-screenshot-upgrading-my-weapons.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/393047-darkest-of-days-windows-screenshot-upgrading-my-weapons.jpg",
+          "width": 1920
+        }
+      ],
+      "title": "Darkest of Days"
+    },
+    {
+      "description": "<i>Panzer General: Allied Assault</i> is a turn-based card/boardgame mix inspired by the Panzer General series. The map is divided into 5*6 squares with the first row on each side being the home row for the respective party. Each tile has different attributes and is more or less important. While a river gives -3 to the attack bonus, attacking while sitting behind a mountain grants +3 defense. Each tile also grants a specific amount of prestige points at the end of each round for the army who previously conquered it by placing a unit on it.\n\nPrestige points are needed to buy additional cards at the beginning of a round as well as for placing new units like tanks or infantry on the map. Each player can normally only have up to 10 cards in his deck. Cards represent everything in the game from units over actions like ordering a bomb-strike on enemy artillery, to attacks. They can be played out as long as enough prestige points are available. In addition each placed unit can either move one tile each round or attack an enemy. This rule can only be bypassed by playing a Free Attack Action card.\n\nCombat itself is divided into several stages. First the game looks if an enemy is dug in and gives him the first shot if that is the case. Then the defense and attack points are calculated based on factors like terrain cover, dug-in conditions and support from friendly units on nearby tiles or artillery in range. Afterwards combat cards are played until both players choose to pass. Combat cards allow for example to take out the artillery support via an air strike or just add -3 to the defense rating of the enemy in order to overcome his defense rating. Once both player pass, they can sacrifice a battle card from their available deck to add its worth to either their defense or offense rating as the last means to change the final outcome. To add a little bit of luck to the game, a dice roll follows. Whatever is rolled will be added to the attackers' attack points making him either stronger or weaker. For example: the dice lands on a -3. After the dice fell, the game plays out the combat, dealing out damage as determined by the defense and attack points of each party and then the positions change. The attacker becomes defender and the inital defender is now the attacker. If after the second round one unit still isn't either dead or retreating, the outcome is a draw. Otherwise the winning party gains an additional health point and can choose to advance onto the enemy position if the initial attackers won.\n\nThe game features a campaign with twelve normal and three bonus missions. Successfully completing them inside a set round limit unlocks more or less new cards which are only available in multiplayer. Getting an achievement also grants a new card that can then be used to make custom decks for both the Germans and Americans with the integrated deck builder.",
+      "game_id": 43107,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 27,
+          "genre_name": "Cards / Tiles"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 25,
+          "genre_name": "Isometric"
+        }
+      ],
+      "moby_score": 3.6,
+      "moby_url": "http://www.mobygames.com/game/panzer-general-allied-assault",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2009-10-21",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        }
+      ],
+      "sample_cover": {
+        "height": 300,
+        "image": "http://www.mobygames.com/images/covers/l/167979-panzer-general-allied-assault-xbox-360-front-cover.jpg",
+        "platforms": [
+          "Xbox 360"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/167979-panzer-general-allied-assault-xbox-360-front-cover.jpg",
+        "width": 219
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main Menu",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/392344-panzer-general-allied-assault-xbox-360-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/392344-panzer-general-allied-assault-xbox-360-screenshot-main-menu.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Loading Screen",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/392345-panzer-general-allied-assault-xbox-360-screenshot-loading.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/392345-panzer-general-allied-assault-xbox-360-screenshot-loading.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "The dice roll determines if you get bonuses to attack or defense.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/392346-panzer-general-allied-assault-xbox-360-screenshot-the-dice.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/392346-panzer-general-allied-assault-xbox-360-screenshot-the-dice.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "My tank got hit hard.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/392347-panzer-general-allied-assault-xbox-360-screenshot-my-tank.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/392347-panzer-general-allied-assault-xbox-360-screenshot-my-tank.jpg",
+          "width": 1280
+        }
+      ],
+      "title": "Panzer General: Allied Assault"
+    },
+    {
+      "description": "<i>Samurai Warriors 2: Empires</i> is an expansion to Samurai Warriors 2. It is the third <i>Empires</i> expansion by KOEI, following Dynasty Warriors 4: Empires and Dynasty Warriors 5: Empires. Similar to the other <i>Empires</i> games, it adds turn-based empire-building gameplay to the mix.  Although battles are still fought using the same 3rd-person button mashing mechanics that the <i>Samurai Warriors</i>-style games are known for, players now must also choose the battles to maximize the growth of their burgeoning empire in Japan's Warring States era. In the Empire mode there are several historical battles available.\n\nThe game also adds two previously unplayable characters, Shibata Katsuie and Sasaki Kojir\u014d, as well as a Create Your Own Character mode.",
+      "game_id": 43609,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 48,
+          "genre_name": "Fighting"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 39,
+          "genre_name": "Martial Arts"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 220,
+          "genre_name": "Japan (Ancient/Classical/Medieval)"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 2.7,
+      "moby_url": "http://www.mobygames.com/game/samurai-warriors-2-empires",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2006-11-16",
+          "platform_id": 7,
+          "platform_name": "PlayStation 2"
+        },
+        {
+          "first_release_date": "2007-02-27",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2013-01-30",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1133,
+        "image": "http://www.mobygames.com/images/covers/l/171006-samurai-warriors-2-empires-playstation-2-front-cover.jpg",
+        "platforms": [
+          "PlayStation 2"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/171006-samurai-warriors-2-empires-playstation-2-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Samurai Warriors 2: Empires"
+    },
+    {
+      "description": "<i>IL-2 Sturmovik: Birds of Prey</i> is the 4th entry into the well known WWII flight simulation game series.\n\nIn this version, you will take part in a total of 5 theatres from WWII- the battle of Britain, Stalingrad, Berlin, Sicily and Korsun, totaling over 50 missions. New to the series is the ability to choose between the simulation handling like previous games, and arcade handling, which is new for the series. As the game is predominantly a simulator, it features realistic damage models including engine damage and bullet holes on the hull of your aircraft.\n\nMultiplayer includes 4 game modes, which include Dogfight (basic death matches), Team Battle (team death matches), Capture (akin to capture the flag, in this, you have to land on an airstrip and hold it for long enough. The enemy must take you out and capture it themselves) and Strike (team game, you must destroy the enemy base before they destroy yours).\n\nPlanes featured in game include the IL-2, IL-4, Hurricane Mk II, the Spitfire Mk II, IX XVI, JU-87, and the P-51.\nYou have the option to apply different skins to these planes.\n",
+      "game_id": 44720,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 159,
+          "genre_name": "Vehicular Combat Simulator"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 19,
+          "genre_name": "Flight / Aviation"
+        }
+      ],
+      "moby_score": 4.0,
+      "moby_url": "http://www.mobygames.com/game/il-2-sturmovik-birds-of-prey",
+      "num_votes": 4,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2009-09-04",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2009-09-04",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 927,
+        "image": "http://www.mobygames.com/images/covers/l/175393-il-2-sturmovik-birds-of-prey-playstation-3-front-cover.jpg",
+        "platforms": [
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/175393-il-2-sturmovik-birds-of-prey-playstation-3-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "IL-2 Sturmovik: Birds of Prey"
+    },
+    {
+      "description": "During the Civil War, small and irregular pockets of men were called upon to perform spectacular raids, disrupt enemy supply lines and wreak havoc on opposing armies setting the stage for great battles!\n\n<i>Secret Missions</i> is the sequel to the History Channel sponsored Civil War: A Nation Divided, and like the previous game is also a first person shooter. Unlike the previous game that focused on the major battles, this game instead shifts the action to raids and capturing enemy weapons. Play as either a solider fighting for the United States or the Confederate States as you use a number of experimental civil war weapons such as the famous Gatling Gun, or perform a raid on the Baltimore and Ohio with General \"Stonewall\" Jackson. ",
+      "game_id": 49701,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 1.6,
+      "moby_url": "http://www.mobygames.com/game/civil-war-secret-missions",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2008-11-04",
+          "platform_id": 7,
+          "platform_name": "PlayStation 2"
+        },
+        {
+          "first_release_date": "2008-11-04",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2008-11-04",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2008-11-11",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        }
+      ],
+      "sample_cover": {
+        "height": 905,
+        "image": "http://www.mobygames.com/images/covers/l/245909-civil-war-secret-missions-playstation-3-front-cover.jpg",
+        "platforms": [
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/245909-civil-war-secret-missions-playstation-3-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main title.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/570205-civil-war-secret-missions-playstation-3-screenshot-main-title.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/570205-civil-war-secret-missions-playstation-3-screenshot-main-title.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Main menu.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/570206-civil-war-secret-missions-playstation-3-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/570206-civil-war-secret-missions-playstation-3-screenshot-main-menu.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "There are 10 missions to choose from, five for each side.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/570207-civil-war-secret-missions-playstation-3-screenshot-there-are.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/570207-civil-war-secret-missions-playstation-3-screenshot-there-are.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Each mission comes with a short opening video.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/570208-civil-war-secret-missions-playstation-3-screenshot-each-mission.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/570208-civil-war-secret-missions-playstation-3-screenshot-each-mission.jpg",
+          "width": 1280
+        }
+      ],
+      "title": "Civil War: Secret Missions"
+    },
+    {
+      "description": "<i>Dynasty Warriors 7</i> returns again to the fall of the Han Dynasty, and this time follows through to the end of the Three Kingdoms Era. Follow the story of three rebellious states that overthrew the Chinese Emperor in a conflict that sparked gigantic battles; just the kind that the <i>Dynasty Warriors</i> series is known for. In addition, play for the first time as the Jin faction, the family and companions of Sima Yi who would found the Jin Dynasty. \n\nSimilarly to Dynasty Warriors 4, the story mode features only the stories of each faction (Wei, Wu, Shu, and Jin), although the playable character changes from level to level. In Conquest mode the player chooses a character and fights their way across a map of China, completing battles with special objectives and winning stat points and new weapons. Enemy officers can be befriended and will join the player in combat. Characters can now equip nearly any weapon in the game, although they have affinities for certain weapons over others. The two equipped weapons can be switched between in real time, activating a switch attack and extending combo attacks.",
+      "game_id": 51319,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 39,
+          "genre_name": "Martial Arts"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 198,
+          "genre_name": "China (Ancient/Imperial)"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 3.3,
+      "moby_url": "http://www.mobygames.com/game/dynasty-warriors-7",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2011-03-10",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2011-03-29",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        }
+      ],
+      "sample_cover": {
+        "height": 922,
+        "image": "http://www.mobygames.com/images/covers/l/232138-dynasty-warriors-7-playstation-3-front-cover.jpg",
+        "platforms": [
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/232138-dynasty-warriors-7-playstation-3-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Dynasty Warriors 7"
+    },
+    {
+      "description": "In <i>The First Templar</i> the player takes the role of the French templar Celian of Aristide, who is on his life-quest to find the Holy Grail. During the course of the story, he also has to deal with other plot entanglements like a Saracen invasion and a big conspiracy against the templar order. \n\nThis game is designed for co-op play which means that the protagonist always fights together with a comrade (AI or another player), mostly Celian's daughter Marie. Most time is spend in melee fights against multiple enemies, in which the player has basically three moves at his disposal: a standard attack, blocking and a special attack which takes up \"fervor\" energy. The (single) player always has the opportunity to switch between the two characters, but this is only necessary when solving the few co-op based puzzles. In addition to the fighting sequences there are also trap courses and unforced stealth sections.\n\nIn every level there is a main goal and three bonus missions, which offer rewards like experience points and armor/weapon parts. The first are used to improve Celian's abilities and unlock new moves; the latter give new equipment.",
+      "game_id": 52172,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 124,
+          "genre_name": "War"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 205,
+          "genre_name": "Medieval"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 3.3,
+      "moby_url": "http://www.mobygames.com/game/first-templar",
+      "num_votes": 4,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2011-05-05",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2011-05-05",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        }
+      ],
+      "sample_cover": {
+        "height": 284,
+        "image": "http://www.mobygames.com/images/covers/l/240182-the-first-templar-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/240182-the-first-templar-windows-front-cover.jpg",
+        "width": 200
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main title.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/561363-the-first-templar-xbox-360-screenshot-main-title.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/561363-the-first-templar-xbox-360-screenshot-main-title.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Main menu.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/561364-the-first-templar-xbox-360-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/561364-the-first-templar-xbox-360-screenshot-main-menu.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "The game protagonist does not lack smart remarks.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/561365-the-first-templar-xbox-360-screenshot-the-game-protagonist.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/561365-the-first-templar-xbox-360-screenshot-the-game-protagonist.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Fighting marauders in the chateau, and getting familiar with the basic controls.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/561366-the-first-templar-xbox-360-screenshot-fighting-marauders-in.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/561366-the-first-templar-xbox-360-screenshot-fighting-marauders-in.jpg",
+          "width": 1280
+        }
+      ],
+      "title": "The First Templar"
+    },
+    {
+      "description": "In <i>Rock of Ages</i> the player takes the role of a rock who battles against famous figures of world history. The background story is about Sisyphus who got into conflict with Kronus, but there is no actual story development during the game. However, one motivational factor are the humorous cutscenes before every mission which introduce the next enemy, e.g. Sokrates or Ludwig XIV. The covered time periods reach from ancient Greek to Romanticism.\n\nThe goal is to destroy the city gate of the opponent before he can reach the own. To do so, the player controls the rock on the course while avoiding or destroying obstacles on the way. However, this is only half of the task: before the attacking phase stands the building phase. Here the player constructs the obstacles before the own gate to slow the opponent down. Obstacles are purchased with money which is earned by destroying things during the attack. Alternatively the money can also be invested into bonuses, e.g.the ability to double jump.\n\nBesides the campaign there is also a time mode (finding the shortest route without having to deal with obstacles) and a high score mode. ",
+      "game_id": 53675,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 124,
+          "genre_name": "War"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 120,
+          "genre_name": "Comedy"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 3.5,
+      "moby_url": "http://www.mobygames.com/game/rock-of-ages",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2011-08-31",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2011-09-07",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2012-05-15",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 300,
+        "image": "http://www.mobygames.com/images/covers/l/233954-rock-of-ages-xbox-360-front-cover.jpg",
+        "platforms": [
+          "Xbox 360"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/233954-rock-of-ages-xbox-360-front-cover.jpg",
+        "width": 219
+      },
+      "sample_screenshots": [],
+      "title": "Rock of Ages"
+    },
+    {
+      "description": "<i>Sniper Elite V2</i> is both a sequel to and a remake of Sniper Elite. It takes Karl Fairnburne, the protagonist of the first game, and offers a setting in the same period of the original title. The gameplay and levels are however entirely new, so it is only a remake in the sense that it re-envisions the character and the setting of the original game. Fairburne is an American agent of the OSS (Office of Strategic Services) who is disguised as a German sniper and is inserted in the Battle of Berlin in 1945 during the final days of World War II. In the original game he was after intel about the German nuclear warfare program. In this game he needs to hunt down German V-2 rocket scientists.\n\nThis shooter is played from a first-person perspective and puts tactics and stealth before direct engagements. In many of the missions a location needs to be entered stealthily and movement patterns need to be observed before acting. It is possible to crawl and to throw rocks to distract guards, but there are also grenades. A threat indicator displays how exposed Fairburne is. If he is not careful an alarm is raised and that point the enemy threat becomes overwhelming, also because of the limited ammo. In many scenarios it is also required to backtrack and leave afterwards. A safe escape is assisted by placing trip mines, booby trapping a body, or dragging corpses out of sight. It is also possible to sneak around, seek cover, and emerge quickly. Nearby enemies can be taken out with a silenced pistol. In most of the situations, especially for kills over long distances, a sniper rifle is used. At that moment the camera switches to a scoped first-person view. The accuracy is influenced through the heart beat, the breathing that can be steadied, the force gravity and the distance, and general ballistics. The amount of realism for the ballistics can be toned down through a difficulty level. In some missions there are battles against enemy snipers and in those cases even their reticules shining in the the sun light can be used to reveal their position.\n\nThe different game modes include singleplayer, cooperative games, and competitive multiplayer. Cooperative games include Kill Tally where endless waves of enemies need to be killed in a race against the clock, Bombing Run where an area needs to be searched for parts to repair a broken vehicle before the location is bombed, Overwatch where a sniper cooperates with an operative to mark targets, and the entire main campaign that can also be played together with a friend.\n\nCompared to the first game this title incorporates elements of contemporary shooters such as point rewards for actions and kills (similar to the Modern Warfare games) and a slow motion kill cam for long-distance hits with an anatomical cutaway X-ray view similar to the one used to show bone-crushing attacks in the 2011 Mortal Kombat. It shows precisely where the bullet enters the body and the damage it does to the organs. The player is encouraged to do difficult shots such as shooting an opponent through the eye. Other features include white figures that show were enemy soldiers were last seen and the ability to mark fighters for their position and additional target information. The mission environments are not entirely open but guide the player in a direction with an amount of freedom. Next to the main objectives hidden bottles and gold bars can be collected.",
+      "game_id": 55936,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 99,
+          "genre_name": "Stealth"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 223,
+          "genre_name": "Regional Differences"
+        }
+      ],
+      "moby_score": 3.3,
+      "moby_url": "http://www.mobygames.com/game/sniper-elite-v2",
+      "num_votes": 15,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2012-05-01",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2012-05-01",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2012-05-01",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2013-05-21",
+          "platform_id": 132,
+          "platform_name": "Wii U"
+        }
+      ],
+      "sample_cover": {
+        "height": 177,
+        "image": "http://www.mobygames.com/images/covers/l/242654-sniper-elite-v2-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/242654-sniper-elite-v2-windows-front-cover.jpg",
+        "width": 122
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/604775-sniper-elite-v2-playstation-3-screenshot-title-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/604775-sniper-elite-v2-playstation-3-screenshot-title-screen.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Main menu",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/604776-sniper-elite-v2-playstation-3-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/604776-sniper-elite-v2-playstation-3-screenshot-main-menu.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "German Major-General posing for a head shot without even realizing.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/604777-sniper-elite-v2-playstation-3-screenshot-german-major-general.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/604777-sniper-elite-v2-playstation-3-screenshot-german-major-general.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Ready to take out the bad guy.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/604778-sniper-elite-v2-playstation-3-screenshot-ready-to-take-out.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/604778-sniper-elite-v2-playstation-3-screenshot-ready-to-take-out.jpg",
+          "width": 1280
+        }
+      ],
+      "title": "Sniper Elite V2"
+    },
+    {
+      "description": "<i>Birds of Steel</i> is a combat flight simulator set during World War II. It contains over 100 licensed airplanes from the different sides, including planes from Australia, United Kingdom, Germany, Italy, Japan, USA, and the USSR. Next to well famous aircraft it also includes for instance the much lesser known Australian CAC Boomerang of which only 250 were made.\n\nIn singleplayer there is a historical campaign for both the American and Japanese side. Overall the different missions include Attack on Pearl Harbor, Battle of Wake Island, Guadalcanal Campaign, Battle of Midway, Battle of the Coral Sea, Siege of Malta, Battle for the Kuban, Port Moresby, and Ruhr. There are also single missions in locations such as the Pacific, Germany, the Mediterranean and the Eastern Front where aircraft from Britain, Italy, Australia and Germany are controlled. Players can pilot both fighters and bombers depending on the objectives. These consist of patrols, dogfights, bombers escorts, or protecting ally carriers and airfields.\n\nIt is also possible to change history by designing a custom military campaign with parameters such as the theater of war, the year, and the side of the conflict to play. There are different difficulty settings with Arcade making planes very easy to control with the ability to enable unlimited ammo and fuel. Realistic on the other hands demands a lot of control from the player to keep the aircraft in the air. There are three main difficulty levels.\n\nMultiplayer includes a 4-player co-operative or online war mode to rival against up to 16 aviators across world. Players can compete in dogfights or capturing and holding vital air zones and airports. There are unlockable extras such as historical paint jobs, roundels, nose art, and kill markers.",
+      "game_id": 55982,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 19,
+          "genre_name": "Flight / Aviation"
+        }
+      ],
+      "moby_score": 3.7,
+      "moby_url": "http://www.mobygames.com/game/birds-of-steel",
+      "num_votes": 5,
+      "official_url": "http://www.konami.jp/gs/game/birds_of_steel/",
+      "platforms": [
+        {
+          "first_release_date": "2012-03-13",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2012-03-13",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 1144,
+        "image": "http://www.mobygames.com/images/covers/l/245405-birds-of-steel-xbox-360-front-cover.jpg",
+        "platforms": [
+          "Xbox 360"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/245405-birds-of-steel-xbox-360-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/597751-birds-of-steel-playstation-3-screenshot-title-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/597751-birds-of-steel-playstation-3-screenshot-title-screen.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Main menu",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/597752-birds-of-steel-playstation-3-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/597752-birds-of-steel-playstation-3-screenshot-main-menu.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "The game provides three historical campaigns to participate in.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/597753-birds-of-steel-playstation-3-screenshot-the-game-provides.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/597753-birds-of-steel-playstation-3-screenshot-the-game-provides.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "The loading screen displays a mission-related slideshow.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/597754-birds-of-steel-playstation-3-screenshot-the-loading-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/597754-birds-of-steel-playstation-3-screenshot-the-loading-screen.jpg",
+          "width": 1280
+        }
+      ],
+      "title": "Birds of Steel"
+    },
+    {
+      "description": "<i>Damage Inc.: Pacific Squadron WWII</i> is an arcade flying game that follows the major battles in the Pacific Theater of WWII. <i>Damage Inc.</i> features a full campaign mode of 21 missions, online co-op play for four players through the entire campaign, and online multiplayer with five game modes: Dogfight, Team Dogfight, Survivor, Team Survivor, and Scratch One Flat-top.\n\nThe campaign mode follows the exploits of Bobby Williams, a crack pilot whose tour of duty takes him from Pearl Harbor just moments before the Japanese surprise attack all the way to the critical final assault on Iwo Jima which secured the last Japanese stronghold in the Pacific.  Along the way the campaign highlights all of the key battles of the war, including the fall of Wake Island, the decisive naval battles of the Coral Sea, the wresting of Guadalcanal from the Japanese, the counter-attack against the Japanese fleet in Midway, and the final naval battles on the Philippines.\n\nThrough the course of the campaign players unlock new planes, and earn bonus points to upgrade their planes to better versions. The game includes over 90 unique planes based on over 45 models.  Damage Inc includes all of the key planes of WWII from the Pacific and European theaters, including the Zero, Hellcat, Warhawk, Corsair, Avenger, Dauntless, Lightning, Mustang, Bearcat, Shooting Star, Spitfire, Tempest, Bf-109, Jack, Randy, and Frank.",
+      "game_id": 57622,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 19,
+          "genre_name": "Flight / Aviation"
+        }
+      ],
+      "moby_score": 3.2,
+      "moby_url": "http://www.mobygames.com/game/damage-inc-pacific-squadron-wwii",
+      "num_votes": 6,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2012-08-28",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2012-08-28",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2012-08-28",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/283510-damage-inc-pacific-squadron-wwii-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/283510-damage-inc-pacific-squadron-wwii-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main title.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/741179-damage-inc-pacific-squadron-wwii-playstation-3-screenshot.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/741179-damage-inc-pacific-squadron-wwii-playstation-3-screenshot.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Main menu.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/741180-damage-inc-pacific-squadron-wwii-playstation-3-screenshot.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/741180-damage-inc-pacific-squadron-wwii-playstation-3-screenshot.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Options menu.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/741181-damage-inc-pacific-squadron-wwii-playstation-3-screenshot.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/741181-damage-inc-pacific-squadron-wwii-playstation-3-screenshot.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Introduction movie.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/741182-damage-inc-pacific-squadron-wwii-playstation-3-screenshot.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/741182-damage-inc-pacific-squadron-wwii-playstation-3-screenshot.jpg",
+          "width": 1280
+        }
+      ],
+      "title": "Damage Inc.: Pacific Squadron WWII"
+    },
+    {
+      "description": "You are Dee Dee, a skilled female pilot who starts by smuggling whiskey to desperate allied forces and after few wrong turns end up helping the fight against the axis forces. The campaign spans from 1941 to 1945 and the story takes you to places in Africa and Europe. While the story primarily focuses on World War II, during some flashback missions that tell the story of your father you will fly several World War I missions as well. During WWII missions, you earn points by destroying any kind of enemy targets, even if they aren't part of your mission, which in turn lets you buy upgrades such as plane endurance, agility or leadership.\n\nBy playing campaign missions, new planes are unlocked which are of British, German or Russian origin. Missions vary in nature and consist of escorting and protecting enemy bombers, protecting ground troops and helping them advance, dogfights, taking out key ground installations, smuggling weapons and parts, dropping off paratroopers, bombing enemy tanks and infantry and more. The main weapon types are machine guns, bombs and rockets. Rockets aren't guided and it may take a lot of luck to hit enemy plane, but ground targets are much easier to hit. Depending on the plane type you will have certain number of bombs and rocket, which slowly replenish after use. By holding the fire button you can activate the bomb or rocket camera to see if you've hit the target, although the sound of explosion itself should be indicator enough.\n\nWhile with fighter planes you are focused on using front camera and machine guns, with fighter bombers and bombers you will have rear machine gun which is not as effective, but will let you repel enemy planes that try to sneak up from behind or sideways. The game camera lets you play in 3rd-person from the back of the plane, 1st-person or to use the cockpit view for better authenticity. Aside from campaign, you can play a quick mission which lets you select type of combat, place and in some cases weather.",
+      "game_id": 59179,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 214,
+          "genre_name": "World War I"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 19,
+          "genre_name": "Flight / Aviation"
+        }
+      ],
+      "moby_score": 3.6,
+      "moby_url": "http://www.mobygames.com/game/air-conflicts-secret-wars",
+      "num_votes": 5,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2011-09-27",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2011-09-27",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2011-11-01",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/283398-air-conflicts-secret-wars-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/283398-air-conflicts-secret-wars-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Splash screen.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/603372-air-conflicts-secret-wars-playstation-3-screenshot-splash.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/603372-air-conflicts-secret-wars-playstation-3-screenshot-splash.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Main menu.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/603373-air-conflicts-secret-wars-playstation-3-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/603373-air-conflicts-secret-wars-playstation-3-screenshot-main-menu.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Campaign map.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/603374-air-conflicts-secret-wars-playstation-3-screenshot-campaign.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/603374-air-conflicts-secret-wars-playstation-3-screenshot-campaign.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "German troops are advancing toward Tobruk.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/603375-air-conflicts-secret-wars-playstation-3-screenshot-german.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/603375-air-conflicts-secret-wars-playstation-3-screenshot-german.jpg",
+          "width": 1280
+        }
+      ],
+      "title": "Air Conflicts: Secret Wars"
+    },
+    {
+      "description": "<i>Dynasty Warriors 6: Empires</i> is an expansion to Dynasty Warrior 6.\n\nThe goal of the game is to unify all Ancient China under a single leader in Conquest mode. To do so, the player must each month decide a strategy by choosing skills from cards, decide to either attack an adjacent territory, or pass. Sometimes, an enemy will attack the player's territory which must then be defended. The player can however change his allegiance at any time.\n\nThe weapons are leveled up like in Dynasty Warrior 4 and can be equipped skills and abilities.\n\nUp to 100 custom characters can also be created, using existing officer's stances and weapons, as well as unlockable garment parts. These officers are available to take part in the conquest alongside the leaders, generals, and even generic-looking officers.\nOne of the regular generals from the Dynasty Warrior series, Meng Huo, who was unavailable in the original game (although he was put in the PSP release), can now be played.",
+      "game_id": 59931,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 50,
+          "genre_name": "Role-Playing (RPG)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 166,
+          "genre_name": "Action RPG"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 39,
+          "genre_name": "Martial Arts"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 15,
+          "genre_name": "Real-Time"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 198,
+          "genre_name": "China (Ancient/Imperial)"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 2.6,
+      "moby_url": "http://www.mobygames.com/game/dynasty-warriors-6-empires",
+      "num_votes": 1,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2009-05-28",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2009-05-28",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2010-01-21",
+          "platform_id": 46,
+          "platform_name": "PSP"
+        }
+      ],
+      "sample_cover": {
+        "height": 922,
+        "image": "http://www.mobygames.com/images/covers/l/259468-dynasty-warriors-6-empires-playstation-3-front-cover.jpg",
+        "platforms": [
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/259468-dynasty-warriors-6-empires-playstation-3-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Dynasty Warriors 6: Empires"
+    },
+    {
+      "description": "<i>Air Conflicts: Pacific Carriers</i> is an arcade flight simulator and the successor to Air Conflicts: Secret Wars. Players choose to fight for the US Navy or for the Japanese Imperial Navy. The game contains five battles in each campaign with different missions and extra quests. The battles represent some battles of World War II (Battle of Midway, Pearl Harbor, Wake Island Raids ... ). For multiplayer there are different types of gameplay such as deathmatch, team deathmatch, capture the flag, survival mode and more. Improvements over the original game include a larger game environment, more detailed ship models and for the PS3 version support for the PlayStation Move. As a commander, players can take control of an entire squadron instead of directing just a single plane.",
+      "game_id": 61058,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 19,
+          "genre_name": "Flight / Aviation"
+        }
+      ],
+      "moby_score": 3.2,
+      "moby_url": "http://www.mobygames.com/game/air-conflicts-pacific-carriers",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2012-09-21",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2012-09-21",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2012-09-21",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2013-10",
+          "platform_id": 1,
+          "platform_name": "Linux"
+        },
+        {
+          "first_release_date": "2013-10",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/283527-air-conflicts-pacific-carriers-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/283527-air-conflicts-pacific-carriers-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [],
+      "title": "Air Conflicts: Pacific Carriers"
+    },
+    {
+      "description": "<i>Dynasty Warriors 8</i> is the eighth installment in Koei's long-running <i>Dynasty Warriors</i> series. It follows the tradition of reenacting Luo Ganzhong's <i>Romance of the Three Kingdoms</i>. Like in Dynasty Warriors 7, each of the clans, Wei, Wu, Shu and Jin, introduced in the previous game, has its own story mode. Each stage has a choice of four characters to choose from rather than one imposed character. While the story mostly follows the historical events, some optional objectives can be completed to unlock a branching hypothetical chain of events. Additionally, each of the characters from the \"Other\" factions has his or her own story mode.\n\n<i>Dynasty Warriors 8</i> introduce a few new playable characters, some of which return from previous <i>Dynasty Warriors</i> games or, like Zuo Ci, from Warriors Orochi, for a total of over 82 characters.\n\nIn addition to Story Mode and Free Mode, the Ambition mode is introduced. The goal is to create a social base for the kingdom's people, which will be visited by the Emperor. This tower, named Tonquetai Tower, must be improved through different events, skirmishes, raids and large-scale battles, each influencing the growth of the tower in a different way.",
+      "game_id": 65068,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 198,
+          "genre_name": "China (Ancient/Imperial)"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 3.1,
+      "moby_url": "http://www.mobygames.com/game/dynasty-warriors-8",
+      "num_votes": 1,
+      "official_url": "http://www.tecmokoeiamerica.com/dw8/#home",
+      "platforms": [
+        {
+          "first_release_date": "2013-02-28",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2013-07-16",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        }
+      ],
+      "sample_cover": {
+        "height": 800,
+        "image": "http://www.mobygames.com/images/covers/l/282073-dynasty-warriors-8-playstation-3-front-cover.jpg",
+        "platforms": [
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/282073-dynasty-warriors-8-playstation-3-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Dynasty Warriors 8"
+    },
+    {
+      "description": "<i>Enemy Front</i> is a first-person shooter set during World War II. The player takes control of the American war correspondent Robert Hawkins who fought along with the resistance fighters in various locations in Europe such as Germany, France and Norway, along with the Warsaw Uprising in Poland. The game starts with an audio broadcast where Hawkins announces he will tell the story of what he has seen and the game is then played as a flashback.\n\nHawkins needs to complete various missions often fighting along with other soldiers. There is a large arsenal of weapons, including hand guns, machine guns, assault rifles and sniper rifles, as well a weapon types commonly associated with resistance fighters such as the sten gun, the welrod pistol, the lightning submachine gun and molotov cocktails. Weapons and ammo are picked up along the way or weapons are swapped with those left behind by dead soldiers. Next to pure action, a tactical approach through sabotage and stealth is possible. Hawkins can silently take soldiers hostage, dispose of them and drag their bodies to a sport where they are unlikely to be discovered. The game also has a noise indicator, where loud noises such as planes flying by offer a time-frame to shoot without being revealed. A mini-map in the bottom left corner provides an overview of the environment. Whilst sneaking through foliage stealth kills can also be performed directly. Objects such as stones can be thrown to distract enemies and lure them away. Hawkins also has binoculars to watch the enemy's movement from a distance.\n\nHawkins' health status is revealed through visual cues; when injured the screen has a red glow and fades. Health restores automatically when keeping a low profile for a while. There are three difficulty levels to choose from (casual, normal and expert). On expert enemy markers on the mini-map are removed, making it more difficult to keep track of opponents. While using the sniper rifle Hawkins can hold his breath to steady the view and slightly slow down time. The different levels are split up in multiple sections with primary and secondary objectives such as rescuing hostages, locating officers, stealing supplies and placing explosives. The progress is largely linear with a small number of choices with a different outcome, but the size of the environment often allows for different approaches. Online multiplayer is supported for up to twelve players simultaneously.",
+      "game_id": 66211,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 99,
+          "genre_name": "Stealth"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 223,
+          "genre_name": "Regional Differences"
+        }
+      ],
+      "moby_score": 2.1,
+      "moby_url": "http://www.mobygames.com/game/enemy-front",
+      "num_votes": 4,
+      "official_url": "http://www.enemyfront.com/",
+      "platforms": [
+        {
+          "first_release_date": "2014-06-10",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2014-06-10",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2014-06-10",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/285208-enemy-front-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/285208-enemy-front-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main title.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/742924-enemy-front-playstation-3-screenshot-main-title.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/742924-enemy-front-playstation-3-screenshot-main-title.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Main menu.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/742925-enemy-front-playstation-3-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/742925-enemy-front-playstation-3-screenshot-main-menu.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Stukas are bombing Warsaw.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/742926-enemy-front-playstation-3-screenshot-stukas-are-bombing-warsaw.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/742926-enemy-front-playstation-3-screenshot-stukas-are-bombing-warsaw.jpg",
+          "width": 1280
+        },
+        {
+          "caption": "Robert Hawkins, the protagonist, giving update on the situation at Warsaw to anyone who's listening.",
+          "height": 720,
+          "image": "http://www.mobygames.com/images/shots/l/742927-enemy-front-playstation-3-screenshot-robert-hawkins-the-protagonist.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/742927-enemy-front-playstation-3-screenshot-robert-hawkins-the-protagonist.jpg",
+          "width": 1280
+        }
+      ],
+      "title": "Enemy Front"
+    },
+    {
+      "description": "This special edition is exclusive to the US GameStop chain of retail stores. It contains:<ul>\n<li>Enemy Front</li>\n<li>Additional single-player mission: Raid on St. Nazaire</li>\n<li>Soundtrack disc</li>\n<li>Special edition packaging</li>\n<li>Two additional playable characters: British Commando and French Liberation Officer</li>\n<li>Two additional weapons: M1 Garand and the Webley Pistol</li></ul>",
+      "game_id": 66212,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 99,
+          "genre_name": "Stealth"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/enemy-front-special-edition",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2014-06-10",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2014-06-10",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [],
+      "title": "Enemy Front (Special Edition)"
+    },
+    {
+      "description": "This limited editions contains:<ul>\n<li>Enemy Front</li>\n<li>Four additional multiplayer characters:<ul>\n<li>Elite Grenadier</li>\n<li>SS Storm Trooper</li>\n<li>US Sniper</li>\n<li>Warsaw Resistance Fighter</li></ul></li><br>\n<li>Four additional multiplayer weapons:<ul>\n<li>Anti-Material Rifle Wz. 35</li>\n<li>Bazooka</li>\n<li>FG 42 Machinegun</li>\n<li>Thompson SMG</li></ul></li></ul>",
+      "game_id": 66213,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 99,
+          "genre_name": "Stealth"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/enemy-front-limited-edition",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2014-06-13",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2014-06-13",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2014-06-13",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        }
+      ],
+      "sample_cover": {
+        "height": 920,
+        "image": "http://www.mobygames.com/images/covers/l/289655-enemy-front-limited-edition-playstation-3-front-cover.jpg",
+        "platforms": [
+          "PlayStation 3"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/289655-enemy-front-limited-edition-playstation-3-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Enemy Front (Limited Edition)"
+    },
+    {
+      "description": "Following the assassination of Archduke Franz Ferdinand on June 28th, 1914 Germany declared the war on Russia and the whole Europe was dragged into a global conflict. Families were separated, fathers and sons killed in battles by enemy or in trenches by diseases. The game, inspired by the letters written during the Great War follows the stories of several people whose tragic destinies become intertwined as the war drags on. \n\nThe game has four playable characters. One of the many Germans deported from France, Karl is separated from his wife Marie and son Victor and forced to join the German army, while Marie's father Emile is drafted into the French army. Freddie is an American volunteer who seems to have nothing to loose, and Anna is a Belgian student looking for her father. There's also Walt the dog that will aid the characters on multiple occasions. \n\nGameplay-wise it is essentially a mix of side-scrolling adventure with a lot of puzzles and a straightforward action game. During \"adventure\" segments the player guides one of the characters though a series of obstacles using their unique abilities. The puzzles include manipulation with objects, helping out people, sneaking past guards or enemies etc. Action sequences vary from dodging enemy bombs to driving a tank amidst a heated battle.",
+      "game_id": 66601,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 124,
+          "genre_name": "War"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 214,
+          "genre_name": "World War I"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 4.1,
+      "moby_url": "http://www.mobygames.com/game/valiant-hearts-the-great-war",
+      "num_votes": 19,
+      "official_url": "http://valianthearts.ubi.com/game/en-GB/home/",
+      "platforms": [
+        {
+          "first_release_date": "2014-06-26",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2014-06-26",
+          "platform_id": 141,
+          "platform_name": "PlayStation 4"
+        },
+        {
+          "first_release_date": "2014-06-26",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2014-06-26",
+          "platform_id": 142,
+          "platform_name": "Xbox One"
+        },
+        {
+          "first_release_date": "2014-06-26",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2014-09-03",
+          "platform_id": 86,
+          "platform_name": "iPhone"
+        },
+        {
+          "first_release_date": "2014-09-03",
+          "platform_id": 96,
+          "platform_name": "iPad"
+        },
+        {
+          "first_release_date": "2014-11-10",
+          "platform_id": 91,
+          "platform_name": "Android"
+        },
+        {
+          "first_release_date": "2018-11-08",
+          "platform_id": 203,
+          "platform_name": "Nintendo Switch"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/287331-valiant-hearts-the-great-war-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/287331-valiant-hearts-the-great-war-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Game title",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/710716-valiant-hearts-the-great-war-windows-screenshot-game-title.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/710716-valiant-hearts-the-great-war-windows-screenshot-game-title.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "Main menu",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/710690-valiant-hearts-the-great-war-windows-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/710690-valiant-hearts-the-great-war-windows-screenshot-main-menu.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "In 1914 a global war conflict begins in Europe as Germany declares war upon Russia",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/710691-valiant-hearts-the-great-war-windows-screenshot-in-1914-a.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/710691-valiant-hearts-the-great-war-windows-screenshot-in-1914-a.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "As the war begins, Karl is deported from France and separated with his wife Marie",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/710692-valiant-hearts-the-great-war-windows-screenshot-as-the-war.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/710692-valiant-hearts-the-great-war-windows-screenshot-as-the-war.jpg",
+          "width": 1920
+        }
+      ],
+      "title": "Valiant Hearts: The Great War"
+    },
+    {
+      "description": "<i>Sniper Elite III</i> is the third main game in the tactical shooter series based around a sniper. Karl Fairburne, an Office of Strategic Services officer, is once against the protagonist, but this title is set before the events of the previous game Sniper Elite V2. He is part of the North Africa campaign sent behind enemy lines during World War II to target a secret weapons programme of the Nazi troops. The bright and colourful African environments are very different from the dark Berlin ruins in the previous game.\n\nThe basic gameplay is similar. Fairburne needs to complete objectives in eight extensive levels using melee weapons, pistols, (sub)machine guns, his sniper rifle, booby traps, land mines and explosives. Direct action is possible, but not encouraged to complete levels entirely. The typical X-ray kill cam impact of sniper bullets is still present and it has been expanded to cover vehicles that can be taken apart piece by piece until they explode. The biggest difference in design is the amount of freedom. The game moves away from narrow corridors to a nonlinear approach in a more open environment with different options to progress. Exploration is encouraged to discover secondary objectives. Because of the environment there are more elements such as foliage that can be used to remain hidden. During missions Fairburne gains experience for completing objectives, the circumstances of shots and collecting secrets. Experience is used to customize the character, acquire better weapons and other improvements. It is gained through all available game modes. A loadout can be defined and additional weapons are picked up from defeated enemies.\n\nThe game's stealth system has been reworked. There is now an eye icon that shows whether the enemy can detect Fairburne. A circle meter over the heads of enemies shows their alertness. There are various statutes, for instance when they have heard a shot or discovered a body, but are unsure about the exact location of Fairburne. A noise meter shows when a silent shot is possible through sound masking, for instance due to a passing plane. The game discourages staying in the same position for too long. After a number of shots enemies will know the exact location. A ghost image then appears to show an approximate position and the player then has a limited amount of time to move to a new spot. The game's difficulty level can be altered to make sniping harder, removing types of assistance and making other elements more important, such as gravity, breathing, heart beat, wind and ballistics.\n\nRegular multiplayer games are supported as deathmatch and team deathmatch. It also has Distant King (free-for-all or in teams) where players are awarded for the cumulative distance of shots instead of the number of kills. The No Cross mode puts players each on a side of the map to focus more on sniping instead of regular combat. The cooperative Overwatch mode returns where a sniper and a spotter work together in two missions. They can also work together in a Survival mode and the entire campaign can be played cooperatively. Players earn medals and ribbons in multiplayer games.",
+      "game_id": 66826,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 99,
+          "genre_name": "Stealth"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 22,
+          "genre_name": "Shooter"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 215,
+          "genre_name": "World War II"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        }
+      ],
+      "moby_score": 3.3,
+      "moby_url": "http://www.mobygames.com/game/sniper-elite-iii-afrika",
+      "num_votes": 4,
+      "official_url": "http://www.sniperelite3.com/",
+      "platforms": [
+        {
+          "first_release_date": "2014-06-27",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2014-07-01",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        },
+        {
+          "first_release_date": "2014-07-01",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2014-07-01",
+          "platform_id": 141,
+          "platform_name": "PlayStation 4"
+        },
+        {
+          "first_release_date": "2014-07-01",
+          "platform_id": 142,
+          "platform_name": "Xbox One"
+        }
+      ],
+      "sample_cover": {
+        "height": 215,
+        "image": "http://www.mobygames.com/images/covers/l/286824-sniper-elite-iii-afrika-windows-front-cover.jpg",
+        "platforms": [
+          "Windows"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/286824-sniper-elite-iii-afrika-windows-front-cover.jpg",
+        "width": 460
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main menu",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/950916-sniper-elite-iii-afrika-windows-screenshot-main-menu.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/950916-sniper-elite-iii-afrika-windows-screenshot-main-menu.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "How to use your SMG",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/950917-sniper-elite-iii-afrika-windows-screenshot-how-to-use-your.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/950917-sniper-elite-iii-afrika-windows-screenshot-how-to-use-your.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "Focus Time",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/950918-sniper-elite-iii-afrika-windows-screenshot-focus-time.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/950918-sniper-elite-iii-afrika-windows-screenshot-focus-time.jpg",
+          "width": 1920
+        },
+        {
+          "caption": "Shoulder trauma, NBD",
+          "height": 1080,
+          "image": "http://www.mobygames.com/images/shots/l/950919-sniper-elite-iii-afrika-windows-screenshot-shoulder-trauma.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/950919-sniper-elite-iii-afrika-windows-screenshot-shoulder-trauma.jpg",
+          "width": 1920
+        }
+      ],
+      "title": "Sniper Elite III: Afrika"
+    },
+    {
+      "description": "<i>The Bluecoats: North vs South</i> is a remake of the classic North & South.\nIn this turn-based strategy game, the player takes control of the Union or the Confederacy. Move your troops in turns around a map of the USA to seize forts, harbours or railway lines. Controlling forts and railways will grant you supplies. If you attack an area where enemy troops are stationed, a tactical fight will start. Move around infantry, cavalry and artillery and win control over the area. Also included are the mini games from the original game.",
+      "game_id": 77865,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 128,
+          "genre_name": "Behind view"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 15,
+          "genre_name": "Real-Time"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 14,
+          "genre_name": "Historical Events"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 3.0,
+      "moby_url": "http://www.mobygames.com/game/bluecoats-north-vs-south",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2012-05-10",
+          "platform_id": 96,
+          "platform_name": "iPad"
+        },
+        {
+          "first_release_date": "2012-05-10",
+          "platform_id": 86,
+          "platform_name": "iPhone"
+        },
+        {
+          "first_release_date": "2013-04-08",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        },
+        {
+          "first_release_date": "2013-05-28",
+          "platform_id": 74,
+          "platform_name": "Macintosh"
+        },
+        {
+          "first_release_date": "2013-07-26",
+          "platform_id": 91,
+          "platform_name": "Android"
+        },
+        {
+          "first_release_date": "2016-09-13",
+          "platform_id": 81,
+          "platform_name": "PlayStation 3"
+        },
+        {
+          "first_release_date": "2016-09-13",
+          "platform_id": 69,
+          "platform_name": "Xbox 360"
+        }
+      ],
+      "sample_cover": {
+        "height": 800,
+        "image": "http://www.mobygames.com/images/covers/l/387863-the-bluecoats-north-vs-south-ipad-front-cover.png",
+        "platforms": [
+          "iPad"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/387863-the-bluecoats-north-vs-south-ipad-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Start screen",
+          "height": 1050,
+          "image": "http://www.mobygames.com/images/shots/l/834556-the-bluecoats-north-vs-south-windows-screenshot-start-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/834556-the-bluecoats-north-vs-south-windows-screenshot-start-screen.jpg",
+          "width": 1680
+        },
+        {
+          "caption": "Main screen",
+          "height": 1050,
+          "image": "http://www.mobygames.com/images/shots/l/834557-the-bluecoats-north-vs-south-windows-screenshot-main-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/834557-the-bluecoats-north-vs-south-windows-screenshot-main-screen.jpg",
+          "width": 1680
+        },
+        {
+          "caption": "Game options",
+          "height": 1050,
+          "image": "http://www.mobygames.com/images/shots/l/834558-the-bluecoats-north-vs-south-windows-screenshot-game-options.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/834558-the-bluecoats-north-vs-south-windows-screenshot-game-options.jpg",
+          "width": 1680
+        },
+        {
+          "caption": "Map",
+          "height": 1050,
+          "image": "http://www.mobygames.com/images/shots/l/834559-the-bluecoats-north-vs-south-windows-screenshot-map.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/834559-the-bluecoats-north-vs-south-windows-screenshot-map.jpg",
+          "width": 1680
+        }
+      ],
+      "title": "The Bluecoats: North vs South"
+    }
+  ]

@@ -1,0 +1,1614 @@
+[
+    {
+      "description": "<i>The Casebooks of Ace Harding</i> includes Game Boy ports of D\u00e9j\u00e0 Vu: A Nightmare Comes True!! (previously released on Game Boy) and D\u00e9j\u00e0 Vu II: Lost in Las Vegas. Deja Vu is a port of a 1987 game that had been made for various systems. It's a classic detective story, with you waking up to a dead body with total amnesia - you don't know who you are, or how you got there, and you don't know who the corpse is, either. D\u00e9j\u00e0 Vu II had never been released for Game Boy before, and was put in the same cart, selling for the price of one game.",
+      "game_id": 4258,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        }
+      ],
+      "moby_score": 4.1,
+      "moby_url": "http://www.mobygames.com/game/dj-vu-i-ii-the-casebooks-of-ace-harding-",
+      "num_votes": 6,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1992",
+          "platform_id": 2,
+          "platform_name": "DOS"
+        },
+        {
+          "first_release_date": "1992",
+          "platform_id": 5,
+          "platform_name": "Windows 3.x"
+        },
+        {
+          "first_release_date": "1999",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2002-10-18",
+          "platform_id": 66,
+          "platform_name": "Windows Mobile"
+        }
+      ],
+      "sample_cover": {
+        "height": 897,
+        "image": "http://www.mobygames.com/images/covers/l/8736-deja-vu-i-ii-the-casebooks-of-ace-harding-dos-front-cover.jpg",
+        "platforms": [
+          "DOS",
+          "Windows 3.x"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/8736-deja-vu-i-ii-the-casebooks-of-ace-harding-dos-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "D\u00e9j\u00e0 Vu I start",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/362442-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/362442-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Men's washroom",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/362443-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/362443-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Ace's reflection",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/362444-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/362444-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.jpg",
+          "width": 640
+        },
+        {
+          "caption": "Hallway",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/362445-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/362445-deja-vu-i-ii-the-casebooks-of-ace-harding-windows-3-x-screenshot.jpg",
+          "width": 640
+        }
+      ],
+      "title": "D\u00e9j\u00e0 Vu I & II: The Casebooks of Ace Harding "
+    },
+    {
+      "description": "Based on the hit TV cartoon show, you help SpongeBob find the Flying Dutchman's golden spatula. It also has other characters from the show including Sandy Cheeks, Squidworth, Mr. Krabs, and Patrick.",
+      "game_id": 4338,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 3.2,
+      "moby_url": "http://www.mobygames.com/game/spongebob-squarepants-legend-of-the-lost-spatula",
+      "num_votes": 13,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/461113-spongebob-squarepants-legend-of-the-lost-spatula-game-boy.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/461113-spongebob-squarepants-legend-of-the-lost-spatula-game-boy.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/461114-spongebob-squarepants-legend-of-the-lost-spatula-game-boy.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/461114-spongebob-squarepants-legend-of-the-lost-spatula-game-boy.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Start of a new game",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/461115-spongebob-squarepants-legend-of-the-lost-spatula-game-boy.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/461115-spongebob-squarepants-legend-of-the-lost-spatula-game-boy.jpg",
+          "width": 160
+        }
+      ],
+      "title": "SpongeBob Squarepants: Legend of the Lost Spatula"
+    },
+    {
+      "description": "A re-release of the classic computer adventure by ICOM, <i>Shadowgate Classic</i> casts you as an adventurer sent to explore Shadowgate Castle, recover the mystical Staff of Ages, and defeat the evil Warlock Lord.  The game uses a simplified list of adventure game actions -- LOOK, TAKE, OPEN, USE, etc.\n",
+      "game_id": 5020,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 83,
+          "genre_name": "Horror"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        }
+      ],
+      "moby_score": 4.0,
+      "moby_url": "http://www.mobygames.com/game/shadowgate-classic",
+      "num_votes": 9,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-03-31",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2001",
+          "platform_id": 66,
+          "platform_name": "Windows Mobile"
+        },
+        {
+          "first_release_date": "2004",
+          "platform_id": 65,
+          "platform_name": "Palm OS"
+        }
+      ],
+      "sample_cover": {
+        "height": 798,
+        "image": "http://www.mobygames.com/images/covers/l/8729-shadowgate-classic-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/8729-shadowgate-classic-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen (Japanese release)",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/345916-shadowgate-classic-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/345916-shadowgate-classic-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen and select language",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/345917-shadowgate-classic-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/345917-shadowgate-classic-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Choose game to start.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/345918-shadowgate-classic-game-boy-color-screenshot-choose-game-to.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/345918-shadowgate-classic-game-boy-color-screenshot-choose-game-to.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Last you remember, the wizard was waiving his hands.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/345919-shadowgate-classic-game-boy-color-screenshot-last-you-remember.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/345919-shadowgate-classic-game-boy-color-screenshot-last-you-remember.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Shadowgate Classic"
+    },
+    {
+      "description": "Zelda-like adventure in which the dragon Tabaluga goes out to protect his homeland, Greenland, from the evil snowman Arktos.\r\n\r\nLicensed title based on the popular German kids cartoon character (and musical) Tabaluga.",
+      "game_id": 5299,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 4.1,
+      "moby_url": "http://www.mobygames.com/game/tabaluga",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-05-03",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 714,
+        "image": "http://www.mobygames.com/images/covers/l/9326-tabaluga-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/9326-tabaluga-game-boy-color-front-cover.jpg",
+        "width": 727
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Publisher Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/121527-tabaluga-game-boy-color-screenshot-publisher-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/121527-tabaluga-game-boy-color-screenshot-publisher-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Developer Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/121528-tabaluga-game-boy-color-screenshot-developer-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/121528-tabaluga-game-boy-color-screenshot-developer-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/121529-tabaluga-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/121529-tabaluga-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Tabaluga getting a quest",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/121530-tabaluga-game-boy-color-screenshot-tabaluga-getting-a-quest.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/121530-tabaluga-game-boy-color-screenshot-tabaluga-getting-a-quest.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Tabaluga"
+    },
+    {
+      "description": "A small bear and a small tiger live in their house by a river, minding their own business, when one day a crate is swept ashore from a place called Panama with nothing but bananas inside - the favorite food of the two.\n\nConvinced that this Panama must be some paradise just bursting with bananas, the two set off to find it. Play the tiger, with the bear providing needful advice. In this action/adventure, the player has to overcome obstacles, solve puzzles, and outsmart evil pirates who have their own plans with those two.\n\nBased on the world created by the German children's book author Janosch, this game aims at young children.",
+      "game_id": 5319,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 12,
+          "genre_name": "Educational"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Educational Categories",
+          "genre_category_id": 5,
+          "genre_id": 46,
+          "genre_name": "Pre-school / Toddler"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 25,
+          "genre_name": "Isometric"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 4.5,
+      "moby_url": "http://www.mobygames.com/game/janosch-das-groe-panama-spiel",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 819,
+        "image": "http://www.mobygames.com/images/covers/l/49420-janosch-das-grosse-panama-spiel-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/49420-janosch-das-grosse-panama-spiel-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "The crate from Panama",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/26678-janosch-das-grosse-panama-spiel-game-boy-color-screenshot-the.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/26678-janosch-das-grosse-panama-spiel-game-boy-color-screenshot-the.gif",
+          "width": 160
+        },
+        {
+          "caption": "The text-less conversation interface ",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/26679-janosch-das-grosse-panama-spiel-game-boy-color-screenshot-the.gif",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/26679-janosch-das-grosse-panama-spiel-game-boy-color-screenshot-the.gif",
+          "width": 160
+        },
+        {
+          "caption": "Developer Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/121574-janosch-das-grosse-panama-spiel-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/121574-janosch-das-grosse-panama-spiel-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/121575-janosch-das-grosse-panama-spiel-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/121575-janosch-das-grosse-panama-spiel-game-boy-color-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Janosch: Das gro\u00dfe Panama Spiel"
+    },
+    {
+      "description": "Earthworm Jim is up against 12 levels of bad guys as he explores his bedroom. It's far from the adventures against Psy-Crow, but there are plenty of evil beings lying uner the bed that are just as dangerous.\r\n\r\nIt's an all new adventure, using similar elements to the previous 2 Earthworm Jim platform games on the SNES. Many of his zany attacks are here with a few added extras, plus the return of Professor Monkey-for-a-Head.",
+      "game_id": 6117,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 21,
+          "genre_name": "Platform"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 120,
+          "genre_name": "Comedy"
+        }
+      ],
+      "moby_score": 3.5,
+      "moby_url": "http://www.mobygames.com/game/earthworm-jim-menace-2-the-galaxy",
+      "num_votes": 7,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-12-07",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 488,
+        "image": "http://www.mobygames.com/images/covers/l/19597-earthworm-jim-menace-2-the-galaxy-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/19597-earthworm-jim-menace-2-the-galaxy-game-boy-color-front-cover.jpg",
+        "width": 484
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/115173-earthworm-jim-menace-2-the-galaxy-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/115173-earthworm-jim-menace-2-the-galaxy-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Password screen.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/115171-earthworm-jim-menace-2-the-galaxy-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/115171-earthworm-jim-menace-2-the-galaxy-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Wait a good moment to jump these fire hydrant, or else Jim will be burned for a moment... :-(",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/115172-earthworm-jim-menace-2-the-galaxy-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/115172-earthworm-jim-menace-2-the-galaxy-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Prologue stage main objective: find some delicious goodies... :-P",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/115304-earthworm-jim-menace-2-the-galaxy-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/115304-earthworm-jim-menace-2-the-galaxy-game-boy-color-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Earthworm Jim: Menace 2 the Galaxy"
+    },
+    {
+      "description": "In The Fish Files, you play as Dante, a college student in search of his kidnapped fish, Ramada. This is a traditional inventory-based, point-and-click adventure game in the style of the LucasArts classics.\r\n\r\nDante's quest will take him around the college and the town, as well as into several different time periods, in which you play as two of the other college students whose fish have also disappeared.",
+      "game_id": 8986,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        }
+      ],
+      "moby_score": 4.5,
+      "moby_url": "http://www.mobygames.com/game/fish-files",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-12",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 731,
+        "image": "http://www.mobygames.com/images/covers/l/54285-the-fish-files-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/54285-the-fish-files-game-boy-color-front-cover.jpg",
+        "width": 727
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Cleopatra being kidnapped.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/415517-the-fish-files-game-boy-color-screenshot-cleopatra-being-kidnapped.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/415517-the-fish-files-game-boy-color-screenshot-cleopatra-being-kidnapped.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Dante waking up.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/415519-the-fish-files-game-boy-color-screenshot-dante-waking-up.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/415519-the-fish-files-game-boy-color-screenshot-dante-waking-up.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Inventory",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/415520-the-fish-files-game-boy-color-screenshot-inventory.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/415520-the-fish-files-game-boy-color-screenshot-inventory.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Corridor",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/415521-the-fish-files-game-boy-color-screenshot-corridor.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/415521-the-fish-files-game-boy-color-screenshot-corridor.jpg",
+          "width": 160
+        }
+      ],
+      "title": "The Fish Files"
+    },
+    {
+      "description": "The first handheld <i>Sakura Taisen</i> game, released between the second and the third main ones, takes place in the original setting: the imperial capital in Japan of 1920s. It is the Taishou era, time of rapid technological development and acquaintance with Western lifestyle in Japan. Disguised as a group of actresses in the imperial theater, the Hanagumi Brigade consists of lovely ladies who are at the same time skilled fighters, able to pilot mechs, and to confront the forces of evil that threaten Japan. A new commander of Hanagumi arrives at the theater to work under the guidance of Ichiro Ogami, the main hero of the series. He leads the beautiful girls Sakura, Sumire, Honglan, and others into battle against demons.\n\nAs in most other games in the series, <i>Sakura Taisen GB</i> is a mixture of Japanese-style adventure with dating mechanics and tactical turn-based battles. The light RPG angle is also present, as the girls fight differently depending on how the protagonist treats them. Unlike other Sakura Taisen games, the battles here are entirely menu-driven. Also, the main plot is non-linear, and it is possible to reach fourteen different endings, which also include bad ones. The hero may even get thrown out of the theater for indecent behavior.",
+      "game_id": 15824,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 4,
+          "genre_name": "Strategy/Tactics"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 164,
+          "genre_name": "Japanese-style Adventure"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 106,
+          "genre_name": "Turn-based"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 25,
+          "genre_name": "Isometric"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/sakura-taisen-gb",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-07-28",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 928,
+        "image": "http://www.mobygames.com/images/covers/l/274280-sakura-taisen-gb-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/274280-sakura-taisen-gb-game-boy-color-front-cover.jpg",
+        "width": 738
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463380-sakura-taisen-gb-game-boy-color-screenshot-title-screen.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463380-sakura-taisen-gb-game-boy-color-screenshot-title-screen.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Sakura Taisen GB"
+    },
+    {
+      "description": "This game uses the license from the famous German TV series <i>Biene Maja</i>. Maja's best friend Willi is kidnapped by the hornets, the enemies of the bees. In this game you are playing Maja the bee and has to free Willi. In this adventure you have to solve some puzzles, finding things to get further. Inside the hornets nest you have to hide and seek to not get caught. ",
+      "game_id": 18764,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/maya-the-bee-garden-adventures",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-11-15",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 818,
+        "image": "http://www.mobygames.com/images/covers/l/49514-maya-the-bee-garden-adventures-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/49514-maya-the-bee-garden-adventures-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/463077-maya-the-bee-garden-adventures-game-boy-color-screenshot-main.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/463077-maya-the-bee-garden-adventures-game-boy-color-screenshot-main.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Maya, and her friends Willi and Flip",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/491560-maya-the-bee-garden-adventures-game-boy-color-screenshot-maya.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/491560-maya-the-bee-garden-adventures-game-boy-color-screenshot-maya.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Language selection",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/491561-maya-the-bee-garden-adventures-game-boy-color-screenshot-language.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/491561-maya-the-bee-garden-adventures-game-boy-color-screenshot-language.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Intro",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/491562-maya-the-bee-garden-adventures-game-boy-color-screenshot-intro.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/491562-maya-the-bee-garden-adventures-game-boy-color-screenshot-intro.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Maya the Bee: Garden Adventures"
+    },
+    {
+      "description": "<i>The New Addams Family Series</i> is an adventure game starring the two young Addams children. \n\nThe family mansion is going to be demolished and replaced by an amusement park, and therefore the family will be evicted. While the adults are trying to find a solution, the children roam the house helping out in their own peculiar way. Only if they find the estate ownership documents the contractors can be stopped.\n\nPugsley and Wednesday collect items, solve puzzles and communicate with the rest of the family.",
+      "game_id": 22446,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 83,
+          "genre_name": "Horror"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 4.2,
+      "moby_url": "http://www.mobygames.com/game/new-addams-family-series",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2002-02-08",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 810,
+        "image": "http://www.mobygames.com/images/covers/l/64671-the-new-addams-family-series-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/64671-the-new-addams-family-series-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "The game starts with Gomez receiving an eviction notice.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/243580-the-new-addams-family-series-game-boy-color-screenshot-the.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/243580-the-new-addams-family-series-game-boy-color-screenshot-the.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Selecting Uncle Fester to talk to.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/243576-the-new-addams-family-series-game-boy-color-screenshot-selecting.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/243576-the-new-addams-family-series-game-boy-color-screenshot-selecting.jpg",
+          "width": 160
+        },
+        {
+          "caption": "The first objective is to find oil for the guillotine blade.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/243577-the-new-addams-family-series-game-boy-color-screenshot-the.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/243577-the-new-addams-family-series-game-boy-color-screenshot-the.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Grandma gives you a bit of her potion in exchange for a Black Leaf.",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/243578-the-new-addams-family-series-game-boy-color-screenshot-grandma.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/243578-the-new-addams-family-series-game-boy-color-screenshot-grandma.jpg",
+          "width": 160
+        }
+      ],
+      "title": "The New Addams Family Series"
+    },
+    {
+      "description": "Based on the Casper film, the game pits you in the role of the friendly ghost trying to make a friend and a second chance at life instead of scaring everyone away.\n\nThe plot centers around the \"spoiled, grasping inheritor of Whipstaff Manor\" - Carrigan Crittenden.  She's after the treasure she thinks is hidden in the walls.  Casper will need the help of Dr James Harvey - therapist to the dead - if he has any hope of succeeding in his adventures.\n\nCasper will also have to deal with his uncles - Stretch, Stinkie and Fatso, who just love to scare \"Fleshies\" and thwart Casper's efforts.  The gameplay is 3d - and is mostly puzzle solving, with Casper able to take a variety of forms and manipulating objects.",
+      "game_id": 25842,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 2.5,
+      "moby_url": "http://www.mobygames.com/game/casper",
+      "num_votes": 5,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1996",
+          "platform_id": 6,
+          "platform_name": "PlayStation"
+        },
+        {
+          "first_release_date": "1996",
+          "platform_id": 35,
+          "platform_name": "3DO"
+        },
+        {
+          "first_release_date": "1996-09-30",
+          "platform_id": 23,
+          "platform_name": "SEGA Saturn"
+        },
+        {
+          "first_release_date": "2000-05",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 785,
+        "image": "http://www.mobygames.com/images/covers/l/121875-casper-playstation-front-cover.png",
+        "platforms": [
+          "PlayStation"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/121875-casper-playstation-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/504911-casper-3do-screenshot-title-screen.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/504911-casper-3do-screenshot-title-screen.jpg",
+          "width": 720
+        },
+        {
+          "caption": "Main menu",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/504910-casper-3do-screenshot-main-menu.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/504910-casper-3do-screenshot-main-menu.jpg",
+          "width": 720
+        },
+        {
+          "caption": "Well, that depends Casper. Can you play the guitar? Do your parents have money?",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/504912-casper-3do-screenshot-well-that-depends-casper-can-you-play.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/504912-casper-3do-screenshot-well-that-depends-casper-can-you-play.jpg",
+          "width": 720
+        },
+        {
+          "caption": "Wandering the mansion.",
+          "height": 480,
+          "image": "http://www.mobygames.com/images/shots/l/504913-casper-3do-screenshot-wandering-the-mansion.jpg",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/504913-casper-3do-screenshot-wandering-the-mansion.jpg",
+          "width": 720
+        }
+      ],
+      "title": "Casper"
+    },
+    {
+      "description": "Take control of Barbie, a marine biologist, as she explores an underwater world full of mini-games and activities to complete her quest and assemble the final treasure map.  Guide her through 9 different maps collecting puzzle pieces along the way by finishing various mini-games such as a pong type game, a puzzle slider, a Kaboom style cannonball catcher and more.  Interact with the various aquatic life in the maps and watch them swim around in interesting patterns.\n\nThe Windows version of the game is entirely mouse controlled, the keyboard is only required when the player signs in for the first time. In addition to the same mini games the Windows version features a camera icon which takes snapshots of barbie as she explores. These pictures are held in the game's scrapbook and can be printed out. Barbie also has some handy tools, a magnifying glass and a torch, to help her explore the ocean. Barbie talks throughout this game and a soundcard and speakers are essential.",
+      "game_id": 26093,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 17,
+          "genre_name": "Side view"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 9,
+          "genre_name": "Arcade"
+        },
+        {
+          "genre_category": "Vehicular Themes",
+          "genre_category_id": 11,
+          "genre_id": 41,
+          "genre_name": "Naval / Watercraft"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 1.9,
+      "moby_url": "http://www.mobygames.com/game/adventures-with-barbie-ocean-discovery",
+      "num_votes": 2,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1997",
+          "platform_id": 5,
+          "platform_name": "Windows 3.x"
+        },
+        {
+          "first_release_date": "1999-05-01",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        },
+        {
+          "first_release_date": "2001",
+          "platform_id": 3,
+          "platform_name": "Windows"
+        }
+      ],
+      "sample_cover": {
+        "height": 944,
+        "image": "http://www.mobygames.com/images/covers/l/300463-adventures-with-barbie-ocean-discovery-windows-3-x-front-cover.jpg",
+        "platforms": [
+          "Windows 3.x"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/300463-adventures-with-barbie-ocean-discovery-windows-3-x-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268859-adventures-with-barbie-ocean-discovery-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268859-adventures-with-barbie-ocean-discovery-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Intro",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268860-adventures-with-barbie-ocean-discovery-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268860-adventures-with-barbie-ocean-discovery-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Intro 2",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268861-adventures-with-barbie-ocean-discovery-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268861-adventures-with-barbie-ocean-discovery-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Intro 3",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/268862-adventures-with-barbie-ocean-discovery-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/268862-adventures-with-barbie-ocean-discovery-game-boy-color-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Adventures with Barbie: Ocean Discovery"
+    },
+    {
+      "description": "Scooby-Doo! Classic Creep Capers is a point-and-click adventure game in six chapters. Scooby, Shaggy, Fred, Velma and Daphne are on the trail of a jewel thief. Their investigation leads them to an old spooky house, Jekyll Mansion. Once inside, they search the rooms to gather clues to reveal the identity of the jewel thief. Gameplay consists of positioning characters close to objects in such a way that a menu at the bottom of the screen lights up. The player can then choose the correct action (examine, search, use, take) from the menu. There is also plenty of dialogue involved. To solve puzzles, the player switches between characters and uses each person's special abilities. ",
+      "game_id": 27929,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 30,
+          "genre_name": "Puzzle elements"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 3.8,
+      "moby_url": "http://www.mobygames.com/game/scooby-doo-classic-creep-capers",
+      "num_votes": 3,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-02-20",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 801,
+        "image": "http://www.mobygames.com/images/covers/l/85861-scooby-doo-classic-creep-capers-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/85861-scooby-doo-classic-creep-capers-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/461139-scooby-doo-classic-creep-capers-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/461139-scooby-doo-classic-creep-capers-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Main Menu",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/461140-scooby-doo-classic-creep-capers-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/461140-scooby-doo-classic-creep-capers-game-boy-color-screenshot.jpg",
+          "width": 160
+        },
+        {
+          "caption": "Scooby and Shaggy outside with the Mystery Machine",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/461141-scooby-doo-classic-creep-capers-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/461141-scooby-doo-classic-creep-capers-game-boy-color-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Scooby-Doo!: Classic Creep Capers"
+    },
+    {
+      "description": "<i>Love Hina Party</i> is one of several games based on a Love Hina manga, which in turn was made into anime. The basic story in Love Hina centers around a young boy, Keitaro Urashima, trying to fulfill his promise to a girl he shortly met as a child but whose name he has forgotten. Their promise was to study hard and get accepted at Tokyo University, where they could meet once again. While studying for exam, Keitaro is staying at his grandmother's hotel which seem to be inhabited by girls only. As a new manager of the hotel, he is having a plethora of ups and downs in his relationship with the girls, and one of them even turns out to be the very girl he made a promise to.\n\nThis game puts you in shoes of Keitaro himself as he resumes his duties of a hotel manager. During adventure mode, you can check certain predefined locations and speak with characters you meet, sometimes selecting your answer during conversation. Sometimes during the story, the girls in Hinata apartments will ask you quiz questions about the Love Hina anime. The action mode in the game is done via four different mini-games which, unlike the adventure mode, use 3rd-person perspective.",
+      "game_id": 65586,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 1,
+          "genre_name": "Action"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 9,
+          "genre_name": "Arcade"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/love-hina-party",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-01-26",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1024,
+        "image": "http://www.mobygames.com/images/covers/l/283294-love-hina-party-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/283294-love-hina-party-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Love Hina Party"
+    },
+    {
+      "description": "<i>Kigantou Hihou Densetsu</i> (Eng. \"The Legend of Treasure on a Strange Rock Island\") is a top-down adventure game from <i>Meitantei Conan</i> series featuring Edogawa Conan (real name is Kudou Shin'ichi) as a protagonist on a case to solve the mystery on the Kigantou island. However, Conan is not the only character you can control in the game, beside him you can control Shin'ichi's girlfriend Ran, her father, the renowned detective thanks to Conan, Kogoro, Ran's high-school girlfriend, Sonoko, and Conan's classmates Mitsuhiko, Ayumi and Genta. Based on the character you control, certain areas may be accessible or inaccessible, and certain dialogues and dispositions from other characters may vary.\n\nThe story starts with Togawa sisters, Satomi and Miki, receiving a golden statue. They lost their parents at an early age, never knowing what actually happened to them. One day, a letter came from a wealthy person living on an island somewhere in the western Japan Sea. Upon receiving this letter, they realized the golden statue belongs to the place from which the letter was sent. If this is a family heirloom, could the person who sent the letter be someone related to them? Can they know what happened to Satomi and Miki's parents? As Conan and the others opened the Togawa sisters' request, they decided to help uncover the mystery behind their lineage and golden statue and set off on a trip to the solitary island in question where ships travel to only twice a week. As they arrive on the island of strange shape, the notice the residents of an island village appear a bit weird, and there seem to be history behind the wealthy island family. And to top it all, the murder in front of the wealthy looking western-style estate occurred just in front on them and the murderer ran away from the scene of the crime. It's Conan's task to solve all the mysteries and catch the killer, for by his own words, the truth is always only one.",
+      "game_id": 70886,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/meitantei-conan-kigantou-hih-densetsu",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-03-31",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1029,
+        "image": "http://www.mobygames.com/images/covers/l/299101-meitantei-conan-kigantou-hiho-densetsu-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/299101-meitantei-conan-kigantou-hiho-densetsu-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Meitantei Conan: Kigantou Hih\u014d Densetsu"
+    },
+    {
+      "description": "<i>Karakuri Jiin Satsujinjiken</i> (\u304b\u3089\u304f\u308a\u5bfa\u9662\u6bba\u4eba\u4e8b\u4ef6) is the first Detective Conan mystery adventure game released for Game Boy Color. During the holidays, Conan and Ran decide to meet at a certain cafe. While there, Ran runs into her classmate Miki by chance, who is part-time working at that very cafe. In turn, Miki calls them to come to her place where she tells them about her worrying about her sister Satomi. Apparently she said she's going on a trip as she was heading out, but she never called or told Miki where she went. She is a rather methodical person, which makes her behavior suspiciously strange, and Miki asks Ran and Conan to help her find her sister. Also, before she went out, she was acting strange according to Miki. After listening in more detail and agreeing to help Miki look for Satomi, Conan and Ran head to Satomi's room to look for clues about her whereabouts. There they find out what was a direction to a secluded old temple and with that as their only lead to go on, they set out to find Satomi.\n\nExploring locations is done in top-down perspective which also allows you to switch between characters, thus not controlling Conan alone. The map system shows you your current location. Message system is used for dialogues with other characters which uses typical first person view displaying the talking character and the text below the character image. On your investigation while searching for clues and talking to other characters, you will obtain keywords which lets you think the case through and after collecting the necessary keywords, you can start the reasoning process. Conan also keeps track on characters he meets, and you can access character profiles from the in-game menu, the same way you access keywords or map system.",
+      "game_id": 71703,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 126,
+          "genre_name": "3rd-person (Other)"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 13,
+          "genre_name": "Top-down"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/meitantei-conan-karakuri-jiin-satsujin-jiken",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-02-25",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1010,
+        "image": "http://www.mobygames.com/images/covers/l/348184-meitantei-conan-karakuri-jiin-satsujin-jiken-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/348184-meitantei-conan-karakuri-jiin-satsujin-jiken-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Meitantei Conan: Karakuri Jiin Satsujin Jiken"
+    },
+    {
+      "description": "<i>10-nenme no Shoutaijou</i> (10\u5e74\u76ee\u306e\u62db\u5f85\u72b6) is the mystery adventure game from <i>Kindaichi Shounen no Jikenbo</i> (\u91d1\u7530\u4e00\u5c11\u5e74\u306e\u4e8b\u4ef6\u7c3f) series based on manga series, which in turn also spanned the TV series. The series are centered around a high-school student, Hajime Kindaichi, who has the knack for solving crimes, much like Shinichi Kudou, better known as Conan Edogawa from <i>Meitantei Conan</i> series. The game is presented in a visual novel style with typical commands for reading through the on screen text and going though the message log. The investigation screen is done in a form of top-down map where you can investigate different locations and look for clues.\n\nAkira Kawai, a first-year student of a Fudou high-school received a mysterious letter with ominous sketch and the text saying \"I'll be waiting at the Shiomisou inn.\", sender or reason for sending this letter is unknown. Upon reading this himself, Hajime Kindaichi, along with Miyuki Nanase decided to check if there's more to the meaning of the letter or if it's nothing but a prank of a sort. Upon arriving at the Shiomisou inn, which was in a rather secluded and silent place surrounded by mountain on one side, and a sea on the other, he noticed there are only three more guests besides them. Could one of them be the sender of this letter? The night came swiftly and the weather turned gloomy. There and then, Hajime runs into Kengo Akechi, a detective investigating a report of a supposed seeing of a killer in the area from a 10-year old case. With approaching storm, the scream echoes through the hallway and first in the series of murders engulfs this hotel in an aura of tension. Kindaichi and Akechi are now more than ever determined to get to the bottom of this and catch the murderer behind this.",
+      "game_id": 71882,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/kindaichi-shnen-no-jikenbo-10-nenme-no-shtaij",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2000-12-16",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1007,
+        "image": "http://www.mobygames.com/images/covers/l/301923-kindaichi-shonen-no-jikenbo-10-nenme-no-shotaijo-game-boy-color-front-cover.jpg",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/301923-kindaichi-shonen-no-jikenbo-10-nenme-no-shotaijo-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [],
+      "title": "Kindaichi Sh\u014dnen no Jikenbo: 10-nenme no Sh\u014dtaij\u014d"
+    },
+    {
+      "description": "<i>Meitantei Conan: Norowareta Kouro</i> (\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u546a\u308f\u308c\u305f\u822a\u8def) is a murder mystery adventure game based on <i>Detective Conan</i> manga and anime. Once again, Kudou Shinichi, a teenager with a great deduction skills who got shrank to a body of a 5-year old and now goes by the name of Conan Edogawa, finds himself in the middle of a mystery as boards the cruise liner as one of a participants on a mystery trip.\n\nThe game uses bird's eye camera while Conan is moving and investigating areas of interest, and switches to first-person visual novel style gameplay during dialogues or sometimes just uses dialogue window with character portraits over the gameplay scene. As in earlier games in the series, Conan obtains keywords that will help him in his investigation through people's testimonies and item clues.",
+      "game_id": 101325,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 129,
+          "genre_name": "Bird's-eye view"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 164,
+          "genre_name": "Japanese-style Adventure"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 168,
+          "genre_name": "Direct Control"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 55,
+          "genre_name": "Detective / Mystery"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 133,
+          "genre_name": "Fixed / Flip-screen"
+        },
+        {
+          "genre_category": "Visual Presentation",
+          "genre_category_id": 12,
+          "genre_id": 131,
+          "genre_name": "2D scrolling"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/meitantei-conan-norowareta-kro",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "2001-06-01",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": null,
+      "sample_screenshots": [
+        {
+          "caption": "Title screen",
+          "height": 144,
+          "image": "http://www.mobygames.com/images/shots/l/921854-meitantei-conan-norowareta-koro-game-boy-color-screenshot.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/921854-meitantei-conan-norowareta-koro-game-boy-color-screenshot.jpg",
+          "width": 160
+        }
+      ],
+      "title": "Meitantei Conan: Norowareta K\u014dro"
+    },
+    {
+      "description": "Based on the popular NHK anime & manga created by CLAMP, <i>Itsumo Sakura-chan to Issho</i> (Always with Sakura-chan) is a game which makes use of a real-time clock feature to provide variations in gameplay based on the time of day. The player is tasked with utilizing the clock feature to help Sakura locate the Clow Cards, from the perspective of her guide, Cerberus. The player explores various rooms at various times of day in order to find the cards, while also partaking in Sakura's time at school.\n\nPlayers can utilize a Game Boy Printer to print out themed stickers, including various characters, icons, and whatever text the player enters. Various mini-games are also available.",
+      "game_id": 119869,
+      "genres": [
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 3,
+          "genre_name": "Simulation"
+        },
+        {
+          "genre_category": "Basic Genres",
+          "genre_category_id": 1,
+          "genre_id": 2,
+          "genre_name": "Adventure"
+        },
+        {
+          "genre_category": "Perspective",
+          "genre_category_id": 2,
+          "genre_id": 7,
+          "genre_name": "1st-person"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 164,
+          "genre_name": "Japanese-style Adventure"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 140,
+          "genre_name": "Mini-Games"
+        },
+        {
+          "genre_category": "Gameplay",
+          "genre_category_id": 4,
+          "genre_id": 139,
+          "genre_name": "Life / Social Simulation"
+        },
+        {
+          "genre_category": "Interface/Control",
+          "genre_category_id": 7,
+          "genre_id": 167,
+          "genre_name": "Point and Select"
+        },
+        {
+          "genre_category": "Narrative Theme/Topic",
+          "genre_category_id": 8,
+          "genre_id": 120,
+          "genre_name": "Comedy"
+        },
+        {
+          "genre_category": "Pacing",
+          "genre_category_id": 9,
+          "genre_id": 69,
+          "genre_name": "Meditative / Zen"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 200,
+          "genre_name": "Contemporary"
+        },
+        {
+          "genre_category": "Setting",
+          "genre_category_id": 10,
+          "genre_id": 78,
+          "genre_name": "Fantasy"
+        },
+        {
+          "genre_category": "Art Style",
+          "genre_category_id": 13,
+          "genre_id": 57,
+          "genre_name": "Anime / Manga"
+        },
+        {
+          "genre_category": "Other Attributes",
+          "genre_category_id": 6,
+          "genre_id": 82,
+          "genre_name": "Licensed"
+        }
+      ],
+      "moby_score": 0.0,
+      "moby_url": "http://www.mobygames.com/game/cardcaptor-sakura-itsumo-sakura-chan-to-issho",
+      "num_votes": 0,
+      "official_url": null,
+      "platforms": [
+        {
+          "first_release_date": "1999-05-15",
+          "platform_id": 11,
+          "platform_name": "Game Boy Color"
+        }
+      ],
+      "sample_cover": {
+        "height": 1020,
+        "image": "http://www.mobygames.com/images/covers/l/531318-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color-front-cover.png",
+        "platforms": [
+          "Game Boy Color"
+        ],
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/531318-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color-front-cover.jpg",
+        "width": 800
+      },
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.",
+          "height": 432,
+          "image": "http://www.mobygames.com/images/shots/l/956045-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/956045-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.jpg",
+          "width": 480
+        },
+        {
+          "caption": "SAY KIDS WHAT TIME IS IT?",
+          "height": 432,
+          "image": "http://www.mobygames.com/images/shots/l/956051-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/956051-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.jpg",
+          "width": 480
+        },
+        {
+          "caption": "CERBERUS used OSAKA ACCENT! It's super effective! SAKURA is confused!",
+          "height": 432,
+          "image": "http://www.mobygames.com/images/shots/l/956047-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/956047-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.jpg",
+          "width": 480
+        },
+        {
+          "caption": "Sweet dreams.",
+          "height": 432,
+          "image": "http://www.mobygames.com/images/shots/l/956048-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.png",
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/956048-cardcaptor-sakura-itsumo-sakura-chan-to-issho-game-boy-color.jpg",
+          "width": 480
+        }
+      ],
+      "title": "Cardcaptor Sakura: Itsumo Sakura-chan to Issho"
+    }
+  ]
