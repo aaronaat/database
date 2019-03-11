@@ -21,9 +21,11 @@
         <div class="container">
           <h3 align="center">Import JSON File Data into Mysql Database in PHP</h3><br />
           <?php
+
+          $filename = htmlspecialchars($_GET["file"]);
+
           $connect = mysqli_connect("localhost", "root", "root", "test"); //Connect PHP to MySQL Database
           $query = '';
-          $filename = "gametest.json";
           $data = file_get_contents($filename); //Read the JSON file in PHP
           $array = json_decode($data, true); //Convert JSON String into PHP Array
           foreach($array as $row) //Extract the Array Values by using Foreach Loop
